@@ -1,0 +1,110 @@
+{
+  "_from": "nativescript-plugin-firebase",
+  "_id": "nativescript-plugin-firebase@4.1.1",
+  "_inBundle": false,
+  "_integrity": "sha1-HSXLWVpz1QC/p3jquQyl9kMBN/U=",
+  "_location": "/nativescript-plugin-firebase",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-plugin-firebase",
+    "name": "nativescript-plugin-firebase",
+    "escapedName": "nativescript-plugin-firebase",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-plugin-firebase/-/nativescript-plugin-firebase-4.1.1.tgz",
+  "_shasum": "1d25cb595a73d500bfa778eab90ca5f6430137f5",
+  "_spec": "nativescript-plugin-firebase",
+  "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
+  "author": {
+    "name": "Telerik / Eddy Verbruggen",
+    "email": "eddyverbruggen@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/eddyverbruggen/nativescript-plugin-firebase/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "fs-extra": "~2.1.0",
+    "fs-promise": "~2.0.0",
+    "nativescript-hook": "~0.2.0",
+    "prompt-lite": "~0.1.0",
+    "xcode": "~0.9.0"
+  },
+  "deprecated": false,
+  "description": "Fire. Base. Firebase!",
+  "devDependencies": {
+    "prompt-lite": "~0.1.0",
+    "tns-core-modules": "2.5.0",
+    "webpack": "~2.2.0",
+    "xcode": "~0.9.0"
+  },
+  "homepage": "https://github.com/eddyverbruggen/nativescript-plugin-firebase",
+  "keywords": [
+    "NativeScript",
+    "Firebase",
+    "Database",
+    "Authentication",
+    "Push Notifications",
+    "Notifications",
+    "Messaging",
+    "Remote Configuration",
+    "Storage",
+    "Crash Reporting",
+    "Analytics",
+    "Facebook",
+    "Google",
+    "AdMob",
+    "Invites",
+    "Dynamic Links"
+  ],
+  "license": "MIT",
+  "main": "firebase",
+  "name": "nativescript-plugin-firebase",
+  "nativescript": {
+    "platforms": {
+      "android": "2.3.0",
+      "ios": "2.3.0"
+    },
+    "plugin": {
+      "nan": "true",
+      "pan": "true",
+      "core3": "true",
+      "category": "Processing"
+    },
+    "hooks": [
+      {
+        "type": "before-prepare",
+        "script": "scripts/entitlements-before-prepare.js",
+        "inject": true
+      },
+      {
+        "type": "after-prepare",
+        "script": "scripts/entitlements-after-prepare.js",
+        "inject": true
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddyverbruggen/nativescript-plugin-firebase.git"
+  },
+  "scripts": {
+    "bundle-installer": "npm install --ignore-scripts && webpack --config scripts/webpack.config.js scripts/installer.js scripts/postinstall.js",
+    "config": "node scripts/postinstall.js config",
+    "postinstall": "node postinstall-hooks.js && node scripts/postinstall.js",
+    "prepublish": "npm run bundle-installer",
+    "preuninstall": "node preuninstall-hooks.js",
+    "setup": "node scripts/postinstall.js setup",
+    "test": "echo 'TODO implement tests :)'"
+  },
+  "typings": "index.d.ts",
+  "version": "4.1.1"
+}

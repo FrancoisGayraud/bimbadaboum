@@ -6,10 +6,16 @@ purpose of the file is to pass control to the app’s first module.
 
 require("./bundle-config");
 var application = require("application");
+var firebase = require("nativescript-plugin-firebase");
 
-application.start({ moduleName: "home/home-page" });
+firebase.init({
+}).then(
+    function (instance) {
+	console.log("firebase.init done");
+    },
+    function (error) {
+	console.log("firebase.init error: " + error);
+    }
+);
 
-/*
-Do not place any code after the application has been started as it will not
-be executed on iOS.
-*/
+application.start({ moduleName: "views/login/login" });

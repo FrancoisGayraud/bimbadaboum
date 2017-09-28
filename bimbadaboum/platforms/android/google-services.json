@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "418925955052",
+    "firebase_url": "https://bimbadaboum-2e847.firebaseio.com",
+    "project_id": "bimbadaboum-2e847",
+    "storage_bucket": "bimbadaboum-2e847.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418925955052:android:c15d3e482f18354f",
+        "android_client_info": {
+          "package_name": "org.nativescript.bimbadaboum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418925955052-5q6lpq58iraqtrccpehh2364jtce0hid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGoYoJkYmF6Y6_ESvcCCcMj_0H_ojr4wI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

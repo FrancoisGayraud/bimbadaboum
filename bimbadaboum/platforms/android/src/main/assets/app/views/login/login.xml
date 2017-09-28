@@ -1,0 +1,12 @@
+<Page loaded="loaded" actionBarHidden="true">
+  <StackLayout orientation="vertical">
+  	<label text="BIMBADABOUM" class="mainTitle oldFashion"></label>
+  	<label text="Connexion" class="connexionText oldFashion"></label>
+  	<label text="Votre Mail" class="hint"></label>
+    <TextField class="inputArea" style="border-color: red;" id="email" text="{{ email }}" hint="Mail" keyboardType="email" autocorrect="false" autocapitalizationType="none"/>
+	<label text="Votre mot de passe" class="hint"></label>
+    <TextField class="inputArea" secure="true" text="{{ password }}" hint="Mot de passe" />
+    <Button class="connexionButton" text="CONNEXION" tap="signIn"/>
+    <Button text="Pas encore inscrit?" class="link signUp" tap="register"/>
+  </StackLayout>
+</Page>
