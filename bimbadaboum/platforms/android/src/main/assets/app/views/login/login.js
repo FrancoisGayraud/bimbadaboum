@@ -18,7 +18,7 @@ exports.loaded = function(args) {
 
 exports.signIn = function() {
     user.login()
-    frameModule.topmost().navigate("views/list/list");
+    frameModule.topmost().navigate("views/login/login");
 };
 
 exports.register = function() {

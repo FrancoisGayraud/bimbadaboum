@@ -33,12 +33,10 @@ function User(info) {
 	    }
 	}).then(
 	    function (result) {
-		JSON.stringify(resulte);
-		return result;
+		JSON.stringify(result);
 	    },
 	    function (errorMessage) {
 		console.log(errorMessage);
-		return errorMessage;
 	    }
 	);
     };

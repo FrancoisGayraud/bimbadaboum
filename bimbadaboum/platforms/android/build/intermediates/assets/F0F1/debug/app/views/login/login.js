@@ -1,10 +1,11 @@
 var UserViewModel = require("../../shared/view-models/user-view-model");
 var dialogsModule = require("ui/dialogs");
 var user = new UserViewModel({
-    email : "lol@lol.com",
-    password : "lollol",
+    email : "name@domain.com",
+    password : "password",
 });
 
+var Border = require ("tns-core-modules/ui/border");
 var frameModule = require("ui/frame");
 var page;
 var email;
