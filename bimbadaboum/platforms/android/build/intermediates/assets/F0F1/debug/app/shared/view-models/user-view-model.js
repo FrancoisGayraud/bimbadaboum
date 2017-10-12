@@ -20,27 +20,23 @@ function User(info) {
 	    },
 	    function (error) {
 		console.log("firebase.init error: " + error);
-	    }
-	);
+	    });
     };
 
     viewModel.login = function() {
 	firebase.login({
 	    type: firebase.LoginType.PASSWORD,
 	    passwordOptions: {
-		email: 'email',
-		password: 'password'
+		email: viewModel.get("email"),
+		password: viewModel.get("password")
 	    }
 	}).then(
 	    function (result) {
-		JSON.stringify(resulte);
-		return result;
+		JSON.stringify(result);
 	    },
 	    function (errorMessage) {
-		console.log(errorMessage);
-		return errorMessage;
-	    }
-	);
+	    	console.log(errorMessage);
+	    });
     };
 
     viewModel.register = function() {
@@ -51,9 +47,9 @@ function User(info) {
 	    function (response) {
 		console.log(response);
 		return response;
-	    }
-	);
-    };
+	    });
+	};
+
     viewModel.isValidEmail = function() {
 	var email = this.get("email");
 	return validator.validate(email);

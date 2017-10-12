@@ -1,3 +1,3 @@
 module.exports = {
-    apiUrl: "https://groceries-74119.firebaseio.com/"
+    apiUrl: "https://bimbadaboum-2e847.firebaseio.com/"
 };

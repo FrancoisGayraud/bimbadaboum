@@ -1,0 +1,66 @@
+{
+  "_from": "email-verify",
+  "_id": "email-verify@0.1.1",
+  "_inBundle": false,
+  "_integrity": "sha1-KsLC9Lrx/fTiGzn+R/MXkcXm4pg=",
+  "_location": "/email-verify",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "email-verify",
+    "name": "email-verify",
+    "escapedName": "email-verify",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/email-verify/-/email-verify-0.1.1.tgz",
+  "_shasum": "2ac2c2f4baf1fdf4e21b39fe47f31791c5e6e298",
+  "_spec": "email-verify",
+  "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
+  "author": {
+    "name": "Robert Oaks",
+    "email": "rob@below.io",
+    "url": "http://below.io/"
+  },
+  "bin": {
+    "email-verify": "./app.js"
+  },
+  "bugs": {
+    "url": "https://github.com/bighappyworld/email-verify/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bluebird": "latest",
+    "email-validator": "1.0.1"
+  },
+  "deprecated": false,
+  "description": "A tool to verify an email address exits via SMTP",
+  "devDependencies": {
+    "mocha": "1.21.5"
+  },
+  "homepage": "https://github.com/bighappyworld/email-verify#readme",
+  "keywords": [
+    "email",
+    "smtp",
+    "verify",
+    "validate"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "email-verify",
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bighappyworld/email-verify.git"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "version": "0.1.1"
+}

@@ -52,12 +52,12 @@
         "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
-        "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
-        "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
         "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
@@ -172,12 +172,12 @@
         "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
-        "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
-        "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-hdpi-v4/notification_bg_normal.9.png"
-    },
-    {
         "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
         "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",

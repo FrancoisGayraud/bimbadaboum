@@ -1,10 +1,10 @@
 <Page loaded="loaded" actionBarHidden="true">
     <StackLayout>
-        <Image src="res://logo" stretch="none" horizontalAlignment="center"/>
-
-        <TextField text="{{ email }}" id="email" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
-        <TextField text="{{ password }}" secure="true" hint="Password" />
-
-        <Button text="Sign Up" tap="register" />
+    	<label text="Inscription" class="inscriptionText oldFashion"></label>
+    	<label text="Votre Mail" class="hint"></label>
+        <TextField text="{{ email }}" class="inputArea" id="email" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+        <label text="Votre mot de passe" class="hint"></label>
+        <TextField text="{{ password }}" class="inputArea" secure="true" hint="Password" />
+        <Button text="S'INSCRIRE" class="connexionButton" tap="register" />
     </StackLayout>
 </Page>

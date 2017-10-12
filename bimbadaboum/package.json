@@ -1,26 +1,44 @@
 {
-	"description": "NativeScript Application",
-	"license": "SEE LICENSE IN <your-license-filename>",
-	"readme": "NativeScript Application",
-	"repository": "<fill-your-repository-here>",
-	"nativescript": {
-		"id": "org.nativescript.bimbadaboum",
-		"tns-android": {
-			"version": "3.2.0"
-		}
-	},
-	"dependencies": {
-		"email-validator": "^1.1.1",
-		"loki-nativescript-adapter": "^1.0.3",
-		"lokijs": "^1.5.0",
-		"nativescript-plugin-firebase": "^4.1.1",
-		"nativescript-theme-core": "1.0.4",
-		"tns-core-modules": "3.2.0"
-	},
-	"devDependencies": {
-		"babel-traverse": "6.26.0",
-		"babel-types": "6.26.0",
-		"babylon": "6.18.0",
-		"lazy": "1.0.11"
-	}
+  "description": "NativeScript Application",
+  "license": "SEE LICENSE IN <your-license-filename>",
+  "repository": {
+    "type": "git",
+    "url": "<fill-your-repository-here>"
+  },
+  "nativescript": {
+    "id": "org.nativescript.bimbadaboum",
+    "tns-android": {
+      "version": "3.2.0"
+    }
+  },
+  "dependencies": {
+    "dns": "^0.2.2",
+    "email-check": "^1.1.0",
+    "email-existence": "^0.1.5",
+    "email-validator": "^1.1.1",
+    "email-verify": "^0.1.1",
+    "events": "^1.1.1",
+    "firebase": "^4.5.0",
+    "loki-nativescript-adapter": "^1.0.3",
+    "lokijs": "^1.5.0",
+    "nativescript-plugin-firebase": "^4.1.1",
+    "nativescript-theme-core": "1.0.4",
+    "stream": "0.0.2",
+    "tns-core-modules": "3.2.0",
+    "util": "^0.10.3",
+    "websocket-driver": "^0.7.0"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.26.0",
+    "babel-types": "6.26.0",
+    "babylon": "6.18.0",
+    "lazy": "1.0.11"
+  },
+  "name": "firebase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
 }

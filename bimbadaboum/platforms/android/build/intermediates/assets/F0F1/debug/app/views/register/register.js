@@ -11,15 +11,17 @@ exports.loaded = function(args) {
 exports.register = function() {
     user.register()
         .then(function() {
-	    dialogsModule
-	        .alert("Your account was successfully created.")
+	    dialogsModule.alert({
+	    	message: "Votre compte a bien été enregistré.",
+	    	okButtonText: "ok"
+	    })
 	        .then(function() {
 		    frameModule.topmost().navigate("views/login/login");
 		});
 	}).catch(function(error) {
 	    dialogsModule.alert({
-		message: error,
-		okButtonText: "OK"
+		message: "Vos informations sont incorrectes." + error,
+		okButtonText: "ok"
 	    });
 	});
 }

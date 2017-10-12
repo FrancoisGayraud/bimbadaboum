@@ -166,5 +166,6 @@
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/scripts/winston-mock.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/scripts/webpack.config.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/scripts/entitlements-before-prepare.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/views/home/home.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/views/register/register.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/views/login/login.js
