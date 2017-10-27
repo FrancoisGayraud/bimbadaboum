@@ -1,5 +1,7 @@
 <Page loaded="loaded" actionBarHidden="true">
     <StackLayout>
     	<label text="lel"></label>
+    	<label text="lul"></label>
+    	<Button text="DECONNECTION" class="link signUp" tap="logout"/>
     </StackLayout>
 </Page>

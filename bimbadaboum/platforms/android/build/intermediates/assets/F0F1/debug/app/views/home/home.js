@@ -1,11 +1,12 @@
-var firebase = require('firebase');
+var firebase = require("nativescript-plugin-firebase");
 
 exports.loaded = function (args) {
-	firebase.auth().onAuthStateChanged(function(user) {
-	  if (user) {
-		alert(user.email);
-	  } else {
-    // No user is signed in.
-  		}
-	});
+	  firebase.getCurrentUser().then(
+    function (result) {
+     	alert(JSON.stringify(result));
+    },
+    function (errorMessage) {
+      console.log(errorMessage);
+    }
+  );
 }

@@ -1,10 +1,7 @@
 var UserViewModel = require("../../shared/view-models/user-view-model");
 var dialogsModule = require("ui/dialogs");
-var user = new UserViewModel({
-    email : "epitech@epitech.eu",
-    password : "epitech",
-});
-
+var firebase = require("nativescript-plugin-firebase");
+var user = new UserViewModel();
 var frameModule = require("ui/frame");
 var page;
 var email;
@@ -16,8 +13,7 @@ exports.loaded = function(args) {
 };
 
 exports.signIn = function() {
-    user.login()
-    frameModule.topmost().navigate("views/home/home");
+	user.login();
 };
 
 exports.register = function() {

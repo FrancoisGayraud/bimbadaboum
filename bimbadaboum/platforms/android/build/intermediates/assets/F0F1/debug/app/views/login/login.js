@@ -1,10 +1,5 @@
 var UserViewModel = require("../../shared/view-models/user-view-model");
 var dialogsModule = require("ui/dialogs");
-var user = new UserViewModel({
-    email : "epitech@epitech.eu",
-    password : "epitech",
-});
-
 var frameModule = require("ui/frame");
 var page;
 var email;
