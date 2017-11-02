@@ -28,18 +28,18 @@ exports.submitFirstName = function() {
 	firebase.getCurrentUser().then(
 		function (result) {
 			userMail = result.email;
-			console.log("ici : " + userMail);
 		},
 		function (errorMessage) {
 			console.log(errorMessage);
 		}).then(function () {
 		 var onQueryEvent = function(result) {
 		        if (!result.error) {
-		        	//recup ici l'id "-KxxQYJefMwcYKvNUz2a", qui est dans result.value
-		      	  console.log(JSON.stringify(result.value));
+					var keyNames = Object.keys(result.value);
+					console.log("key : " + keyNames[0]);
+					userId = keyNames[0];
 		      	}
 		    };
-			userId = firebase.query(
+			  firebase.query(
 				onQueryEvent,
 	        	"/users",
     	    		{
@@ -52,16 +52,17 @@ exports.submitFirstName = function() {
 	           			type: firebase.QueryRangeType.EQUAL_TO,
 	           			value: userMail
 	        		},
+	    			}).then(function (){
+							firebase.update(
+						      '/users/' + userId,
+						      {'firstName': first.text}
+							);
+	    				
 	    			})
 		});
 
-	console.log("userId" + userId);
 
 	console.log(first.text);
-	 firebase.update(
-      '/users/-KxxQYJefMwcYKvNUz2a',
-      {'firstName': first.text}
-  );
 }
 
 exports.queryThing = function() {
