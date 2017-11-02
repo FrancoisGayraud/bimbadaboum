@@ -1,4 +1,4 @@
-#Fri Oct 20 14:39:23 CEST 2017
+#Fri Oct 27 19:03:05 CEST 2017
 base.0=/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/transforms/dex/F0F1/debug/folders/1000/1f/main
 renamed.0=classes.dex
 file.0=/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/transforms/dex/F0F1/debug/folders/1000/1f/main/classes.dex

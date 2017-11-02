@@ -2,6 +2,8 @@ var validator = require("email-validator");
 var config = require("../../shared/config");
 var observableModule = require("data/observable");
 var firebase = require("nativescript-plugin-firebase");
+var frameModule = require("ui/frame");
+var dialogsModule = require("ui/dialogs");
 
 function User(info) {
     info = info || {};
@@ -13,7 +15,14 @@ function User(info) {
 
     viewModel.init = function(){
 	firebase.init({
-	    url: config.apiUrl
+	    url: config.apiUrl,
+	    onAuthStateChanged: function(data) { // optional but useful to immediately re-logon the user when he re-visits your app
+     		console.log(data.loggedIn ? "Logged in to firebase" : "Logged out from firebase");
+      	if (data.loggedIn) {
+      		frameModule.topmost().navigate("views/home/home");
+        	console.log("user's email address: " + (data.user.email ? data.user.email : "N/A"));
+      	}
+   	 }
 	}).then(
 	    function (instance) {
 		console.log("firebase.init done");
@@ -24,7 +33,7 @@ function User(info) {
     };
 
     viewModel.login = function() {
-	firebase.login({
+	return firebase.login({
 	    type: firebase.LoginType.PASSWORD,
 	    passwordOptions: {
 		email: viewModel.get("email"),
@@ -32,10 +41,16 @@ function User(info) {
 	    }
 	}).then(
 	    function (result) {
-		JSON.stringify(result);
+			JSON.stringify(result);
+			console.log("login successful");
+		
 	    },
 	    function (errorMessage) {
-	    	console.log(errorMessage);
+	    	console.log("error in login()");
+	    	dialogsModule.alert({
+			message: "Vos informations sont incorrectes. ",
+			okButtonText: "ok"
+	    	});
 	    });
     };
 
@@ -49,6 +64,11 @@ function User(info) {
 		return response;
 	    });
 	};
+
+	viewModel.logout = function() {
+		firebase.logout();
+		frameModule.topmost().navigate("views/login/login");
+	}
 
     viewModel.isValidEmail = function() {
 	var email = this.get("email");

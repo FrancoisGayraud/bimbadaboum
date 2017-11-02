@@ -20,8 +20,8 @@ exports.register = function() {
 		});
 	}).catch(function(error) {
 	    dialogsModule.alert({
-		message: "Vos informations sont incorrectes." + error,
-		okButtonText: "ok"
+			message: "Vos informations sont incorrectes. ",
+			okButtonText: "ok"
 	    });
 	});
 }

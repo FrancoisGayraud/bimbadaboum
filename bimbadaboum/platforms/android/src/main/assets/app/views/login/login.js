@@ -7,9 +7,17 @@ var page;
 var email;
 
 exports.loaded = function(args) {
+    firebase.getCurrentUser().then(
+    function (result) {
+      console.log("je me connecte car je suis deja log");
+      frameModule.topmost().navigate("views/home/home");
+    },
+    function (errorMessage) {
     page = args.object;
     page.bindingContext = user;
     user.init();
+    }
+  );
 };
 
 exports.signIn = function() {

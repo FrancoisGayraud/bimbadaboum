@@ -3,6 +3,7 @@ var config = require("../../shared/config");
 var observableModule = require("data/observable");
 var firebase = require("nativescript-plugin-firebase");
 var frameModule = require("ui/frame");
+var dialogsModule = require("ui/dialogs");
 
 function User(info) {
     info = info || {};
@@ -46,6 +47,10 @@ function User(info) {
 	    },
 	    function (errorMessage) {
 	    	console.log("error in login()");
+	    	dialogsModule.alert({
+			message: "Vos informations sont incorrectes. ",
+			okButtonText: "ok"
+	    	});
 	    });
     };
 
