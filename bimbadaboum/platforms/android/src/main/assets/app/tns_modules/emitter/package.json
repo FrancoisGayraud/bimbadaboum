@@ -1,19 +1,19 @@
 {
-  "_from": "emitter",
+  "_from": "emitter@0.0.5",
   "_id": "emitter@0.0.5",
   "_inBundle": false,
   "_integrity": "sha1-NVH4K5iPceD7aOq7TgY2OQumq1I=",
   "_location": "/emitter",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "emitter",
+    "raw": "emitter@0.0.5",
     "name": "emitter",
     "escapedName": "emitter",
-    "rawSpec": "",
+    "rawSpec": "0.0.5",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "0.0.5"
   },
   "_requiredBy": [
     "#USER",
@@ -21,7 +21,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/emitter/-/emitter-0.0.5.tgz",
   "_shasum": "3551f82b988f71e0fb68eabb4e0636390ba6ab52",
-  "_spec": "emitter",
+  "_spec": "emitter@0.0.5",
   "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
   "author": {
     "name": "Will Wen Gunn",

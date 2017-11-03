@@ -174,21 +174,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.1"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-26.0.0-alpha1_2bc8b3d57495b362fea75f6e0dae3bba97dc2b1e.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
         <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-26.0.0-alpha1_4a30773b8b0ff883873540e7e5c0766b0cc561e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-26.0.0-alpha1_2bc8b3d57495b362fea75f6e0dae3bba97dc2b1e.jar" />
     </item>
     <item
         is-multidex="false"

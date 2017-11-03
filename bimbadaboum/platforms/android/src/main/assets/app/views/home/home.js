@@ -1,11 +1,13 @@
 var UserViewModel = require("../../shared/view-models/user-view-model");
 var firebase = require("nativescript-plugin-firebase");
+var frameModule = require("ui/frame");
 var user = new UserViewModel();
 var view = require("ui/core/view");
 var page;
 
 exports.loaded = function (args) {
 	page = args.object;	
+
 	firebase.getCurrentUser().then(
     function (result) {
     	page.bindingContext = { name: result.email };
@@ -20,8 +22,11 @@ exports.logout = function () {
 	user.logout();
 }
 
-exports.submitFirstName = function() {
-	//	console.log("mail get = " + userMail);
+exports.goToProfil = function () {
+	frameModule.topmost().navigate("views/profil/profil");
+}
+
+exports.submitFirstName = function () {
 	var first = view.getViewById(page, "first");
 	var userId;
 	var userMail;

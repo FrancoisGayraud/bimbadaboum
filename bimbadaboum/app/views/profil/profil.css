@@ -1,0 +1,41 @@
+.Button {
+	color: black;
+	border-color: #bf0d31;
+	font-size:12;
+	background-color: white;
+	border-width: 5px;
+	width: 200vh;
+}
+
+.inputArea {
+	width: 300vh;
+	margin-bottom: 30vh;
+}
+
+.mainTitle {
+	color: black;	
+	text-align: center;
+	font-weight: bold;
+	margin-top: 50vh;
+	font-size: 28;
+	margin-bottom: 80vh;
+}
+
+.secondTitle {
+	color: black;
+	text-align: center;
+	font-weight: bold;
+	font-size: 28;
+}
+
+.hint {
+	color: black;
+	font-weight: bold;
+	font-size: 12;
+	margin-left: 60vh;
+}
+
+.genderDropdown {
+	width: 50vh;
+	align-items: center;
+}

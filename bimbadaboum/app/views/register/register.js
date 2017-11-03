@@ -23,17 +23,13 @@ exports.register = function() {
       	{
         	'firstName': '',
 	        'lastName': '',
-    	    'birthYear': 0,
+    	    'age': 0,
         	'isMale': true,
         	'city': '',
         	'mail': user.email
-        }
-  ).then(
-      function (result) {
-        console.log("created key: " + result.key);
-      }
-  );
-
+        }).then(function (result) {
+        	console.log("created key: " + result.key);
+      	});
 		});
 	}).catch(function(error) {
 	    dialogsModule.alert({
