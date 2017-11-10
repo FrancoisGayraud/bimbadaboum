@@ -1,4 +1,10 @@
 {
+  "_args": [
+    [
+      "node-options@0.0.6",
+      "/home/red/Projet/bimbadaboum/bimbadaboum"
+    ]
+  ],
   "_from": "node-options@0.0.6",
   "_id": "node-options@0.0.6",
   "_inBundle": false,
@@ -16,12 +22,12 @@
     "fetchSpec": "0.0.6"
   },
   "_requiredBy": [
-    "/dns"
+    "/dns",
+    "/tomahawk"
   ],
   "_resolved": "https://registry.npmjs.org/node-options/-/node-options-0.0.6.tgz",
-  "_shasum": "98721bd14fc4969a619e4d87666449f1f92477ed",
-  "_spec": "node-options@0.0.6",
-  "_where": "/home/red/Projet/bimbadaboum/bimbadaboum/node_modules/dns",
+  "_spec": "0.0.6",
+  "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
   "author": {
     "name": "Henri Bouvier"
   },
@@ -32,11 +38,9 @@
   "bugs": {
     "url": "https://github.com/hbouvier/node-options/issues"
   },
-  "bundleDependencies": false,
   "configuration": {
     "unittest": "default_value"
   },
-  "deprecated": false,
   "description": "Parse the command line arguments",
   "devDependencies": {
     "coveralls": "2.6.1",

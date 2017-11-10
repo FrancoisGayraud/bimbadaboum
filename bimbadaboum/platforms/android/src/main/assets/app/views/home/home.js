@@ -6,23 +6,44 @@ var view = require("ui/core/view");
 var page;
 
 exports.loaded = function (args) {
-	page = args.object;	
-
+	var userMail;
+	page = args.object;
 	firebase.getCurrentUser().then(
-    function (result) {
-    	page.bindingContext = { name: result.email };
-    },
-    function (errorMessage) {
-      console.log(errorMessage);
-    }
-  );
+		function (result) {
+			userMail = result.email;
+		},
+		function (errorMessage) {
+			console.log(errorMessage);
+		}).then(function () {
+		var onQueryEvent = function(result) {
+		 if (!result.error) {
+		 	var keyNames = Object.keys(result.value);
+		 	console.log(JSON.stringify(result[keyNames]));
+			page.bindingContext = { name: result.value[keyNames].firstName };
+		   }
+		};
+		firebase.query(
+		onQueryEvent,
+	    "/users",
+    		{
+	    	  	singleEvent: true,
+				orderBy: {
+				type: firebase.QueryOrderByType.CHILD,
+  				value: "mail"
+    			},
+				range: {
+				type: firebase.QueryRangeType.EQUAL_TO,
+	   			value: userMail
+        		},
+   			})
+	});
 }
 
 exports.logout = function () {
 	user.logout();
 }
 
-exports.goToProfil = function () {
+exports.editProfil = function () {
 	frameModule.topmost().navigate("views/profil/profil");
 }
 

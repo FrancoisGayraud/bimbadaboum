@@ -1,27 +1,31 @@
 {
-  "_from": "email-check",
+  "_args": [
+    [
+      "email-check@1.1.0",
+      "/home/red/Projet/bimbadaboum/bimbadaboum"
+    ]
+  ],
+  "_from": "email-check@1.1.0",
   "_id": "email-check@1.1.0",
   "_inBundle": false,
   "_integrity": "sha1-AcV2WgFcIxH0YyHcBorGiiMRb2g=",
   "_location": "/email-check",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "email-check",
+    "raw": "email-check@1.1.0",
     "name": "email-check",
     "escapedName": "email-check",
-    "rawSpec": "",
+    "rawSpec": "1.1.0",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "1.1.0"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/email-check/-/email-check-1.1.0.tgz",
-  "_shasum": "01c5765a015c2311f46321dc068ac68a23116f68",
-  "_spec": "email-check",
+  "_spec": "1.1.0",
   "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
   "author": {
     "name": "Alessandro Zanardi"
@@ -29,11 +33,9 @@
   "bugs": {
     "url": "https://github.com/pensierinmusica/email-check/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "js-promisify": "1.0.1"
   },
-  "deprecated": false,
   "description": "Async Node JS module to check if an email address exists",
   "engines": {
     "node": ">=4.0.0"

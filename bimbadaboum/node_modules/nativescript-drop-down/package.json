@@ -1,27 +1,31 @@
 {
-  "_from": "nativescript-drop-down",
+  "_args": [
+    [
+      "nativescript-drop-down@3.2.0",
+      "/home/red/Projet/bimbadaboum/bimbadaboum"
+    ]
+  ],
+  "_from": "nativescript-drop-down@3.2.0",
   "_id": "nativescript-drop-down@3.2.0",
   "_inBundle": false,
   "_integrity": "sha1-nJy5e/wVl0My6OvonckT6t9FYq0=",
   "_location": "/nativescript-drop-down",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-drop-down",
+    "raw": "nativescript-drop-down@3.2.0",
     "name": "nativescript-drop-down",
     "escapedName": "nativescript-drop-down",
-    "rawSpec": "",
+    "rawSpec": "3.2.0",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "3.2.0"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-drop-down/-/nativescript-drop-down-3.2.0.tgz",
-  "_shasum": "9c9cb97bfc15974332e8ebe89dc913eadf4562ad",
-  "_spec": "nativescript-drop-down",
+  "_spec": "3.2.0",
   "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
   "author": {
     "name": "Peter Staev",
@@ -30,14 +34,12 @@
   "bugs": {
     "url": "https://github.com/PeterStaev/NativeScript-Drop-Down/issues"
   },
-  "bundleDependencies": false,
   "contributors": [
     {
       "name": "Dick Smith",
       "url": "https://github.com/DickSmith"
     }
   ],
-  "deprecated": false,
   "description": "A NativeScript DropDown widget.",
   "homepage": "https://github.com/PeterStaev/NativeScript-Drop-Down#readme",
   "keywords": [

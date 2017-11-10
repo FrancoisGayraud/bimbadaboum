@@ -10,7 +10,7 @@ function User(info) {
 
     var viewModel = new observableModule.fromObject({
         email: info.email || "",
-        password: info.password || ""
+        password: info.password || "",
     });
 
     viewModel.init = function(){

@@ -1,27 +1,31 @@
 {
-  "_from": "dns",
+  "_args": [
+    [
+      "dns@0.2.2",
+      "/home/red/Projet/bimbadaboum/bimbadaboum"
+    ]
+  ],
+  "_from": "dns@0.2.2",
   "_id": "dns@0.2.2",
   "_inBundle": false,
   "_integrity": "sha1-qEd8omuDWELDElIE2MvN1q+Yyew=",
   "_location": "/dns",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "dns",
+    "raw": "dns@0.2.2",
     "name": "dns",
     "escapedName": "dns",
-    "rawSpec": "",
+    "rawSpec": "0.2.2",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "0.2.2"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/dns/-/dns-0.2.2.tgz",
-  "_shasum": "a8477ca26b835842c3125204d8cbcdd6af98c9ec",
-  "_spec": "dns",
+  "_spec": "0.2.2",
   "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
   "author": {
     "name": "Henri Bouvier"
@@ -32,7 +36,6 @@
   "bugs": {
     "url": "https://github.com/hbouvier/dns/issues"
   },
-  "bundleDependencies": false,
   "configuration": {
     "name": "DNS",
     "context": "/",
@@ -63,10 +66,8 @@
     "node-options": "0.0.6",
     "tomahawk": "0.1.6",
     "tomahawk-plugin-kv-memory-store": "0.0.3",
-    "util": "^0.10.3",
     "winston": "0.7.3"
   },
-  "deprecated": false,
   "description": "A DNS Server with a REST API",
   "engines": {
     "node": ">= 0.10.0 < 0.11.0"
@@ -85,21 +86,5 @@
   "scripts": {
     "start": "bin/dns"
   },
-  "version": "0.2.2",
-  "warnings": [
-    {
-      "code": "ENOTSUP",
-      "required": {
-        "node": ">= 0.10.0 < 0.11.0"
-      },
-      "pkgid": "dns@0.2.2"
-    },
-    {
-      "code": "ENOTSUP",
-      "required": {
-        "node": ">= 0.10.0 < 0.11.0"
-      },
-      "pkgid": "dns@0.2.2"
-    }
-  ]
+  "version": "0.2.2"
 }

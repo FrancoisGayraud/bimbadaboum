@@ -7,6 +7,6 @@
 	<label text="Votre mot de passe" class="hint"></label>
     <TextField class="inputArea" secure="true" text="{{ password }}" hint="Mot de passe" />
     <Button class="connexionButton" text="CONNEXION" tap="signIn"/>
-    <Button text="Pas encore inscrit?" class="link signUp" tap="register"/>
+    <Button text="Pas encore inscrit?" class="signUp" tap="register"/>
   </StackLayout>
 </Page>

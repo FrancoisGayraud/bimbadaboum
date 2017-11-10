@@ -1,27 +1,31 @@
 {
-  "_from": "lokijs",
+  "_args": [
+    [
+      "lokijs@1.5.0",
+      "/home/red/Projet/bimbadaboum/bimbadaboum"
+    ]
+  ],
+  "_from": "lokijs@1.5.0",
   "_id": "lokijs@1.5.0",
   "_inBundle": false,
   "_integrity": "sha1-meQD1qieR+Ee0MXUmftVoGA9Xvw=",
   "_location": "/lokijs",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "lokijs",
+    "raw": "lokijs@1.5.0",
     "name": "lokijs",
     "escapedName": "lokijs",
-    "rawSpec": "",
+    "rawSpec": "1.5.0",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "1.5.0"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/lokijs/-/lokijs-1.5.0.tgz",
-  "_shasum": "99e403d6a89e47e11ed0c5d499fb55a0603d5efc",
-  "_spec": "lokijs",
+  "_spec": "1.5.0",
   "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
   "author": {
     "name": "Joe Minichino",
@@ -30,7 +34,6 @@
   "bugs": {
     "url": "https://github.com/techfort/LokiJS/issues"
   },
-  "bundleDependencies": false,
   "contributors": [
     {
       "name": "Dave",
@@ -38,7 +41,6 @@
     }
   ],
   "dependencies": {},
-  "deprecated": false,
   "description": "Fast document oriented javascript in-memory database",
   "devDependencies": {
     "istanbul": "^0.4.4",

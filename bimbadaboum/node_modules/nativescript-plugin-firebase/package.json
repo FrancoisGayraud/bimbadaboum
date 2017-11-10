@@ -1,27 +1,31 @@
 {
-  "_from": "nativescript-plugin-firebase",
+  "_args": [
+    [
+      "nativescript-plugin-firebase@4.1.1",
+      "/home/red/Projet/bimbadaboum/bimbadaboum"
+    ]
+  ],
+  "_from": "nativescript-plugin-firebase@4.1.1",
   "_id": "nativescript-plugin-firebase@4.1.1",
   "_inBundle": false,
   "_integrity": "sha1-HSXLWVpz1QC/p3jquQyl9kMBN/U=",
   "_location": "/nativescript-plugin-firebase",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-plugin-firebase",
+    "raw": "nativescript-plugin-firebase@4.1.1",
     "name": "nativescript-plugin-firebase",
     "escapedName": "nativescript-plugin-firebase",
-    "rawSpec": "",
+    "rawSpec": "4.1.1",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "4.1.1"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-plugin-firebase/-/nativescript-plugin-firebase-4.1.1.tgz",
-  "_shasum": "1d25cb595a73d500bfa778eab90ca5f6430137f5",
-  "_spec": "nativescript-plugin-firebase",
+  "_spec": "4.1.1",
   "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
   "author": {
     "name": "Telerik / Eddy Verbruggen",
@@ -30,7 +34,6 @@
   "bugs": {
     "url": "https://github.com/eddyverbruggen/nativescript-plugin-firebase/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "fs-extra": "~2.1.0",
     "fs-promise": "~2.0.0",
@@ -38,7 +41,6 @@
     "prompt-lite": "~0.1.0",
     "xcode": "~0.9.0"
   },
-  "deprecated": false,
   "description": "Fire. Base. Firebase!",
   "devDependencies": {
     "prompt-lite": "~0.1.0",

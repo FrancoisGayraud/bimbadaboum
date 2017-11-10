@@ -1,27 +1,31 @@
 {
-  "_from": "nativescript-radiobutton",
+  "_args": [
+    [
+      "nativescript-radiobutton@0.1.0",
+      "/home/red/Projet/bimbadaboum/bimbadaboum"
+    ]
+  ],
+  "_from": "nativescript-radiobutton@0.1.0",
   "_id": "nativescript-radiobutton@0.1.0",
   "_inBundle": false,
   "_integrity": "sha1-D3TdYgQjvqSVgFUmuCBsaXpilAw=",
   "_location": "/nativescript-radiobutton",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "nativescript-radiobutton",
+    "raw": "nativescript-radiobutton@0.1.0",
     "name": "nativescript-radiobutton",
     "escapedName": "nativescript-radiobutton",
-    "rawSpec": "",
+    "rawSpec": "0.1.0",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "0.1.0"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/nativescript-radiobutton/-/nativescript-radiobutton-0.1.0.tgz",
-  "_shasum": "0f74dd620423bea495805526b8206c697a62940c",
-  "_spec": "nativescript-radiobutton",
+  "_spec": "0.1.0",
   "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
   "author": {
     "name": "Tunaweza",
@@ -31,8 +35,6 @@
   "bugs": {
     "url": "https://github.com/Tunaweza/nativescript-radiobutton/issues"
   },
-  "bundleDependencies": false,
-  "deprecated": false,
   "description": "A plugin for nativescript that exposes the radiogroup and radiobutton native view elements.",
   "devDependencies": {
     "@angular/common": "2.4.3",

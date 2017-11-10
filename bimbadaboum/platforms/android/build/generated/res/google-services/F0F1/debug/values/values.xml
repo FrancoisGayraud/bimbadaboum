@@ -7,5 +7,4 @@
     <string name="google_app_id" translatable="false">1:418925955052:android:c15d3e482f18354f</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBGoYoJkYmF6Y6_ESvcCCcMj_0H_ojr4wI</string>
     <string name="google_storage_bucket" translatable="false">bimbadaboum-2e847.appspot.com</string>
-    <string name="project_id" translatable="false">bimbadaboum-2e847</string>
 </resources>

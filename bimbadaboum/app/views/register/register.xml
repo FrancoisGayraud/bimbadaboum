@@ -2,9 +2,11 @@
     <StackLayout>
     	<label text="Inscription" class="inscriptionText oldFashion"></label>
     	<label text="Votre Mail" class="hint"></label>
-        <TextField text="{{ email }}" class="inputArea" id="email" hint="Email Address" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+        <TextField text="{{ email }}" class="inputArea" id="email" hint="Email" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+        <label text="Votre Prénom" class="hint"></label>
+        <TextField text="{{ firstName }}" class="inputArea" autocorrect="false" hint="Prénom" id="firstName" />
         <label text="Votre mot de passe" class="hint"></label>
-        <TextField text="{{ password }}" class="inputArea" secure="true" hint="Password" />
+        <TextField text="{{ password }}" class="inputArea" secure="true" hint="Mot de passe" />
         <Button text="S'INSCRIRE" class="connexionButton" tap="register" />
     </StackLayout>
 </Page>

@@ -1,37 +1,40 @@
 {
-  "_from": "debug-fabulous@0.0.X",
+  "_args": [
+    [
+      "debug-fabulous@0.0.4",
+      "/home/red/Projet/bimbadaboum/bimbadaboum"
+    ]
+  ],
+  "_from": "debug-fabulous@0.0.4",
   "_id": "debug-fabulous@0.0.4",
   "_inBundle": false,
   "_integrity": "sha1-+gccXYdIRoVCSAdCHKSxawsaB2M=",
   "_location": "/debug-fabulous",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "debug-fabulous@0.0.X",
+    "raw": "debug-fabulous@0.0.4",
     "name": "debug-fabulous",
     "escapedName": "debug-fabulous",
-    "rawSpec": "0.0.X",
+    "rawSpec": "0.0.4",
     "saveSpec": null,
-    "fetchSpec": "0.0.X"
+    "fetchSpec": "0.0.4"
   },
   "_requiredBy": [
     "/gulp-sourcemaps"
   ],
   "_resolved": "https://registry.npmjs.org/debug-fabulous/-/debug-fabulous-0.0.4.tgz",
-  "_shasum": "fa071c5d87484685424807421ca4b16b0b1a0763",
-  "_spec": "debug-fabulous@0.0.X",
-  "_where": "/home/red/Projet/bimbadaboum/bimbadaboum/node_modules/gulp-sourcemaps",
+  "_spec": "0.0.4",
+  "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
   "author": {
     "name": "Nicholas McCready"
   },
-  "bundleDependencies": false,
   "dependencies": {
     "debug": "2.X",
     "lazy-debug-legacy": "0.0.X",
     "object-assign": "4.1.0"
   },
-  "deprecated": false,
   "description": "visionmedia debug extensions rolled into one",
   "devDependencies": {
     "babel-eslint": "7.X",

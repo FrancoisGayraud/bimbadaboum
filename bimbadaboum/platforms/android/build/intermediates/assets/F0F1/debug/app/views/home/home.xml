@@ -2,8 +2,7 @@
     <StackLayout>
     	<label text="Bonjour : " class="mainTitle"></label>
     	<label text="{{ name }}" class="secondTitle"></label>
-    	<TextField class="inputArea" style="border-color: red;" id="first" hint="Prénom" autocorrect="false" autocapitalizationType="none"/>
-    	<Button text="METTRE A JOUR MON PROFIL" class="Button" tap="goToProfil"/>
-    	<Button text="DECONNECTION" class="Button" tap="logout"/>
+    	<Button text="METTRE A JOUR MON PROFIL" class="Button" tap="editProfil"/>
+    	<Button text="DECONNECTION" class="disconnectButton" tap="logout"/>
     </StackLayout>
 </Page>

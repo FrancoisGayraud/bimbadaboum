@@ -3,37 +3,36 @@ var frameModule = require("ui/frame");
 var UserViewModel = require("../../shared/view-models/user-view-model");
 var user = new UserViewModel();
 var firebase = require("nativescript-plugin-firebase");
+var view = require("ui/core/view"); 
+var page;
 
 exports.loaded = function(args) {
-    var page = args.object;
+    page = args.object;
     page.bindingContext = user;
 };
 
 exports.register = function() {
-    user.register()
+	var firstName = view.getViewById(page, "firstName");
+	user.register()
         .then(function() {
 	    dialogsModule.alert({
 	    	message: "Votre compte a bien été enregistré.",
 	    	okButtonText: "ok"
 	    })
 	        .then(function() {
-		    frameModule.topmost().navigate("views/login/login");
 		   	firebase.push(
      	 '/users',
       	{
-        	'firstName': '',
+        	'firstName': firstName.text,
 	        'lastName': '',
-    	    'birthYear': 0,
+    	    'age': 0,
         	'isMale': true,
         	'city': '',
         	'mail': user.email
-        }
-  ).then(
-      function (result) {
-        console.log("created key: " + result.key);
-      }
-  );
-
+        }).then(function (result) {
+        	console.log("created key: " + result.key);
+      	});
+		    frameModule.topmost().navigate("views/login/login");
 		});
 	}).catch(function(error) {
 	    dialogsModule.alert({

@@ -10,10 +10,12 @@
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/image-source/image-source.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/console/console.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/debugger/devtools-elements.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/debugger/devtools-elements.common.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/debugger/dom-node.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/debugger/debugger.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/platform/platform.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/css/index.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/css/parser.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/css/lib/parse/index.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/application/application.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/application/application-common.js
@@ -79,7 +81,6 @@
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/ui/styling/style-scope.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/ui/styling/font-common.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/ui/styling/css-animation-parser.js
-/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/ui/styling/css-selector-parser.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/ui/styling/converters.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/ui/styling/background.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/ui/styling/background-common.js
@@ -148,7 +149,6 @@
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/utils/number-utils.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/utils/debug.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/utils/utils.js
-/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/utils/debug-common.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/utils/module-merge.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/utils/utils-common.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/utils/lazy.js

@@ -1,28 +1,33 @@
 {
-  "_from": "ipaddr.js@>= 0.1.1",
+  "_args": [
+    [
+      "ipaddr.js@1.5.2",
+      "/home/red/Projet/bimbadaboum/bimbadaboum"
+    ]
+  ],
+  "_from": "ipaddr.js@1.5.2",
   "_id": "ipaddr.js@1.5.2",
   "_inBundle": false,
   "_integrity": "sha1-1LUFvemUaYfM8PxY2QEP+WB+P6A=",
   "_location": "/ipaddr.js",
   "_phantomChildren": {},
   "_requested": {
-    "type": "range",
+    "type": "version",
     "registry": true,
-    "raw": "ipaddr.js@>= 0.1.1",
+    "raw": "ipaddr.js@1.5.2",
     "name": "ipaddr.js",
     "escapedName": "ipaddr.js",
-    "rawSpec": ">= 0.1.1",
+    "rawSpec": "1.5.2",
     "saveSpec": null,
-    "fetchSpec": ">= 0.1.1"
+    "fetchSpec": "1.5.2"
   },
   "_requiredBy": [
     "/native-dns",
     "/native-dns-packet"
   ],
   "_resolved": "https://registry.npmjs.org/ipaddr.js/-/ipaddr.js-1.5.2.tgz",
-  "_shasum": "d4b505bde9946987ccf0fc58d9010ff9607e3fa0",
-  "_spec": "ipaddr.js@>= 0.1.1",
-  "_where": "/home/red/Projet/bimbadaboum/bimbadaboum/node_modules/native-dns",
+  "_spec": "1.5.2",
+  "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
   "author": {
     "name": "whitequark",
     "email": "whitequark@whitequark.org"
@@ -30,9 +35,7 @@
   "bugs": {
     "url": "https://github.com/whitequark/ipaddr.js/issues"
   },
-  "bundleDependencies": false,
   "dependencies": {},
-  "deprecated": false,
   "description": "A library for manipulating IPv4 and IPv6 addresses in JavaScript.",
   "devDependencies": {
     "coffee-script": "~1.12.6",

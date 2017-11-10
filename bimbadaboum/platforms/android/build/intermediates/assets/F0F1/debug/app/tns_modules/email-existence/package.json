@@ -1,27 +1,31 @@
 {
-  "_from": "email-existence",
+  "_args": [
+    [
+      "email-existence@0.1.5",
+      "/home/red/Projet/bimbadaboum/bimbadaboum"
+    ]
+  ],
+  "_from": "email-existence@0.1.5",
   "_id": "email-existence@0.1.5",
   "_inBundle": false,
   "_integrity": "sha1-AwPbLoWEzAzV6MRukfR/w4QvUFs=",
   "_location": "/email-existence",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
+    "type": "version",
     "registry": true,
-    "raw": "email-existence",
+    "raw": "email-existence@0.1.5",
     "name": "email-existence",
     "escapedName": "email-existence",
-    "rawSpec": "",
+    "rawSpec": "0.1.5",
     "saveSpec": null,
-    "fetchSpec": "latest"
+    "fetchSpec": "0.1.5"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/email-existence/-/email-existence-0.1.5.tgz",
-  "_shasum": "0303db2e8584cc0cd5e8c46e91f47fc3842f505b",
-  "_spec": "email-existence",
+  "_spec": "0.1.5",
   "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
   "author": {
     "name": "Nicholas Manousos",
@@ -30,8 +34,6 @@
   "bugs": {
     "url": "http://github.com/nmanousos/email-existence/issues"
   },
-  "bundleDependencies": false,
-  "deprecated": false,
   "description": "Checks existence of email addresses",
   "devDependencies": {
     "expect.js": "~0.2.0",
