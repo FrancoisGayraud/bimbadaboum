@@ -16,6 +16,7 @@ function User(info) {
     viewModel.init = function(){
 	firebase.init({
 	    url: config.apiUrl,
+	    storageBucket: 'gs://bimbadaboum-2e847.appspot.com',
 	    onAuthStateChanged: function(data) { // optional but useful to immediately re-logon the user when he re-visits your app
      		console.log(data.loggedIn ? "Logged in to firebase" : "Logged out from firebase");
       	if (data.loggedIn) {

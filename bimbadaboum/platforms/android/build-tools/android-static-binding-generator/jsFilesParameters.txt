@@ -4,6 +4,7 @@
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/shared/view-models/grocery-list-view-model.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/shared/view-models/user-view-model.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/shared/utils/ios-swipe-delete.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-permissions/permissions.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/bundle-entry-points.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/xml/xml.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/connectivity/connectivity.js
@@ -163,6 +164,8 @@
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-radiobutton/angular/index.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-radiobutton/angular/radiobutton.component.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-radiobutton/hooks/before-livesync/nativescript-angular-sync.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-camera/camera.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-camera/camera.common.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/postinstall-hooks.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/firebase-common.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/firebase.js
@@ -180,6 +183,8 @@
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-checkbox/checkbox.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-checkbox/checkbox-common.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-checkbox/angular/index.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-imagepicker/imagepicker.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-pro-ui/scripts/eula-prompt.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/views/home/home.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/views/register/register.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/views/login/login.js

@@ -1,7 +1,7 @@
 
 android {
     productFlavors {
-        "F1" {
+        "F2" {
             dimension "nativescriptpluginfirebase"
         }
     }
@@ -48,7 +48,7 @@ dependencies {
     // compile "com.google.firebase:firebase-messaging:$firebaseVersion"
 
     // Uncomment if you want Google Cloud Storage
-    // compile "com.google.firebase:firebase-storage:$firebaseVersion"
+     compile "com.google.firebase:firebase-storage:$firebaseVersion"
 
     // Uncomment if you want AdMob
     // compile "com.google.firebase:firebase-ads:$firebaseVersion"

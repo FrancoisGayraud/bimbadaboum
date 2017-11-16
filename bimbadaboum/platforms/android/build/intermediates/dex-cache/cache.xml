@@ -8,7 +8,25 @@
         optimize="true"
         revision="26.0.1"
         sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_2fdf0e627fcac617783f81a10b5c31e2c636e4be.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-widgets-release_2fdf0e627fcac617783f81a10b5c31e2c636e4be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9a9ab7bfebf4a8d5c7fb1ac4e5dcf4bc4d6e3a0e">
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-storage-11.2.2_1bc2eb7f767fc4457ed62337b587a8c6036bfdb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67070b6d74d76c40032b857e9fcf25b196fd07f5">
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Chart-2017.1.1030-dev-release_837da52772b0774eb915ae77de38f656c57aaedf.jar" />
     </item>
     <item
         is-multidex="false"
@@ -17,7 +35,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="27942406f17e8b8e54175fdac0274805b4edcb2f">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-auth-11.2.2_0d8afe24566f7fd2e29f9f89682b77bfd9ad689d.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-auth-11.2.2_0d8afe24566f7fd2e29f9f89682b77bfd9ad689d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -26,7 +44,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-26.0.0-alpha1_f1b02afa65bb877b8fa1553a39dc06c95552060a.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/support-annotations-26.0.0-alpha1_f1b02afa65bb877b8fa1553a39dc06c95552060a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -35,7 +53,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="7ed36108b22a98a311676b5ad153d1e3587fcd16">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-basement-11.2.2_d6361e819236921ec73250b209646876eea95eb5.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.android.gms-play-services-basement-11.2.2_d6361e819236921ec73250b209646876eea95eb5.jar" />
     </item>
     <item
         is-multidex="false"
@@ -44,7 +62,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_b5169e953858d980fc1355a912788971975d1203.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_b5169e953858d980fc1355a912788971975d1203.jar" />
     </item>
     <item
         is-multidex="false"
@@ -53,7 +71,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-26.0.0-alpha1_e5f49fff6a1a8482843313fc5028ed442fb635d0.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-v4-26.0.0-alpha1_e5f49fff6a1a8482843313fc5028ed442fb635d0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -62,7 +80,16 @@
         optimize="true"
         revision="26.0.1"
         sha1="1d2ee92c55b107ec366ddb534edae4548201e25b">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-base-11.2.2_c4a4f5561c68833da0497a6193c9f7628ab259b7.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.android.gms-play-services-base-11.2.2_c4a4f5561c68833da0497a6193c9f7628ab259b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Data-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="31ecd0832f76d83defcff7f8b395008bf3b153bd">
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Data-2017.1.1030-dev-release_f9ed3867adf81446fe50002292b9643b0e52dd37.jar" />
     </item>
     <item
         is-multidex="false"
@@ -71,7 +98,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-26.0.0-alpha1_0df96dfaa755574968c7392cb6fff534f013f5a0.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-transition-26.0.0-alpha1_0df96dfaa755574968c7392cb6fff534f013f5a0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -80,7 +107,16 @@
         optimize="true"
         revision="26.0.1"
         sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-26.0.0-alpha1_9b264cdba4a30f3982e6a0380a518d35ed0bb7f6.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-core-utils-26.0.0-alpha1_9b264cdba4a30f3982e6a0380a518d35ed0bb7f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Common-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="23e24cb11d199bb64e56968563bb6ea219204cec">
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Common-2017.1.1030-dev-release_7bd19e67a210c96694ce45e7ff5883cf8dc844fe.jar" />
     </item>
     <item
         is-multidex="false"
@@ -89,7 +125,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="c9516c20ad330d844b3275d9c3acb0b798b6d8ae">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-firebase-release_dc7624a2dabb91fa0a4d558548577947b777d674.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-firebase-release_dc7624a2dabb91fa0a4d558548577947b777d674.jar" />
     </item>
     <item
         is-multidex="false"
@@ -98,7 +134,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="722f4e3d1abfa535e19043c813c62bb144a7d02f">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-analytics-impl-11.2.2_bfa8cc9dcf5ebe5dfe8b7e143e4a66f767ccb741.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-analytics-impl-11.2.2_bfa8cc9dcf5ebe5dfe8b7e143e4a66f767ccb741.jar" />
     </item>
     <item
         is-multidex="false"
@@ -107,7 +143,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="cf47665b22d68f560d1b8fa2e51b8c23a34574f2">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-tasks-11.2.2_8a3d7b919ea6b7260b2802d71393dcaaf84246cf.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.android.gms-play-services-tasks-11.2.2_8a3d7b919ea6b7260b2802d71393dcaaf84246cf.jar" />
     </item>
     <item
         is-multidex="false"
@@ -116,7 +152,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-26.0.0-alpha1_1e9f90b1e748dc063cbb918fb9feae8816dad141.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-media-compat-26.0.0-alpha1_1e9f90b1e748dc063cbb918fb9feae8816dad141.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,7 +161,16 @@
         optimize="true"
         revision="26.0.1"
         sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-26.0.0-alpha1_61e889ceb16437c894d0fdc2a4c99587dac04ee2.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-appcompat-v7-26.0.0-alpha1_61e889ceb16437c894d0fdc2a4c99587dac04ee2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Input-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a973d2e002f236d63e4b0b3bb95454b2ed4dc790">
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Input-2017.1.1030-dev-release_f894300de8e4896f8e973db6b83a2a6f6305bf27.jar" />
     </item>
     <item
         is-multidex="false"
@@ -134,7 +179,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="fc3479eb36ae71cbe2a3a589ceda3b8b3b56f08f">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-analytics-11.2.2_91f033fa3a1db9ae20ac9d9f2df708d6b3601102.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-analytics-11.2.2_91f033fa3a1db9ae20ac9d9f2df708d6b3601102.jar" />
     </item>
     <item
         is-multidex="false"
@@ -143,7 +188,16 @@
         optimize="true"
         revision="26.0.1"
         sha1="aebd345a61f563da0989cbd014479c8bf7bd77ab">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-customtabs-26.0.0-alpha1_ce811ec2c85700666d329ca970a260aaf6754859.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-customtabs-26.0.0-alpha1_ce811ec2c85700666d329ca970a260aaf6754859.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Primitives-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9001cb8dbd0c0f46e73929f0b0667c00c2835880">
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Primitives-2017.1.1030-dev-release_830f35df39db8af7765f154ff346a61d4e141f07.jar" />
     </item>
     <item
         is-multidex="false"
@@ -152,7 +206,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_c0fccc9bf278bdb179c0bab4691183e554532daf.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/binding-generator_c0fccc9bf278bdb179c0bab4691183e554532daf.jar" />
     </item>
     <item
         is-multidex="false"
@@ -161,7 +215,16 @@
         optimize="true"
         revision="26.0.1"
         sha1="30553c734f57621f31d6d56ad7b263123c7a014f">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-database-connection-11.2.2_d20f6d03cce1233e8c72440865dfebf720120a5a.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-database-connection-11.2.2_d20f6d03cce1233e8c72440865dfebf720120a5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="912812cca1fdace3ef9ba9c0a7081db4155767d5">
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Feedback-2017.1.1030-dev-release_87172e225c17a50e8f03c42fe09847434dbe057c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -170,7 +233,16 @@
         optimize="true"
         revision="26.0.1"
         sha1="3352405f829252e602a47d252f11edd7c89d86ff">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-database-11.2.2_8db200b1fb631c286cf409e9feeabef445d97cbd.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-database-11.2.2_8db200b1fb631c286cf409e9feeabef445d97cbd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="52e53fe7ad13a69d11736cc5b6cd890614a0f8f8">
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-storage-common-11.2.2_2e56d04d80e7d3f6fd159e1aa5c79060252ccf86.jar" />
     </item>
     <item
         is-multidex="false"
@@ -179,7 +251,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-26.0.0-alpha1_4a30773b8b0ff883873540e7e5c0766b0cc561e6.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-core-ui-26.0.0-alpha1_4a30773b8b0ff883873540e7e5c0766b0cc561e6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -188,7 +260,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-26.0.0-alpha1_2bc8b3d57495b362fea75f6e0dae3bba97dc2b1e.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-fragment-26.0.0-alpha1_2bc8b3d57495b362fea75f6e0dae3bba97dc2b1e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -197,7 +269,25 @@
         optimize="true"
         revision="26.0.1"
         sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/gson-2.8.2_b426076c3c1b7bf53ac10171170ab2810f79e3f9.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/gson-2.8.2_b426076c3c1b7bf53ac10171170ab2810f79e3f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Gauges-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bb5e99e8a8b94d66179ccbf5f2fbe41ba084fbe9">
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Gauges-2017.1.1030-dev-release_8625ea99434a67051f69477efabe0fe7db9d38b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/List-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cd3872a778741ba6ef9d5452e122a54d16b0564f">
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-List-2017.1.1030-dev-release_2d4deb31e70e0c5f0efaa315f33fa618f01fc711.jar" />
     </item>
     <item
         is-multidex="false"
@@ -206,7 +296,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-26.0.0-alpha1_0996fa7d2556c0ca756587436a454ec19e43b978.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-compat-26.0.0-alpha1_0996fa7d2556c0ca756587436a454ec19e43b978.jar" />
     </item>
     <item
         is-multidex="false"
@@ -215,7 +305,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="6de60b559084bc9f17f4d8916aaa35e058831696">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-common-11.2.2_b206cf7286484146a4e3e8240b75895eaa5b507d.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-common-11.2.2_b206cf7286484146a4e3e8240b75895eaa5b507d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -224,7 +314,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-26.0.0-alpha1_01b55b9d0134fb2f078e1c8ebb8c533edfda6109.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-design-26.0.0-alpha1_01b55b9d0134fb2f078e1c8ebb8c533edfda6109.jar" />
     </item>
     <item
         is-multidex="false"
@@ -233,7 +323,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_2b0b0f741a52d2b1e1058d423b5d9ff1a58f7d1c.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_2b0b0f741a52d2b1e1058d423b5d9ff1a58f7d1c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -242,7 +332,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-cardview-v7-26.0.0-alpha1_05eb6c3e37d42fae63b4f4ccf90012aa10c2ad0f.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-cardview-v7-26.0.0-alpha1_05eb6c3e37d42fae63b4f4ccf90012aa10c2ad0f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -251,7 +341,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="eb6078500d1af5e7b663871706674405c57292a3">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/bimbadaboum-runtime-unspecified_efe5f37ae7674f7b4358cefe9d538aa7c72010de.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/bimbadaboum-runtime-unspecified_efe5f37ae7674f7b4358cefe9d538aa7c72010de.jar" />
     </item>
     <item
         is-multidex="false"
@@ -260,7 +350,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="787102860a3ae9ed31c934b03ce15ba584a43005">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.firebase-firebase-iid-11.2.2_4afb4212a1fd4df597808925188c2159b35f34d7.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-iid-11.2.2_4afb4212a1fd4df597808925188c2159b35f34d7.jar" />
     </item>
     <item
         is-multidex="false"
@@ -269,7 +359,7 @@
         optimize="true"
         revision="26.0.1"
         sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_337214d5665147b465ae9a6a229c1bc8a941987c.jar" />
+        <dex dex="/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_337214d5665147b465ae9a6a229c1bc8a941987c.jar" />
     </item>
 
 </items>

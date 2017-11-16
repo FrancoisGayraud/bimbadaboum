@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/xml/provider_paths.xml",
+        "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/F1/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/xml/chart_palettes_light_selected.xml",
+        "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.1030-dev-release/res/xml/chart_palettes_light_selected.xml"
+    },
+    {
+        "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/xml/chart_palettes_dark_selected.xml",
+        "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.1030-dev-release/res/xml/chart_palettes_dark_selected.xml"
+    },
+    {
+        "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/xml/chart_palettes_default_light.xml",
+        "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.1030-dev-release/res/xml/chart_palettes_default_light.xml"
+    },
+    {
+        "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/xml/chart_palettes_default_dark.xml",
+        "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.1030-dev-release/res/xml/chart_palettes_default_dark.xml"
+    }
+]
