@@ -5,16 +5,13 @@
     	<TextField class="inputArea" style="border-color: red;" id="firstName" hint="Prénom" autocorrect="false" autocapitalizationType="none"/>
     	<label text="Votre nom de famille" class="hint"></label>
     	<TextField class="inputArea" style="border-color: red;" id="lastName" hint="Nom de famille" autocorrect="false" autocapitalizationType="none"/>
-    	<label text="Votre âge" class="hint"></label>
-    	<TextField class="inputArea" style="border-color: red;" id="age" hint="Âge" autocorrect="false" autocapitalizationType="none"/>
     	<label text="Votre ville" class="hint"></label>
     	<TextField class="inputArea" style="border-color: red;" id="city" hint="Ville" autocorrect="false" autocapitalizationType="none"/>
-
+        <label text="Votre sexe" class="hint"></label>
 		<dd:DropDown items="{{ items }}" selectedIndex="{{ selectedIndex }}" 
                  opened="dropDownOpened" closed="dropDownClosed" 
                  selectedIndexChanged="dropDownSelectedIndexChanged" style="text-align: center; horizontal-align: center; width:100vh; margin-bottom: 50vh;"/>
 
     	<Button text="SAUVEGARDER" class="Button" tap="submitChanges"/>
-    
     </StackLayout>
 </Page>

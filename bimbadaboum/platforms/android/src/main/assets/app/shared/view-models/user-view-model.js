@@ -49,7 +49,7 @@ function User(info) {
 	    function (errorMessage) {
 	    	console.log("error in login()");
 	    	dialogsModule.alert({
-			message: "Vos informations sont incorrectes. ",
+			message: "Refaites, il y a une erreur ! ",
 			okButtonText: "ok"
 	    	});
 	    });

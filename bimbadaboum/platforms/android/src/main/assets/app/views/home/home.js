@@ -13,8 +13,6 @@ var page;
 var userMail;
 
 exports.loaded = function (args) {
-	//var tempPicturePath = fs.path.join(android.os.Environment.getExternalStoragePublicDirectory(android.os.Environment.DIRECTORY_DCIM).getAbsolutePath(), "20160719_155053.jpg");
-      //  console.log("extr storage " + tempPicturePath); POUR RETRIEVE UNE IMAGE DANS LE TEL
 	page = args.object;
 	firebase.getCurrentUser().then(
 		function (result) {
@@ -23,27 +21,30 @@ exports.loaded = function (args) {
 		function (errorMessage) {
 			console.log(errorMessage);
 		}).then(function () {
-		var onQueryEvent = function(result) {
-		 if (!result.error) {
-		 	var keyNames = Object.keys(result.value);
-			page.bindingContext = { name: result.value[keyNames].firstName };
-		   }
-		};
-		firebase.query(
-		onQueryEvent,
-	    "/users",
-    		{
-	    	  	singleEvent: true,
-				orderBy: {
-				type: firebase.QueryOrderByType.CHILD,
-  				value: "mail"
-    			},
-				range: {
-				type: firebase.QueryRangeType.EQUAL_TO,
-	   			value: userMail
-        		},
-   			})
-	});
+		 var onQueryEvent = function(result) {
+		        if (!result.error) {
+		        	console.log(JSON.stringify(result))
+					var keyNames = Object.keys(result.value);
+					console.log("key : " + keyNames[0]);
+					userID = keyNames[0];
+		      	}
+		    };
+			  firebase.query(
+				onQueryEvent,
+	        	"/users",
+    	    		{
+	    	  			singleEvent: true,
+    					orderBy: {
+   						type: firebase.QueryOrderByType.CHILD,
+      	   				value: "mail"
+	    			},
+	    				range: {
+	           			type: firebase.QueryRangeType.EQUAL_TO,
+	           			value: userMail
+	        		},
+	    	});
+	    })
+
 }
 
 exports.logout = function () {
@@ -52,6 +53,9 @@ exports.logout = function () {
 
 exports.selectImage = function () {
 	var date = new Date();
+	date = date.toString().replace(/\s+/g, '');
+	var URL;
+
 	context.authorize()
     .then(function() {
         return context.present();
@@ -72,8 +76,31 @@ exports.selectImage = function () {
       function (error) {
         console.log("File upload error: " + error);
       }
+  	).then(
+  	function() {
+	firebase.getDownloadUrl({
+	// IL ARRIVE PAS A RECUPERER L'URL DE L'IMAGE, IL A SUREMENT PAS ENCORE UPLOAD
+	bucket: 'gs://bimbadaboum-2e847.appspot.com/',
+    remoteFullPath: 'uploads/images/' + userMail + '/profilPics/' + date
+  }).then(
+      function (url) {
+        console.log("Remote URL: " + url);
+        URL = url;
+      },
+      function (error) {
+        console.log("Error: " + error);
+      }
   );
-        });
+  	}).then(
+  	function () {
+  		firebase.update(
+  			'/users/' + userID + '/picsUrl',
+  			
+  				{'url' : URL}
+  			
+  			);
+  	});
+ 	});
         list.items = selection;
     }).catch(function (e) {
         // process error
@@ -159,27 +186,17 @@ exports.submitFirstName = function () {
 }
 
 exports.queryThing = function() {
-
-    var onQueryEvent = function(result) {
-        if (!result.error) {
-      	  console.log(JSON.stringify(result));
-      	}
-    };
-
-
-	firebase.query(
-        onQueryEvent,
-        "/users",
-        {
-      	singleEvent: true,
-    	orderBy: {
-   		   type: firebase.QueryOrderByType.CHILD,
-      	   value: "mail"
-    	},
-    	range: {
-           type: firebase.QueryRangeType.EQUAL_TO,
-           value: "jetest@gmail.com"
-        },
-    });
-  
+	firebase.getDownloadUrl({
+	// IL ARRIVE PAS A RECUPERER L'URL DE L'IMAGE, IL A SUREMENT PAS ENCORE UPLOAD
+	bucket: 'gs://bimbadaboum-2e847.appspot.com',
+    remoteFullPath: '/uploads/images/' + userMail + '/profilPics' + '/FriDec01201716:30:49GMT+0100(CET)'
+  }).then(
+      function (url) {
+        console.log("Remote URL: " + url);
+        URL = url;
+      },
+      function (error) {
+        console.log("Error: " + error);
+      }
+  );
 }

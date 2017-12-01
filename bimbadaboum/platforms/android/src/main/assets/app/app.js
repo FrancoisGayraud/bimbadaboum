@@ -7,5 +7,7 @@ purpose of the file is to pass control to the app’s first module.
 require("./bundle-config");
 var application = require("application");
 var firebase = require("nativescript-plugin-firebase");
+global.userID;
+global.userMail;
 
 application.start({ moduleName: "views/login/login" });
