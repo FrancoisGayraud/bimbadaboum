@@ -6,14 +6,18 @@ var view = require("ui/core/view");
 var camera = require("nativescript-camera");
 var imageModule = require("ui/image");
 var fs = require("file-system");
+var observable = require('data/observable');
 var imagepicker = require("nativescript-imagepicker");
 var context = imagepicker.create({ mode: "single" }); // use "multiple" for multiple selection
 var appPath = fs.knownFolders.currentApp().path;
 var page;
+var viewModel = new observable.Observable();
 var userMail;
+var profilPic;
 
 exports.loaded = function (args) {
 	page = args.object;
+
 	firebase.getCurrentUser().then(
 		function (result) {
 			userMail = result.email;
@@ -27,6 +31,10 @@ exports.loaded = function (args) {
 					var keyNames = Object.keys(result.value);
 					console.log("key : " + keyNames[0]);
 					userID = keyNames[0];
+					profilPic = result.value[userID].picsUrl;
+					viewModel.set("profilPic", profilPic);
+					viewModel.set("name", result.value[userID].firstName);
+					page.bindingContext = viewModel;
 		      	}
 		    };
 			  firebase.query(
@@ -44,7 +52,6 @@ exports.loaded = function (args) {
 	        		},
 	    	});
 	    })
-
 }
 
 exports.logout = function () {
@@ -85,21 +92,20 @@ exports.selectImage = function () {
   }).then(
       function (url) {
         console.log("Remote URL: " + url);
-        URL = url;
+        URL = url.toString();
+        console.log("URL : " + URL);
       },
       function (error) {
         console.log("Error: " + error);
       }
-  );
-  	}).then(
+  ).then(
   	function () {
   		firebase.update(
-  			'/users/' + userID + '/picsUrl',
-  			
-  				{'url' : URL}
-  			
+  			'/users/' + userID,
+  				{'picsUrl' : URL}
   			);
   	});
+  	})
  	});
         list.items = selection;
     }).catch(function (e) {
@@ -145,6 +151,7 @@ exports.submitFirstName = function () {
 	var first = view.getViewById(page, "first");
 	var userId;
 	var userMail;
+
 	firebase.getCurrentUser().then(
 		function (result) {
 			userMail = result.email;
