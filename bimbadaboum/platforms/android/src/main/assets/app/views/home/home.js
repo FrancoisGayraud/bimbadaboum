@@ -58,6 +58,10 @@ exports.logout = function () {
 	user.logout();
 }
 
+exports.goToChat = function () {
+	frameModule.topmost().navigate("views/chat/chat");
+}
+
 exports.selectImage = function () {
 	var date = new Date();
 	date = date.toString().replace(/\s+/g, '');

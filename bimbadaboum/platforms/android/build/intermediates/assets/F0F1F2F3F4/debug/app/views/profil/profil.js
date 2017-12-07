@@ -30,7 +30,6 @@ exports.dropDownSelectedIndexChanged = function(args) {
 exports.submitChanges = function () {
 	var firstName = view.getViewById(page, "firstName");
 	var lastName = view.getViewById(page, "lastName");
-	var age = view.getViewById(page, "age");
 	var city = view.getViewById(page, "city");
 	var gen;
 
@@ -39,48 +38,13 @@ exports.submitChanges = function () {
 	else
 		gen = false;
 
-	console.log("values : " + firstName.text + " " + lastName.text + " " + age.text + " " + city.text);
+	console.log("values : " + firstName.text + " " + lastName.text + " " + city.text);
 
-	var userId;
-	var userMail;
-	firebase.getCurrentUser().then(
-		function (result) {
-			userMail = result.email;
-		},
-		function (errorMessage) {
-			console.log(errorMessage);
-		}).then(function () {
-		 var onQueryEvent = function(result) {
-		        if (!result.error) {
-					var keyNames = Object.keys(result.value);
-					console.log("key : " + keyNames[0]);
-					userId = keyNames[0];
-		      	}
-		    };
-			  firebase.query(
-				onQueryEvent,
-	        	"/users",
-    	    		{
-	    	  			singleEvent: true,
-    					orderBy: {
-   						type: firebase.QueryOrderByType.CHILD,
-      	   				value: "mail"
-	    			},
-	    				range: {
-	           			type: firebase.QueryRangeType.EQUAL_TO,
-	           			value: userMail
-	        		},
-	    			}).then(function (){
-							firebase.update(
-						      '/users/' + userId,
-						      {'firstName': firstName.text,
-						      'lastName': lastName.text,
-						      'age': age.text,
-						  	  'isMale': gen,
-						  	  'city': city.text}
-							);
-	    				
-	    			})
-		});
-
+	firebase.update(
+     '/users/' + userID,
+	{'firstName': firstName.text,
+	 'lastName': lastName.text,
+	 'isMale': gen,
+	 'city': city.text}
+	);
 }

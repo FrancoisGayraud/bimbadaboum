@@ -1,0 +1,62 @@
+{
+  "_from": "nativescript-chatview",
+  "_id": "nativescript-chatview@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-LpQVuim7IUauHaz5TsDW3C0LE28=",
+  "_location": "/nativescript-chatview",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-chatview",
+    "name": "nativescript-chatview",
+    "escapedName": "nativescript-chatview",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-chatview/-/nativescript-chatview-1.0.3.tgz",
+  "_shasum": "2e9415ba29bb2146ae1dacf94ec0d6dc2d0b136f",
+  "_spec": "nativescript-chatview",
+  "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
+  "author": {
+    "name": "Marcel Joachim Kloubert",
+    "email": "marcel.kloubert@gmx.net"
+  },
+  "bugs": {
+    "url": "https://github.com/mkloubert/nativescript-chatview/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "NativeScript UI module for implementing WhatsApp like chat applications.",
+  "homepage": "https://github.com/mkloubert/nativescript-chatview",
+  "keywords": [
+    "NativeScript",
+    "API",
+    "HTTP",
+    "REST",
+    "JSON",
+    "XML"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/mkloubert/nativescript-chatview/blob/master/LICENSE"
+  },
+  "name": "nativescript-chatview",
+  "nativescript": {
+    "platforms": {
+      "android": "1.1.0",
+      "ios": "1.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkloubert/nativescript-chatview.git"
+  },
+  "version": "1.0.3"
+}

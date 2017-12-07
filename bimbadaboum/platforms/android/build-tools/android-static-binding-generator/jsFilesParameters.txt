@@ -5,6 +5,7 @@
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/shared/view-models/user-view-model.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/shared/utils/ios-swipe-delete.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-permissions/permissions.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-chatview/index.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/bundle-entry-points.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/xml/xml.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/connectivity/connectivity.js

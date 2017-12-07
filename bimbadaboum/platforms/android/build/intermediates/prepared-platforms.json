@@ -10,6 +10,7 @@
     "loki-nativescript-adapter": true,
     "lokijs": true,
     "nativescript-camera": true,
+    "nativescript-chatview": true,
     "nativescript-checkbox": true,
     "nativescript-drop-down": true,
     "nativescript-imagepicker": true,

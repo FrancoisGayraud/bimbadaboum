@@ -1,8 +1,13 @@
 <Page loaded="loaded" actionBarHidden="true">
+	<ScrollView>
     <StackLayout>
+    	<Image src="{{ profilPic }}"/>
     	<label text="{{ 'Bonjour ' + name + ' !'}}" class="mainTitle"></label>
     	<Button text="METTRE A JOUR MON PROFIL" class="Button" tap="editProfil"/>
-    	<Button text="CHANGER MA PHOTO DE PROFIL" class="Button" tap="editPhoto"/>
+    	<Button text="Prendre une photo" class="Button" tap="editPhoto"/>
+    	<Button text="Importer une photo existante" class="Button" tap="selectImage"/>
+   		<Button text="Aller au chat" class="Button" tap="goToChat"/>
     	<Button text="DECONNECTION" class="disconnectButton" tap="logout"/>
     </StackLayout>
+	</ScrollView>
 </Page>
