@@ -50,7 +50,7 @@ function User(info) {
 	    	console.log("error in login()");
 	    	dialogsModule.alert({
 			message: "Refaites, il y a une erreur ! ",
-			okButtonText: "ok"
+			okButtonText: "Ok"
 	    	});
 	    });
     };

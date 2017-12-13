@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>418925955052-vs6biv1b3pb0km090m7h46stlkve7se8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.418925955052-vs6biv1b3pb0km090m7h46stlkve7se8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDqS_j8vhSO06oXLqdj7rwEyF1kWUjm1G0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>418925955052</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>bimbadaboum</string>
+	<key>PROJECT_ID</key>
+	<string>bimbadaboum-2e847</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bimbadaboum-2e847.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:418925955052:ios:9745c79a3b5d45a4</string>
+	<key>DATABASE_URL</key>
+	<string>https://bimbadaboum-2e847.firebaseio.com</string>
+</dict>
+</plist>
