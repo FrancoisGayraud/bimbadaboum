@@ -1,6 +1,7 @@
 var ChatView = require("nativescript-chatview");
 var firebase = require("nativescript-plugin-firebase");
- 
+var keyboard = require( "nativescript-keyboardshowing" );
+  
 function getTime() {
     var now = new Date();
     
@@ -18,28 +19,76 @@ function getTime() {
  
  }
 
+function displayOldConversation (oldMessages, count, chatView) {
+    var i = 0;
+
+    while (i < count)
+    {
+        var tmp = "msg" + i;
+        var currentMessage = oldMessages[tmp];
+        var position;
+
+        if (currentMessage.from == userID)
+            position = true;
+        else
+            position = false;
+        console.log("old message " + oldMessages[tmp].message);
+
+        chatView.appendMessages({            
+            date: currentMessage.date,
+            isRight: position,
+            message: currentMessage.message,
+            image: null
+        });
+        i++;
+    }
+}
+
+// userID va devoir changer, chaque chat aura pour id la concatenation des 2 uuid des users qui matchent
+
 exports.onNavigatingTo = function(args) {
-    var page = args.object;
     var chatView = new ChatView.ChatView();
+    var page = args.object;
     var count = 0;
 
     var onQueryEvent = function(result) {
         if (!result.error) {
-            console.log("Event type: " + result.type);
-            console.log("Key: " + result.key);
-            console.log("Value: " + JSON.stringify(result.value));
             count = result.value[userID].count;
-            console.log(count);
+            displayOldConversation(result.value[userID].messages, count, chatView)
         }
         else {
             firebase.update(
             '/chat/' + userID,
             {   
-                'count': 0,
+                'count': 1,
                 'member': userID
             })
         }
     };
+
+    var onChildEvent = function (result) {
+      console.log(JSON.stringify(result));
+      if (result.value.from != userID)
+      {
+        chatView.appendMessages({            
+            date: result.value.date,
+            isRight: false,
+            message: result.value.message,
+            image: null
+        });
+      }
+      else
+        console.log("its already your message");
+    };
+
+    firebase.addChildEventListener(onChildEvent, "/chat/" + userID + "/messages").then(
+        function (result) {
+          that._userListenerWrapper = result;
+          console.log("firebase.addChildEventListener added");
+        },
+        function (error) {
+          console.log("firebase.addChildEventListener error: " + error);
+        });
 
     firebase.query(
         onQueryEvent,
@@ -55,13 +104,6 @@ exports.onNavigatingTo = function(args) {
           value: userID
         },
     });
-  
-        chatView.appendMessages({            
-        date: getTime(),
-        isRight: false,
-        image: null,
-        message: "Hello !",    
-        });    
    
       chatView.notifyOnSendMessageTap(function(eventData) {
           eventData.object.appendMessages({            
@@ -74,7 +116,8 @@ exports.onNavigatingTo = function(args) {
         firebase.update(
          '/chat/' + userID + '/messages/' + entry,
             {message: eventData.message,
-            'from': userID}
+            'from': userID,
+            'date': getTime()}
         );
         count++;
         firebase.update(

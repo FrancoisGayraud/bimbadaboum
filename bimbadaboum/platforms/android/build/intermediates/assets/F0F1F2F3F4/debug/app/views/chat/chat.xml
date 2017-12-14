@@ -1,0 +1,5 @@
+<Page xmlns:chatView="nativescript-chatview"
+      navigatingTo="onNavigatingTo">
+</Page>
+
+

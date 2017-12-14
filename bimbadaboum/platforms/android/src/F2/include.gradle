@@ -54,7 +54,7 @@ dependencies {
     // compile "com.google.firebase:firebase-ads:$firebaseVersion"
 
     // Uncomment if you need Facebook Authentication
-    // compile "com.facebook.android:facebook-android-sdk:4.+"
+        compile "com.facebook.android:facebook-android-sdk:4.+"
 
     // Uncomment if you need Google Sign-In Authentication
     // compile "com.google.android.gms:play-services-auth:$googlePlayServicesVersion"

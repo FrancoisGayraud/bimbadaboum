@@ -30,8 +30,6 @@ ADDED from /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/A
 uses-sdk
 ADDED from /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/AndroidManifest.xml:13:2-15:34
 MERGED from [bimbadaboum:runtime:unspecified] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/bimbadaboum/runtime/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.0-alpha1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customtabs:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/26.0.0-alpha1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:transition:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-core:11.2.2] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-core/11.2.2/AndroidManifest.xml:4:5-43
@@ -47,16 +45,27 @@ MERGED from [com.google.firebase:firebase-storage-common:11.2.2] /home/red/Proje
 MERGED from [com.google.firebase:firebase-common:11.2.2] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.2.2/AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-tasks:11.2.2] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.2.2/AndroidManifest.xml:3:5-43
 MERGED from [com.google.android.gms:play-services-basement:11.2.2] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.2.2/AndroidManifest.xml:17:5-43
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.29.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.29.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.29.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:27.0.1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.29.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.29.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.29.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.29.0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.0.1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:27.0.1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [:Data-2017.1.1030-dev-release:] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Data-2017.1.1030-dev-release/AndroidManifest.xml:7:5-9:41
 MERGED from [:List-2017.1.1030-dev-release:] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/List-2017.1.1030-dev-release/AndroidManifest.xml:7:5-9:41
 MERGED from [:widgets-release:] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/widgets-release/AndroidManifest.xml:7:5-9:41
@@ -96,8 +105,6 @@ MERGED from [com.google.firebase:firebase-iid:11.2.2] /home/red/Projet/bimbadabo
 application
 ADDED from /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/AndroidManifest.xml:21:2-42:16
 MERGED from /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/AndroidManifest.xml:21:2-42:16
-MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.0-alpha1/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:customtabs:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/26.0.0-alpha1/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:design:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:transition:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/AndroidManifest.xml:26:5-20
 MERGED from [com.google.firebase:firebase-core:11.2.2] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-core/11.2.2/AndroidManifest.xml:5:5-20
@@ -109,15 +116,15 @@ MERGED from [com.google.android.gms:play-services-base:11.2.2] /home/red/Projet/
 MERGED from [com.google.firebase:firebase-common:11.2.2] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.2.2/AndroidManifest.xml:4:5-7:19
 MERGED from [com.google.android.gms:play-services-tasks:11.2.2] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.2.2/AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:11.2.2] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.2.2/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:26:5-20
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.29.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.29.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.29.0/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-places:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.29.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.29.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.29.0/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.29.0/AndroidManifest.xml:28:5-43:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/AndroidManifest.xml:24:5-28:19
 MERGED from [:Data-2017.1.1030-dev-release:] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Data-2017.1.1030-dev-release/AndroidManifest.xml:11:5-12:19
 MERGED from [:List-2017.1.1030-dev-release:] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/List-2017.1.1030-dev-release/AndroidManifest.xml:11:5-12:19
 MERGED from [:widgets-release:] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/widgets-release/AndroidManifest.xml:11:5-12:19
@@ -131,6 +138,8 @@ MERGED from [:firebase-release:] /home/red/Projet/bimbadaboum/bimbadaboum/platfo
 	android:label
 		ADDED from /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/AndroidManifest.xml:25:3-35
 		ADDED from /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/AndroidManifest.xml:25:3-35
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.29.0/AndroidManifest.xml:28:18-44
 	android:allowBackup
 		ADDED from /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/AndroidManifest.xml:23:3-29
 		ADDED from /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/AndroidManifest.xml:23:3-29
@@ -174,24 +183,13 @@ ADDED from /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/A
 	android:name
 		ADDED from /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/AndroidManifest.xml:41:13-55
 meta-data#android.support.VERSION
-ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.0-alpha1/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:customtabs:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/26.0.0-alpha1/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:design:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
+ADDED from [com.android.support:design:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:transition:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/AndroidManifest.xml:25:5-27:41
 	android:value
-		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.0-alpha1/AndroidManifest.xml:24:9-38
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:27:9-38
 	android:name
-		ADDED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.0-alpha1/AndroidManifest.xml:23:9-47
+		ADDED from [com.android.support:design:26.0.0-alpha1] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/AndroidManifest.xml:26:9-47
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-analytics:11.2.2] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.2.2/AndroidManifest.xml:21:5-78
 MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.2.2/AndroidManifest.xml:21:5-78
@@ -324,6 +322,32 @@ ADDED from [com.google.android.gms:play-services-basement:11.2.2] /home/red/Proj
 		ADDED from [com.google.android.gms:play-services-basement:11.2.2] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.2.2/AndroidManifest.xml:20:66-119
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:11.2.2] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.2.2/AndroidManifest.xml:20:20-65
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.29.0/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.29.0/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.29.0/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.29.0/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.29.0/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.29.0/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.29.0/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.29.0/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.29.0/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.29.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.29.0/AndroidManifest.xml:40:13-70
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/AndroidManifest.xml:26:13-58
 activity#com.telerik.widget.feedback.SendFeedbackActivity
 ADDED from [:Feedback-2017.1.1030-dev-release:] /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.1030-dev-release/AndroidManifest.xml:12:9-16:20
 	android:label

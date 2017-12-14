@@ -11,13 +11,13 @@
                     "endOffset": 218
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 105,
                         "endColumn": 117,
-                        "endOffset": 168
+                        "endOffset": 218
                     }
                 }
             },
@@ -26,17 +26,17 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 223,
-                    "endColumn": 107,
-                    "endOffset": 326
+                    "endColumn": 111,
+                    "endOffset": 330
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 173,
-                        "endColumn": 107,
-                        "endOffset": 276
+                        "startOffset": 223,
+                        "endColumn": 111,
+                        "endOffset": 330
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 331,
-                    "endColumn": 122,
-                    "endOffset": 449
+                    "startOffset": 335,
+                    "endColumn": 112,
+                    "endOffset": 443
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 281,
-                        "endColumn": 122,
-                        "endOffset": 399
+                        "startOffset": 335,
+                        "endColumn": 112,
+                        "endOffset": 443
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 454,
-                    "endColumn": 111,
-                    "endOffset": 561
+                    "startOffset": 448,
+                    "endColumn": 87,
+                    "endOffset": 531
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 404,
-                        "endColumn": 111,
-                        "endOffset": 511
+                        "startOffset": 448,
+                        "endColumn": 87,
+                        "endOffset": 531
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 566,
-                    "endColumn": 112,
-                    "endOffset": 674
+                    "startOffset": 536,
+                    "endColumn": 106,
+                    "endOffset": 638
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 516,
-                        "endColumn": 112,
-                        "endOffset": 624
+                        "startOffset": 536,
+                        "endColumn": 106,
+                        "endOffset": 638
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 679,
-                    "endColumn": 87,
-                    "endOffset": 762
+                    "startOffset": 643,
+                    "endColumn": 126,
+                    "endOffset": 765
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 629,
-                        "endColumn": 87,
-                        "endOffset": 712
+                        "startOffset": 643,
+                        "endColumn": 126,
+                        "endOffset": 765
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 767,
-                    "endColumn": 106,
-                    "endOffset": 869
+                    "startOffset": 770,
+                    "endColumn": 76,
+                    "endOffset": 842
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 717,
-                        "endColumn": 106,
-                        "endOffset": 819
+                        "startOffset": 770,
+                        "endColumn": 76,
+                        "endOffset": 842
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 874,
-                    "endColumn": 126,
-                    "endOffset": 996
+                    "startOffset": 847,
+                    "endColumn": 76,
+                    "endOffset": 919
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 824,
-                        "endColumn": 126,
-                        "endOffset": 946
+                        "startOffset": 847,
+                        "endColumn": 76,
+                        "endOffset": 919
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 1001,
-                    "endColumn": 76,
-                    "endOffset": 1073
+                    "startOffset": 924,
+                    "endColumn": 81,
+                    "endOffset": 1001
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 951,
-                        "endColumn": 76,
-                        "endOffset": 1023
+                        "startOffset": 924,
+                        "endColumn": 81,
+                        "endOffset": 1001
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1078,
-                    "endColumn": 76,
-                    "endOffset": 1150
+                    "startOffset": 1006,
+                    "endColumn": 115,
+                    "endOffset": 1117
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1028,
-                        "endColumn": 76,
-                        "endOffset": 1100
+                        "startOffset": 1006,
+                        "endColumn": 115,
+                        "endOffset": 1117
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1155,
-                    "endColumn": 81,
-                    "endOffset": 1232
+                    "startOffset": 1122,
+                    "endColumn": 110,
+                    "endOffset": 1228
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1105,
-                        "endColumn": 81,
-                        "endOffset": 1182
+                        "startOffset": 1122,
+                        "endColumn": 110,
+                        "endOffset": 1228
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1237,
-                    "endColumn": 115,
-                    "endOffset": 1348
+                    "startOffset": 1233,
+                    "endColumn": 98,
+                    "endOffset": 1327
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1187,
-                        "endColumn": 115,
-                        "endOffset": 1298
+                        "startOffset": 1233,
+                        "endColumn": 98,
+                        "endOffset": 1327
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1353,
-                    "endColumn": 110,
-                    "endOffset": 1459
+                    "startOffset": 1332,
+                    "endColumn": 112,
+                    "endOffset": 1440
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1303,
-                        "endColumn": 110,
-                        "endOffset": 1409
+                        "startOffset": 1332,
+                        "endColumn": 112,
+                        "endOffset": 1440
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1464,
-                    "endColumn": 98,
-                    "endOffset": 1558
+                    "startOffset": 1445,
+                    "endColumn": 103,
+                    "endOffset": 1544
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1414,
-                        "endColumn": 98,
-                        "endOffset": 1508
+                        "startOffset": 1445,
+                        "endColumn": 103,
+                        "endOffset": 1544
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1563,
-                    "endColumn": 112,
-                    "endOffset": 1671
+                    "startOffset": 1549,
+                    "endColumn": 113,
+                    "endOffset": 1658
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1513,
-                        "endColumn": 112,
-                        "endOffset": 1621
+                        "startOffset": 1549,
+                        "endColumn": 113,
+                        "endOffset": 1658
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1676,
-                    "endColumn": 103,
-                    "endOffset": 1775
+                    "startOffset": 1663,
+                    "endColumn": 163,
+                    "endOffset": 1822
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1626,
-                        "endColumn": 103,
-                        "endOffset": 1725
+                        "startOffset": 1663,
+                        "endColumn": 163,
+                        "endOffset": 1822
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1780,
-                    "endColumn": 113,
-                    "endOffset": 1889
+                    "startOffset": 1827,
+                    "endColumn": 99,
+                    "endOffset": 1922
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1730,
-                        "endColumn": 113,
-                        "endOffset": 1839
+                        "startOffset": 1827,
+                        "endColumn": 99,
+                        "endOffset": 1922
                     }
                 }
             },
@@ -329,18 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1894,
-                    "endColumn": 125,
-                    "endOffset": 2015
+                    "startOffset": 1927,
+                    "endColumn": 167,
+                    "endOffset": 2090
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 1844,
-                        "endColumn": 125,
-                        "endOffset": 1965
+                        "startOffset": 55,
+                        "endColumn": 167,
+                        "endOffset": 218
                     }
                 }
             },
@@ -348,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 2020,
-                    "endColumn": 99,
-                    "endOffset": 2115
+                    "startOffset": 2095,
+                    "endColumn": 131,
+                    "endOffset": 2222
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 1970,
-                        "endColumn": 99,
-                        "endOffset": 2065
+                        "startOffset": 223,
+                        "endColumn": 131,
+                        "endOffset": 350
                     }
                 }
             },
@@ -367,9 +367,408 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2120,
+                    "startOffset": 2227,
+                    "endColumn": 142,
+                    "endOffset": 2365
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 355,
+                        "endColumn": 142,
+                        "endOffset": 493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2370,
+                    "endColumn": 114,
+                    "endOffset": 2480
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 498,
+                        "endColumn": 114,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2485,
+                    "endColumn": 91,
+                    "endOffset": 2572
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 613,
+                        "endColumn": 91,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2577,
+                    "endColumn": 84,
+                    "endOffset": 2657
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 84,
+                        "endOffset": 785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2662,
+                    "endColumn": 83,
+                    "endOffset": 2741
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 790,
+                        "endColumn": 83,
+                        "endOffset": 869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2746,
+                    "endColumn": 91,
+                    "endOffset": 2833
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 874,
+                        "endColumn": 91,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2838,
+                    "endColumn": 90,
+                    "endOffset": 2924
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 90,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2929,
+                    "endColumn": 118,
+                    "endOffset": 3043
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1057,
+                        "endColumn": 118,
+                        "endOffset": 1171
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3048,
+                    "endColumn": 117,
+                    "endOffset": 3161
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1176,
+                        "endColumn": 117,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3166,
+                    "endColumn": 91,
+                    "endOffset": 3253
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1294,
+                        "endColumn": 91,
+                        "endOffset": 1381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3258,
+                    "endColumn": 91,
+                    "endOffset": 3345
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1386,
+                        "endColumn": 91,
+                        "endOffset": 1473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3350,
+                    "endColumn": 107,
+                    "endOffset": 3453
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1478,
+                        "endColumn": 107,
+                        "endOffset": 1581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3458,
+                    "endColumn": 123,
+                    "endOffset": 3577
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1586,
+                        "endColumn": 123,
+                        "endOffset": 1705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3582,
+                    "endColumn": 82,
+                    "endOffset": 3660
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1710,
+                        "endColumn": 82,
+                        "endOffset": 1788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3665,
+                    "endColumn": 82,
+                    "endOffset": 3743
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1793,
+                        "endColumn": 82,
+                        "endOffset": 1871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3748,
+                    "endColumn": 196,
+                    "endOffset": 3940
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1876,
+                        "endColumn": 196,
+                        "endOffset": 2068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3945,
+                    "endColumn": 95,
+                    "endOffset": 4036
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2073,
+                        "endColumn": 95,
+                        "endOffset": 2164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 4041,
+                    "endColumn": 99,
+                    "endOffset": 4136
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2169,
+                        "endColumn": 99,
+                        "endOffset": 2264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4141,
+                    "endColumn": 115,
+                    "endOffset": 4252
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2269,
+                        "endColumn": 115,
+                        "endOffset": 2380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4257,
+                    "endColumn": 105,
+                    "endOffset": 4358
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2385,
+                        "endColumn": 105,
+                        "endOffset": 2486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4363,
+                    "endColumn": 168,
+                    "endOffset": 4527
+                },
+                "from": {
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-kn/values-kn.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2491,
+                        "endColumn": 168,
+                        "endOffset": 2655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4532,
                     "endColumn": 112,
-                    "endOffset": 2228
+                    "endOffset": 4640
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -384,11 +783,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2233,
+                    "startOffset": 4645,
                     "endColumn": 201,
-                    "endOffset": 2430
+                    "endOffset": 4842
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -403,11 +802,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 2435,
+                    "startOffset": 4847,
                     "endColumn": 134,
-                    "endOffset": 2565
+                    "endOffset": 4977
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -422,11 +821,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 2570,
+                    "startOffset": 4982,
                     "endColumn": 109,
-                    "endOffset": 2675
+                    "endOffset": 5087
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -441,11 +840,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 2680,
+                    "startOffset": 5092,
                     "endColumn": 201,
-                    "endOffset": 2877
+                    "endOffset": 5289
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -460,11 +859,11 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 2882,
+                    "startOffset": 5294,
                     "endColumn": 130,
-                    "endOffset": 3008
+                    "endOffset": 5420
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -479,11 +878,11 @@
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3013,
+                    "startOffset": 5425,
                     "endColumn": 127,
-                    "endOffset": 3136
+                    "endOffset": 5548
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -498,11 +897,11 @@
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 3141,
+                    "startOffset": 5553,
                     "endColumn": 204,
-                    "endOffset": 3341
+                    "endOffset": 5753
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.2.2/res/values-kn/values.xml",
@@ -517,11 +916,11 @@
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 3346,
+                    "startOffset": 5758,
                     "endColumn": 208,
-                    "endOffset": 3550
+                    "endOffset": 5962
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -536,11 +935,11 @@
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 3555,
+                    "startOffset": 5967,
                     "endColumn": 114,
-                    "endOffset": 3665
+                    "endOffset": 6077
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -555,11 +954,11 @@
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 3670,
+                    "startOffset": 6082,
                     "endColumn": 190,
-                    "endOffset": 3856
+                    "endOffset": 6268
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -574,11 +973,11 @@
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 3861,
+                    "startOffset": 6273,
                     "endColumn": 136,
-                    "endOffset": 3993
+                    "endOffset": 6405
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -593,11 +992,11 @@
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 3998,
+                    "startOffset": 6410,
                     "endColumn": 203,
-                    "endOffset": 4197
+                    "endOffset": 6609
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -612,11 +1011,11 @@
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 4202,
+                    "startOffset": 6614,
                     "endColumn": 186,
-                    "endOffset": 4384
+                    "endOffset": 6796
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -631,11 +1030,11 @@
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 4389,
+                    "startOffset": 6801,
                     "endColumn": 98,
-                    "endOffset": 4483
+                    "endOffset": 6895
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -650,11 +1049,11 @@
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 4488,
+                    "startOffset": 6900,
                     "endColumn": 92,
-                    "endOffset": 4576
+                    "endOffset": 6988
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -669,11 +1068,11 @@
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 4581,
+                    "startOffset": 6993,
                     "endColumn": 113,
-                    "endOffset": 4690
+                    "endOffset": 7102
                 },
                 "from": {
                     "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-kn/values.xml",
@@ -688,39 +1087,39 @@
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 4695,
+                    "startOffset": 7107,
                     "endColumn": 81,
-                    "endOffset": 4772
+                    "endOffset": 7184
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2070,
+                        "startOffset": 1927,
                         "endColumn": 81,
-                        "endOffset": 2147
+                        "endOffset": 2004
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 4777,
+                    "startOffset": 7189,
                     "endColumn": 100,
-                    "endOffset": 4873
+                    "endOffset": 7285
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/res/values-kn/values-kn.xml",
+                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-kn/values-kn.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 2152,
+                        "startOffset": 55,
                         "endColumn": 100,
-                        "endOffset": 2248
+                        "endOffset": 151
                     }
                 }
             }

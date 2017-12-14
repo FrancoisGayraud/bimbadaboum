@@ -1,0 +1,73 @@
+{
+  "_from": "nativescript-keyboardshowing",
+  "_id": "nativescript-keyboardshowing@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-OJv9fKi3eMYu+yyB7gLcelXDK/U=",
+  "_location": "/nativescript-keyboardshowing",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-keyboardshowing",
+    "name": "nativescript-keyboardshowing",
+    "escapedName": "nativescript-keyboardshowing",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-keyboardshowing/-/nativescript-keyboardshowing-1.0.0.tgz",
+  "_shasum": "389bfd7ca8b778c62efb2c81ee02dc7a55c32bf5",
+  "_spec": "nativescript-keyboardshowing",
+  "_where": "/home/red/Projet/bimbadaboum/bimbadaboum",
+  "author": {
+    "name": "Nathanael Anderson",
+    "email": "nathan@master-technology.com"
+  },
+  "bugs": {
+    "url": "https://github.com/NathanaelA/nativescript-keyboardshowing/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Find out if keyboard is showing and fires events when keyboard shows or hides.",
+  "homepage": "https://github.com/NathanaelA/nativescript-keyboardshowing",
+  "keywords": [
+    "NativeScript",
+    "keyboardshowing",
+    "nativescript",
+    "ns",
+    "keyboard",
+    "show",
+    "hide"
+  ],
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/NathanaelA/nativescript-keyboardshowing/blob/master/LICENSE"
+  },
+  "main": "index.js",
+  "name": "nativescript-keyboardshowing",
+  "nativescript": {
+    "platforms": {
+      "android": "2.0.0",
+      "ios": "2.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanaelA/nativescript-keyboardshowing.git"
+  },
+  "scripts": {
+    "debug.android": "npm run preparedemo && cd demo && tns debug android --emulator",
+    "debug.ios": "npm run preparedemo && cd demo && tns debug ios --emulator",
+    "demo.android": "npm run preparedemo && cd demo && tns run android",
+    "demo.ios": "npm run preparedemo && cd demo && tns emulate ios",
+    "preparedemo": "cd demo && tns plugin remove nativescript-keyboardshowing && tns plugin add .. && tns install",
+    "setup": "cd demo && npm install && tns plugin add .. && cd ..",
+    "start": "npm run demo.android"
+  },
+  "typings": "index.d.ts",
+  "version": "1.0.0"
+}

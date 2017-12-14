@@ -8,6 +8,7 @@
     	<Button text="Importer une photo existante" class="Button" tap="selectImage"/>
    		<Button text="Aller au chat" class="Button" tap="goToChat"/>
     	<Button text="DECONNECTION" class="disconnectButton" tap="logout"/>
+                 <ActivityIndicator busy="{{ isLoading }}" rowSpan="2" colSpan="2" />
     </StackLayout>
 	</ScrollView>
 </Page>

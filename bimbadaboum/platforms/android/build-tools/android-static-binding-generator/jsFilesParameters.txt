@@ -185,8 +185,14 @@
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-checkbox/checkbox-common.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-checkbox/angular/index.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-imagepicker/imagepicker.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-loading-indicator/loading-indicator.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-loading-indicator/src/interfaces.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-loading-indicator/src/ios/mbprogress-hud.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-loading-indicator/src/android/progress-dialog.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-keyboardshowing/index.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-pro-ui/scripts/eula-prompt.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/views/home/home.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/views/register/register.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/views/login/login.js
+/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/views/chat/chat.js
 /home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/views/profil/profil.js

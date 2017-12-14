@@ -14,8 +14,25 @@ var page;
 var viewModel = new observable.Observable();
 var userMail;
 var profilPic;
+var LoadingIndicator = require("nativescript-loading-indicator").LoadingIndicator;
+var loader = new LoadingIndicator();
+var options = {
+  message: 'Nous y sommes presque...',
+  progress: 0.65,
+  android: {
+    indeterminate: true,
+    cancelable: true,
+    cancelListener: function(dialog) { console.log("Loading cancelled") },
+    max: 100,
+    progressNumberFormat: "%1d/%2d",
+    progressPercentFormat: 0.53,
+    progressStyle: 2,
+    secondaryProgress: 1
+  }
+};
 
 exports.loaded = function (args) {
+	loader.show(options);
 	page = args.object;
 
 	firebase.getCurrentUser().then(
@@ -37,21 +54,25 @@ exports.loaded = function (args) {
 					page.bindingContext = viewModel;
 		      	}
 		    };
-			  firebase.query(
-				onQueryEvent,
-	        	"/users",
-    	    		{
-	    	  			singleEvent: true,
-    					orderBy: {
-   						type: firebase.QueryOrderByType.CHILD,
-      	   				value: "mail"
-	    			},
-	    				range: {
-	           			type: firebase.QueryRangeType.EQUAL_TO,
-	           			value: userMail
-	        		},
-	    	});
+		firebase.query(
+			onQueryEvent,
+	        "/users",
+    	    	{
+	    	  		singleEvent: true,
+    				orderBy: {
+   					type: firebase.QueryOrderByType.CHILD,
+       				value: "mail"
+	   			},
+    				range: {
+        			type: firebase.QueryRangeType.EQUAL_TO,
+        			value: userMail
+           		},
+	    	}).then(function() {
+	    		if (page.bindingContext)
+		    		loader.hide();
+		    });
 	    })
+
 }
 
 exports.logout = function () {
@@ -149,65 +170,4 @@ exports.editPhoto = function () {
 
 exports.editProfil = function () {
 	frameModule.topmost().navigate("views/profil/profil");
-}
-
-exports.submitFirstName = function () {
-	var first = view.getViewById(page, "first");
-	var userId;
-	var userMail;
-
-	firebase.getCurrentUser().then(
-		function (result) {
-			userMail = result.email;
-		},
-		function (errorMessage) {
-			console.log(errorMessage);
-		}).then(function () {
-		 var onQueryEvent = function(result) {
-		        if (!result.error) {
-					var keyNames = Object.keys(result.value);
-					console.log("key : " + keyNames[0]);
-					userId = keyNames[0];
-		      	}
-		    };
-			  firebase.query(
-				onQueryEvent,
-	        	"/users",
-    	    		{
-	    	  			singleEvent: true,
-    					orderBy: {
-   						type: firebase.QueryOrderByType.CHILD,
-      	   				value: "mail"
-	    			},
-	    				range: {
-	           			type: firebase.QueryRangeType.EQUAL_TO,
-	           			value: userMail
-	        		},
-	    			}).then(function (){
-							firebase.update(
-						      '/users/' + userId,
-						      {'firstName': first.text}
-							);
-	    				
-	    			})
-		});
-
-
-	console.log(first.text);
-}
-
-exports.queryThing = function() {
-	firebase.getDownloadUrl({
-	// IL ARRIVE PAS A RECUPERER L'URL DE L'IMAGE, IL A SUREMENT PAS ENCORE UPLOAD
-	bucket: 'gs://bimbadaboum-2e847.appspot.com',
-    remoteFullPath: '/uploads/images/' + userMail + '/profilPics' + '/FriDec01201716:30:49GMT+0100(CET)'
-  }).then(
-      function (url) {
-        console.log("Remote URL: " + url);
-        URL = url;
-      },
-      function (error) {
-        console.log("Error: " + error);
-      }
-  );
 }
