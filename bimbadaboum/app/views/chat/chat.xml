@@ -1,6 +1,7 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd"
       xmlns:chatView="nativescript-chatview"
-      navigatingTo="onNavigatingTo">
-      
+      navigatingTo="onNavigatingTo">   
   <chatView:ChatView id="myChatView" />
 </Page>
+
+
