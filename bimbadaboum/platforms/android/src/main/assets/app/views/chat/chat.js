@@ -1,6 +1,7 @@
 var ChatView = require("nativescript-chatview");
 var firebase = require("nativescript-plugin-firebase");
 var keyboard = require( "nativescript-keyboardshowing" );
+var count = 0
   
 function getTime() {
     var now = new Date();
@@ -49,39 +50,56 @@ function displayOldConversation (oldMessages, count, chatView) {
 exports.onNavigatingTo = function(args) {
     var chatView = new ChatView.ChatView();
     var page = args.object;
-    var count = 0;
+    var currentChat;
 
     var onQueryEvent = function(result) {
         if (!result.error) {
-            count = result.value[userID].count;
-            displayOldConversation(result.value[userID].messages, count, chatView)
-        }
-        else {
-            firebase.update(
-            '/chat/' + userID,
-            {   
-                'count': 1,
-                'member': userID
-            })
+         currentChat = result.value[userID].currentChat;
         }
     };
+
+    var retrieveOldMessages = function(result) {
+        if (!result.error) {
+            alert(JSON.stringify(result));
+//            displayOldConversation(result.value[currentChat].messages, count, chatView)
+        }
+    }
+
+    firebase.query(
+        onQueryEvent,
+        "/users/",
+        {
+          singleEvent: true,
+          orderBy: {
+          type: firebase.QueryOrderByType.CHILD,
+          value: "mail"
+        },
+          range: {
+          type: firebase.QueryRangeType.EQUAL_TO,
+          value: userMail
+        },
+    });
+
+        firebase.query(
+        retrieveOldMessages,
+        "/chats/",
+        {
+          singleEvent: true,
+          orderBy: {
+          type: firebase.QueryOrderByType.CHILD,
+          value: "name"
+        },
+          range: {
+          type: firebase.QueryRangeType.EQUAL_TO,
+          value: currentChat
+        },
+    });
 
     var onChildEvent = function (result) {
       console.log(JSON.stringify(result));
-      if (result.value.from != userID)
-      {
-        chatView.appendMessages({            
-            date: result.value.date,
-            isRight: false,
-            message: result.value.message,
-            image: null
-        });
-      }
-      else
-        console.log("its already your message");
-    };
+         };
 
-    firebase.addChildEventListener(onChildEvent, "/chat/" + userID + "/messages").then(
+    firebase.addChildEventListener(onChildEvent, "/chats/" + currentChat + "/messages").then(
         function (result) {
           that._userListenerWrapper = result;
           console.log("firebase.addChildEventListener added");
@@ -90,20 +108,8 @@ exports.onNavigatingTo = function(args) {
           console.log("firebase.addChildEventListener error: " + error);
         });
 
-    firebase.query(
-        onQueryEvent,
-        "/chat/",
-        {
-          singleEvent: true,
-          orderBy: {
-          type: firebase.QueryOrderByType.CHILD,
-          value: "member"
-        },
-          range: {
-          type: firebase.QueryRangeType.EQUAL_TO,
-          value: userID
-        },
-    });
+
+    //LES MESSAGES APPARAISSENT ET DISPARAISSENT AU BOUT DE 10 SEC OKKKK
    
       chatView.notifyOnSendMessageTap(function(eventData) {
           eventData.object.appendMessages({            
@@ -114,14 +120,14 @@ exports.onNavigatingTo = function(args) {
         });
         entry = 'msg' + count.toString();
         firebase.update(
-         '/chat/' + userID + '/messages/' + entry,
+         '/chats/' + currentChat + '/messages/' + entry,
             {message: eventData.message,
             'from': userID,
             'date': getTime()}
         );
-        count++;
+        count++;        
         firebase.update(
-            '/chat/' + userID,
+            '/chats/' + currentChat,
             {'count': count}
         );
         eventData.resetMessage();

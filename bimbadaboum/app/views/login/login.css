@@ -7,6 +7,10 @@
 	font-size: 28;
 }
 
+.body {
+	background-image: ~/ressources/backgroundStripes.jpg;
+}
+
 .connexionText {
 	color: black;
 	text-align: center;

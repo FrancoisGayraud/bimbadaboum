@@ -12,7 +12,6 @@ var context = imagepicker.create({ mode: "single" }); // use "multiple" for mult
 var appPath = fs.knownFolders.currentApp().path;
 var page;
 var viewModel = new observable.Observable();
-var userMail;
 var profilPic;
 var LoadingIndicator = require("nativescript-loading-indicator").LoadingIndicator;
 var loader = new LoadingIndicator();
@@ -29,6 +28,22 @@ var options = {
     progressStyle: 2,
     secondaryProgress: 1
   }
+};
+var matchLoader = new LoadingIndicator();
+var optionsMatch = {
+  message: 'Recherche...',
+  progress: 0.65,
+  android: {
+    indeterminate: true,
+    cancelable: true,
+    cancelListener: function(dialog) { console.log("Loading cancelled") },
+    max: 100,
+    progressNumberFormat: "%1d/%2d",
+    progressPercentFormat: 0.53,
+    progressStyle: 2,
+    secondaryProgress: 1
+  }
+
 };
 
 exports.loaded = function (args) {
@@ -79,8 +94,50 @@ exports.logout = function () {
 	user.logout();
 }
 
-exports.goToChat = function () {
-	frameModule.topmost().navigate("views/chat/chat");
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function matchWithSomeone(result) {
+
+}
+
+exports.searchMatch = async function () {
+	var find = false;
+	firebase.update("/users/" + userID,
+	 	{
+	 		'searching' : true
+		});
+	loader.show(optionsMatch);
+	while (!find)
+	{
+		 var onQueryEvent = function(result) {
+		        if (!result.error) {
+		        	console.log(JSON.stringify(result))
+		        	if (result.value[userID].searching == false) {
+		        			loader.hide();	
+		        		frameModule.topmost().navigate("views/chat/chat");
+		        	}
+		      	}
+		    };
+		firebase.query(
+			onQueryEvent,
+	        "/users",
+    	    	{
+	    	  		singleEvent: true,
+    				orderBy: {
+   					type: firebase.QueryOrderByType.CHILD,
+       				value: "mail"
+	   			},
+    				range: {
+        			type: firebase.QueryRangeType.EQUAL_TO,
+        			value: userMail
+           		},
+	    	
+	});
+		console.log("LOOPING");
+		await sleep(4000);
+	}
 }
 
 exports.selectImage = function () {

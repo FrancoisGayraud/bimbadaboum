@@ -6,9 +6,8 @@
     	<Button text="METTRE A JOUR MON PROFIL" class="Button" tap="editProfil"/>
     	<Button text="Prendre une photo" class="Button" tap="editPhoto"/>
     	<Button text="Importer une photo existante" class="Button" tap="selectImage"/>
-   		<Button text="Aller au chat" class="Button" tap="goToChat"/>
+   		<Button text="Match !" class="Button" tap="searchMatch"/>
     	<Button text="DECONNECTION" class="disconnectButton" tap="logout"/>
-                 <ActivityIndicator busy="{{ isLoading }}" rowSpan="2" colSpan="2" />
     </StackLayout>
 	</ScrollView>
 </Page>
