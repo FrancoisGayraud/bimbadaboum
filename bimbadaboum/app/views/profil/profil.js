@@ -15,9 +15,81 @@ var observable = require('data/observable');
 var imagepicker = require("nativescript-imagepicker");
 var context = imagepicker.create({ mode: "single" }); // use "multiple" for multiple selection
 var appPath = fs.knownFolders.currentApp().path;
+var profilPic;
+var LoadingIndicator = require("nativescript-loading-indicator").LoadingIndicator;
+var loader = new LoadingIndicator();
+var options = {
+  message: 'Nous y sommes presque...',
+  progress: 0.65,
+  android: {
+    indeterminate: true,
+    cancelable: true,
+    cancelListener: function(dialog) { console.log("Loading cancelled") },
+    max: 100,
+    progressNumberFormat: "%1d/%2d",
+    progressPercentFormat: 0.53,
+    progressStyle: 2,
+    secondaryProgress: 1
+  }
+};
+var matchLoader = new LoadingIndicator();
+var optionsMatch = {
+  message: 'Recherche...',
+  progress: 0.65,
+  android: {
+    indeterminate: true,
+    cancelable: true,
+    cancelListener: function(dialog) { console.log("Loading cancelled") },
+    max: 100,
+    progressNumberFormat: "%1d/%2d",
+    progressPercentFormat: 0.53,
+    progressStyle: 2,
+    secondaryProgress: 1
+  }
+
+};
 
 exports.loaded = function (args) {
-	page = args.object;
+	loader.show(options);
+  page = args.object;
+
+  firebase.getCurrentUser().then(
+    function (result) {
+      userMail = result.email;
+    },
+    function (errorMessage) {
+      console.log(errorMessage);
+    }).then(function () {
+      var onQueryEvent = function(result) {
+        if (!result.error) {
+          console.log(JSON.stringify(result))
+          var keyNames = Object.keys(result.value);
+          console.log("key : " + keyNames[0]);
+          userID = keyNames[0];
+          profilPic = result.value[userID].picsUrl;
+          viewModel.set("profilPic", profilPic);
+          viewModel.set("name", result.value[userID].firstName);
+          page.bindingContext = viewModel;
+        }
+      };
+      firebase.query(
+        onQueryEvent,
+        "/users",
+        {
+          singleEvent: true,
+          orderBy: {
+            type: firebase.QueryOrderByType.CHILD,
+            value: "mail"
+          },
+          range: {
+            type: firebase.QueryRangeType.EQUAL_TO,
+            value: userMail
+          },
+        }).then(function() {
+          if (page.bindingContext)
+          loader.hide();
+        });
+      })
 	var items = new observableArray.ObservableArray();
 	items.push("Homme");
 	items.push("Femme");

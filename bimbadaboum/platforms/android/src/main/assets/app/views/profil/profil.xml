@@ -1,18 +1,23 @@
 <Page loaded="loaded" actionBarHidden="true" xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:dd="nativescript-drop-down">
+  <ScrollView>
     <StackLayout>
-    	<label text="BIMBADABOUM" class="mainTitle"></label>
+      <Image src="{{ profilPic }}" class="profilPic"/>
     	<label text="Votre prénom" class="hint"></label>
     	<TextField class="inputArea" style="border-color: red;" id="firstName" hint="Prénom" autocorrect="false" autocapitalizationType="none"/>
     	<label text="Votre nom de famille" class="hint"></label>
     	<TextField class="inputArea" style="border-color: red;" id="lastName" hint="Nom de famille" autocorrect="false" autocapitalizationType="none"/>
     	<label text="Votre ville" class="hint"></label>
     	<TextField class="inputArea" style="border-color: red;" id="city" hint="Ville" autocorrect="false" autocapitalizationType="none"/>
-        <label text="Votre sexe" class="hint"></label>
-		<dd:DropDown items="{{ items }}" selectedIndex="{{ selectedIndex }}"
+      <label text="Votre sexe" class="hint"></label>
+		  <dd:DropDown items="{{ items }}" selectedIndex="{{ selectedIndex }}"
                  opened="dropDownOpened" closed="dropDownClosed"
                  selectedIndexChanged="dropDownSelectedIndexChanged" style="text-align: center; horizontal-align: center; width:100vh; margin-bottom: 50vh;"/>
-      <Button text="Prendre une photo" class="Button" tap="editPhoto"/>
-      <Button text="Importer une photo existante" class="Button" tap="selectImage"/>
+      <label text="Vos photos" class="hint"></label>
+      <WrapLayout class="buttonZone">
+        <Button text="Prendre une photo" class="Button" tap="editPhoto"/>
+        <Button text="Selectionner une photo" class="Button" tap="selectImage"/>
+      </WrapLayout>
       <Button text="SAUVEGARDER" class="Button" tap="submitChanges"/>
     </StackLayout>
+  </ScrollView>
 </Page>

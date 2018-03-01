@@ -1,10 +1,20 @@
 .Button {
-	color: black;
-	border-color: #bf0d31;
+	color: white;
 	font-size:12;
-	background-color: white;
-	border-width: 5px;
-	width: 200vh;
+	background-color: #bf0d31;
+	width: 50%;
+	margin-top: 10vh;
+	margin-bottom: 50vh;
+}
+
+.profilPic {
+	width: 50%;
+	margin-top: 50vh;
+	margin-bottom: 50vh;
+}
+
+.buttonZone {
+	width: 75%;
 }
 
 .inputArea {
@@ -13,7 +23,7 @@
 }
 
 .mainTitle {
-	color: black;	
+	color: black;
 	text-align: center;
 	font-weight: bold;
 	margin-top: 50vh;
