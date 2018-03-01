@@ -11,20 +11,20 @@ var gender = 0;
 exports.loaded = function (args) {
 	page = args.object;
 	var items = new observableArray.ObservableArray();
-    items.push("Homme");
-    items.push("Femme");
- 
-    viewModel.set("items", items);
-    viewModel.set("selectedIndex", 0);
- 
-    page.bindingContext = viewModel;
+	items.push("Homme");
+	items.push("Femme");
+
+	viewModel.set("items", items);
+	viewModel.set("selectedIndex", 0);
+
+	page.bindingContext = viewModel;
 
 }
 
 
 exports.dropDownSelectedIndexChanged = function(args) {
 	gender = args.newIndex;
-    console.log(`Drop Down selected index changed from ${args.oldIndex} to ${args.newIndex}`);
+	console.log(`Drop Down selected index changed from ${args.oldIndex} to ${args.newIndex}`);
 }
 
 exports.submitChanges = function () {
@@ -34,17 +34,17 @@ exports.submitChanges = function () {
 	var gen;
 
 	if (gender == 0)
-		gen = true;
+	gen = true;
 	else
-		gen = false;
+	gen = false;
 
 	console.log("values : " + firstName.text + " " + lastName.text + " " + city.text);
 
 	firebase.update(
-     '/users/' + userID,
-	{'firstName': firstName.text,
-	 'lastName': lastName.text,
-	 'isMale': gen,
-	 'city': city.text}
+		'/users/' + userID,
+		{'firstName': firstName.text,
+		'lastName': lastName.text,
+		'isMale': gen,
+		'city': city.text}
 	);
 }

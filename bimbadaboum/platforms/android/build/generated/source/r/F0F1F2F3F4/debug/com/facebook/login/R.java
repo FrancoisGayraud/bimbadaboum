@@ -671,12 +671,6 @@ public final class R {
 		public static final int tooltip_frame_light = 0x7f0200cd;
 	}
 	public static final class id {
-		public static final int ALT = 0x7f0d0069;
-		public static final int CTRL = 0x7f0d006a;
-		public static final int FUNCTION = 0x7f0d006b;
-		public static final int META = 0x7f0d006c;
-		public static final int SHIFT = 0x7f0d006d;
-		public static final int SYM = 0x7f0d006e;
 		public static final int action0 = 0x7f0d0136;
 		public static final int action_bar = 0x7f0d00b0;
 		public static final int action_bar_activity_content = 0x7f0d0000;
@@ -699,10 +693,8 @@ public final class R {
 		public static final int activity_chooser_view_content = 0x7f0d0091;
 		public static final int add = 0x7f0d0028;
 		public static final int alertTitle = 0x7f0d00a4;
-		public static final int always = 0x7f0d006f;
 		public static final int async = 0x7f0d005d;
 		public static final int automatic = 0x7f0d0089;
-		public static final int beginning = 0x7f0d0065;
 		public static final int blocking = 0x7f0d005e;
 		public static final int bottom = 0x7f0d003e;
 		public static final int box_count = 0x7f0d0086;
@@ -713,7 +705,6 @@ public final class R {
 		public static final int center = 0x7f0d003b;
 		public static final int checkbox = 0x7f0d00a7;
 		public static final int chronometer = 0x7f0d013f;
-		public static final int collapseActionView = 0x7f0d0070;
 		public static final int com_facebook_body_frame = 0x7f0d00da;
 		public static final int com_facebook_button_xout = 0x7f0d00dc;
 		public static final int com_facebook_device_auth_instructions = 0x7f0d00d5;
@@ -730,19 +721,15 @@ public final class R {
 		public static final int customPanel = 0x7f0d00a0;
 		public static final int decor_content_parent = 0x7f0d00ae;
 		public static final int default_activity_button = 0x7f0d0094;
-		public static final int disableHome = 0x7f0d001c;
 		public static final int display_always = 0x7f0d008a;
 		public static final int edit_query = 0x7f0d00b2;
-		public static final int end = 0x7f0d0045;
 		public static final int end_padder = 0x7f0d0145;
 		public static final int expand_activities_button = 0x7f0d0092;
 		public static final int expanded_menu = 0x7f0d00a6;
 		public static final int forever = 0x7f0d005f;
 		public static final int home = 0x7f0d0004;
-		public static final int homeAsUp = 0x7f0d001d;
 		public static final int icon = 0x7f0d0096;
 		public static final int icon_group = 0x7f0d0144;
-		public static final int ifRoom = 0x7f0d0071;
 		public static final int image = 0x7f0d0093;
 		public static final int info = 0x7f0d0140;
 		public static final int inline = 0x7f0d0088;
@@ -755,9 +742,7 @@ public final class R {
 		public static final int list_item = 0x7f0d0095;
 		public static final int media_actions = 0x7f0d0139;
 		public static final int message = 0x7f0d015c;
-		public static final int middle = 0x7f0d0066;
 		public static final int multiply = 0x7f0d0029;
-		public static final int never = 0x7f0d0072;
 		public static final int never_display = 0x7f0d008b;
 		public static final int none = 0x7f0d001e;
 		public static final int normal = 0x7f0d001a;
@@ -790,9 +775,6 @@ public final class R {
 		public static final int search_voice_btn = 0x7f0d00bd;
 		public static final int select_dialog_listview = 0x7f0d00be;
 		public static final int shortcut = 0x7f0d00a8;
-		public static final int showCustom = 0x7f0d001f;
-		public static final int showHome = 0x7f0d0020;
-		public static final int showTitle = 0x7f0d0021;
 		public static final int small = 0x7f0d008d;
 		public static final int spacer = 0x7f0d0098;
 		public static final int split_action_bar = 0x7f0d000a;
@@ -818,8 +800,6 @@ public final class R {
 		public static final int uniform = 0x7f0d002e;
 		public static final int unknown = 0x7f0d0085;
 		public static final int up = 0x7f0d0014;
-		public static final int useLogo = 0x7f0d0022;
-		public static final int withText = 0x7f0d0073;
 		public static final int wrap_content = 0x7f0d002f;
 	}
 	public static final class integer {
@@ -1341,7 +1321,6 @@ public final class R {
 		public static final int ActionBar_titleTextStyle = 5;
 		public static final int[] ActionMenuItemView = { 0x0101013f };
 		public static final int ActionMenuItemView_android_minWidth = 0;
-		public static final int[] ActionMenuView = { };
 		public static final int[] ActionMode = { 0x7f010007, 0x7f01001c, 0x7f01001d, 0x7f010021, 0x7f010023, 0x7f010033 };
 		public static final int ActionMode_background = 3;
 		public static final int ActionMode_backgroundSplit = 4;

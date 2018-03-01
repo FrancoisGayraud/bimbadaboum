@@ -1,13 +1,11 @@
 <Page loaded="loaded" actionBarHidden="true">
-	<ScrollView>
-    <StackLayout>
-    	<Image src="{{ profilPic }}"/>
+    <WrapLayout padding="10vh">
+			<Button text="Profil" class="profileButton" tap="editProfil"/>
     	<label text="{{ 'Bonjour ' + name + ' !'}}" class="mainTitle"></label>
-    	<Button text="METTRE A JOUR MON PROFIL" class="Button" tap="editProfil"/>
-    	<Button text="Prendre une photo" class="Button" tap="editPhoto"/>
-    	<Button text="Importer une photo existante" class="Button" tap="selectImage"/>
-   		<Button text="Match !" class="Button" tap="searchMatch"/>
+			<StackLayout backgroundColor="#f4dcdc" class="matchZone">
+				<label text="Recherche" class="searchTitle"></label>
+   			<Button text="Match !" class="matchButton" tap="searchMatch" verticalAlignment="center"/>
+			</StackLayout>
     	<Button text="DECONNECTION" class="disconnectButton" tap="logout"/>
-    </StackLayout>
-	</ScrollView>
+    </WrapLayout>
 </Page>

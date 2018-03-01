@@ -2,7 +2,7 @@
 
 android {
 	productFlavors {
-		"F3" {
+		"F1" {
 			dimension "nativescriptimagepicker"
 		}
 	}

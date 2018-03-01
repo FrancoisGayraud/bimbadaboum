@@ -1,11 +1,12 @@
 var ChatView = require("nativescript-chatview");
 var firebase = require("nativescript-plugin-firebase");
 var keyboard = require( "nativescript-keyboardshowing" );
-var count = 0
-  
+var count = 0;
+var currentChat;
+
 function getTime() {
     var now = new Date();
-    
+
     var hours = now.getHours();
     var minutes = now.getMinutes();
     var day = now.getDate();
@@ -17,7 +18,7 @@ function getTime() {
         minutes = '0' + minutes;
 
     return ("A " + hours + ":" + minutes + " le " + day + "/" +  (month + 1));
- 
+
  }
 
 function displayOldConversation (oldMessages, count, chatView) {
@@ -35,7 +36,7 @@ function displayOldConversation (oldMessages, count, chatView) {
             position = false;
         console.log("old message " + oldMessages[tmp].message);
 
-        chatView.appendMessages({            
+        chatView.appendMessages({
             date: currentMessage.date,
             isRight: position,
             message: currentMessage.message,
@@ -45,12 +46,11 @@ function displayOldConversation (oldMessages, count, chatView) {
     }
 }
 
-// userID va devoir changer, chaque chat aura pour id la concatenation des 2 uuid des users qui matchent
-
 exports.onNavigatingTo = function(args) {
     var chatView = new ChatView.ChatView();
     var page = args.object;
-    var currentChat;
+    var oldMessageQuery = false;
+    var initQuery = false; 
 
     var onQueryEvent = function(result) {
         if (!result.error) {
@@ -60,40 +60,45 @@ exports.onNavigatingTo = function(args) {
 
     var retrieveOldMessages = function(result) {
         if (!result.error) {
-            alert(JSON.stringify(result));
-//            displayOldConversation(result.value[currentChat].messages, count, chatView)
+          if (!oldMessageQuery) {
+            oldMessageQuery = true;
+            count = result.value[currentChat].count;
+            displayOldConversation(result.value[currentChat].messages, result.value[currentChat].count, chatView);
+          }
         }
     }
-
-    firebase.query(
-        onQueryEvent,
-        "/users/",
-        {
-          singleEvent: true,
-          orderBy: {
-          type: firebase.QueryOrderByType.CHILD,
-          value: "mail"
-        },
-          range: {
-          type: firebase.QueryRangeType.EQUAL_TO,
-          value: userMail
-        },
-    });
-
-        firebase.query(
-        retrieveOldMessages,
-        "/chats/",
-        {
-          singleEvent: true,
-          orderBy: {
-          type: firebase.QueryOrderByType.CHILD,
-          value: "name"
-        },
-          range: {
-          type: firebase.QueryRangeType.EQUAL_TO,
-          value: currentChat
-        },
-    });
+    if (!initQuery) {
+      initQuery = true;
+      firebase.query(
+          onQueryEvent,
+          "/users/",
+          {
+            singleEvent: true,
+            orderBy: {
+              type: firebase.QueryOrderByType.CHILD,
+              value: "mail"
+            },
+            range: {
+              type: firebase.QueryRangeType.EQUAL_TO,
+              value: userMail
+            },
+          }).then(function () {
+            firebase.query(
+              retrieveOldMessages,
+              "/chats/",
+              {
+                singleEvent: true,
+                orderBy: {
+                  type: firebase.QueryOrderByType.CHILD,
+                  value: "name"
+                },
+                range: {
+                  type: firebase.QueryRangeType.EQUAL_TO,
+                  value: currentChat
+                },
+              });
+            });
+          }
 
     var onChildEvent = function (result) {
       console.log(JSON.stringify(result));
@@ -109,10 +114,8 @@ exports.onNavigatingTo = function(args) {
         });
 
 
-    //LES MESSAGES APPARAISSENT ET DISPARAISSENT AU BOUT DE 10 SEC OKKKK
-   
       chatView.notifyOnSendMessageTap(function(eventData) {
-          eventData.object.appendMessages({            
+          eventData.object.appendMessages({
             date: getTime(),
             isRight: true,
             message: eventData.message,
@@ -125,7 +128,7 @@ exports.onNavigatingTo = function(args) {
             'from': userID,
             'date': getTime()}
         );
-        count++;        
+        count++;
         firebase.update(
             '/chats/' + currentChat,
             {'count': count}
@@ -134,9 +137,9 @@ exports.onNavigatingTo = function(args) {
         eventData.scrollToBottom();
         eventData.focusTextField();
     });
-    
-    chatView.focusMessageField();
-    
+
+//    chatView.focusMessageField();
+
     page.content = chatView;
-    
+
 }

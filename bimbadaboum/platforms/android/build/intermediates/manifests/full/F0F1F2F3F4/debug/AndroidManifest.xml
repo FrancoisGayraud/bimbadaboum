@@ -6,7 +6,7 @@
 
     <uses-sdk
         android:minSdkVersion="17"
-        android:targetSdkVersion="26" />
+        android:targetSdkVersion="27" />
 
     <uses-permission android:name="android.permission.CAMERA" />
     <!--
@@ -160,10 +160,6 @@
             android:name="com.facebook.internal.FacebookInitProvider"
             android:authorities="org.nativescript.bimbadaboum.FacebookInitProvider"
             android:exported="false" />
-
-        <meta-data
-            android:name="android.arch.lifecycle.VERSION"
-            android:value="27.0.0-SNAPSHOT" />
 
         <activity
             android:name="com.telerik.widget.feedback.SendFeedbackActivity"

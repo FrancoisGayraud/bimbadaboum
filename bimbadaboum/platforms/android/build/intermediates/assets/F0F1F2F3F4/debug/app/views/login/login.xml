@@ -1,4 +1,4 @@
-<Page loaded="loaded" actionBarHidden="true">
+<Page loaded="loaded" actionBarHidden="true" class="body">
   <StackLayout orientation="vertical">
   	<label text="BIMBADABOUM" class="mainTitle oldFashion"></label>
   	<label text="Connexion" class="connexionText oldFashion"></label>

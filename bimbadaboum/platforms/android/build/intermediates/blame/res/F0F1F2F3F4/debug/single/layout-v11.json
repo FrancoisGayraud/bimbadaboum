@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/layout-v11/simple_list_item.xml",
-        "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/List-2017.1.1030-dev-release/res/layout-v11/simple_list_item.xml"
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/layout-v11/simple_list_item.xml",
+        "source": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/List-2017.1.1030-dev-release/res/layout-v11/simple_list_item.xml"
     },
     {
-        "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/layout-v11/on_demand_manual.xml",
-        "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/List-2017.1.1030-dev-release/res/layout-v11/on_demand_manual.xml"
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/layout-v11/on_demand_manual.xml",
+        "source": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/List-2017.1.1030-dev-release/res/layout-v11/on_demand_manual.xml"
     }
 ]

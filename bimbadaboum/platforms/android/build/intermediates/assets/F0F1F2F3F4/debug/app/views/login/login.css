@@ -1,10 +1,14 @@
 .mainTitle {
-	color: black;	
+	color: black;
 	text-align: center;
 	font-weight: bold;
 	margin-top: 50vh;
 	margin-bottom: 100vh;
 	font-size: 28;
+}
+
+.body {
+	background-image: ~/ressources/backgroundStripes.jpg;
 }
 
 .connexionText {

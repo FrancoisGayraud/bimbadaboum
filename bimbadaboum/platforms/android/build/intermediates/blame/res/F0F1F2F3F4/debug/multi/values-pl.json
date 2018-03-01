@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/incremental/mergeF0F1F2F3F4DebugResources/merged.dir/values-pl/values-pl.xml",
+        "outputFile": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/incremental/mergeF0F1F2F3F4DebugResources/merged.dir/values-pl/values-pl.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 216
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 318
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 426
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 512
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 621
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 740
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 818
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 895
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 977
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1086
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1195
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1294
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1403
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1514
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1622
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1785
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1881
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 2037
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 2170
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 2308
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 2419
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 2505
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 2595
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 2672
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 2761
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 2857
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 2985
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 3100
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 3195
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 3290
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 3393
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 3519
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 3601
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 3688
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 3866
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 3961
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -695,7 +695,7 @@
                     "endOffset": 4062
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 4177
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -733,7 +733,7 @@
                     "endOffset": 4286
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -752,7 +752,7 @@
                     "endOffset": 4443
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.29.0/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -771,7 +771,7 @@
                     "endOffset": 4549
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -790,7 +790,7 @@
                     "endOffset": 4749
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 0,
@@ -809,7 +809,7 @@
                     "endOffset": 4873
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 0,
@@ -828,7 +828,7 @@
                     "endOffset": 4985
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 0,
@@ -847,7 +847,7 @@
                     "endOffset": 5195
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 0,
@@ -866,7 +866,7 @@
                     "endOffset": 5322
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 0,
@@ -885,7 +885,7 @@
                     "endOffset": 5450
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 0,
@@ -904,7 +904,7 @@
                     "endOffset": 5649
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,
@@ -923,7 +923,7 @@
                     "endOffset": 5879
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 0,
@@ -942,7 +942,7 @@
                     "endOffset": 5990
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 0,
@@ -961,7 +961,7 @@
                     "endOffset": 6196
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 0,
@@ -980,7 +980,7 @@
                     "endOffset": 6326
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 0,
@@ -999,7 +999,7 @@
                     "endOffset": 6544
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 0,
@@ -1018,7 +1018,7 @@
                     "endOffset": 6735
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 0,
@@ -1037,7 +1037,7 @@
                     "endOffset": 6834
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 0,
@@ -1056,7 +1056,7 @@
                     "endOffset": 6930
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 0,
@@ -1075,7 +1075,7 @@
                     "endOffset": 7043
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/values-pl/values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 0,
@@ -1094,7 +1094,7 @@
                     "endOffset": 7125
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -1113,7 +1113,7 @@
                     "endOffset": 7226
                 },
                 "from": {
-                    "file": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.1/res/values-pl/values-pl.xml",
+                    "file": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/values-pl/values-pl.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

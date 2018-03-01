@@ -2,7 +2,7 @@
 
 android {
 	productFlavors {
-		"F1" {
+		"F0" {
 			dimension "nativescriptcamera"
 		}
 	}

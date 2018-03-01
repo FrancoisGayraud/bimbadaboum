@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/drawable-hdpi/logo.png",
-        "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/res/drawable-hdpi/logo.png"
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/drawable-hdpi/icon.png",
+        "source": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/src/main/res/drawable-hdpi/icon.png"
     },
     {
-        "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/drawable-hdpi/background.png",
-        "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/res/drawable-hdpi/background.png"
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/drawable-hdpi/logo.png",
+        "source": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/src/main/res/drawable-hdpi/logo.png"
     },
     {
-        "merged": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/drawable-hdpi/icon.png",
-        "source": "/home/red/Projet/bimbadaboum/bimbadaboum/platforms/android/src/main/res/drawable-hdpi/icon.png"
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/res/merged/F0F1F2F3F4/debug/drawable-hdpi/background.png",
+        "source": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/src/main/res/drawable-hdpi/background.png"
     }
 ]

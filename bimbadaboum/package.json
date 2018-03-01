@@ -41,7 +41,9 @@
     "babel-traverse": "6.26.0",
     "babel-types": "6.26.0",
     "babylon": "6.18.0",
-    "lazy": "1.0.11"
+    "lazy": "1.0.11",
+    "nativescript-dev-typescript": "^0.6.0",
+    "typescript": "^2.7.2"
   },
   "name": "firebase",
   "version": "1.0.0",

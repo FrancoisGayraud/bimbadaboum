@@ -1,5 +1,7 @@
-<Page xmlns:chatView="nativescript-chatview"
+<!--<Page xmlns="http://schemas.nativescript.org/tns.xsd"
+      xmlns:chatView="nativescript-chatview"
       navigatingTo="onNavigatingTo">
+    -->
+<Page>
+    <label text="LEL"></label>
 </Page>
-
-
