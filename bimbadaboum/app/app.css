@@ -13,7 +13,7 @@ components that have the btn class name.
 }
 
 .body {
-	background-image: ~/ressources/background.jpg;
+	/*background-image: ~/ressources/background.jpg;*/
 	-webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;

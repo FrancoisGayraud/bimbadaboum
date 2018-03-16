@@ -9,6 +9,7 @@ var observableModule = require("data/observable");
 var viewModel = new observableModule.Observable;
 var page;
 var gender = 0;
+var genderSeek = 0;
 
 exports.loaded = function(args) {
     page = args.object;
@@ -21,8 +22,14 @@ exports.dropDownSelectedIndexChanged = function(args) {
     console.log(`Drop Down selected index changed from ${args.oldIndex} to ${args.newIndex}`);
 }
 
+exports.dropDownSelectedIndexChanged = function(args) {
+	genderSeek = args.newIndex;
+    console.log(`Drop Down selected index changed from ${args.oldIndex} to ${args.newIndex}`);
+}
+
 exports.register = function() {
-  var gen = true;
+	var gen = true;
+	var genSeek = true;
   var lastName = view.getViewById(page, "lastName");
 	var firstName = view.getViewById(page, "firstName");
 	var yearBirth = page.getViewById("birthDate").year;
@@ -31,7 +38,12 @@ exports.register = function() {
   if (gender == 0)
     gen = true;
   else
-    gen = false;
+		gen = false;
+		
+	if (genderSeek == 0)
+		genSeek = true;
+	else
+		genSeek = false;
 	console.log(user.email + " " + user.password);
 	user.register()
     .then(function() {
@@ -41,7 +53,8 @@ exports.register = function() {
         	'firstName': firstName.text,
 	        'lastName': lastName.text,
     	    'birthDate': dayBirth + '/' + monthBirth + '/' + yearBirth,
-        	'isMale': gen,
+					'isMale': gen,
+					'genderSeek': genderSeek,
         	'city': '',
         	'mail': user.email,
         	'picsUrl': ''

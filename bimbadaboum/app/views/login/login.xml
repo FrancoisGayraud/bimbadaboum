@@ -1,12 +1,21 @@
 <Page loaded="loaded" actionBarHidden="true" class="body">
+
   <StackLayout orientation="vertical">
-  	<label text="BIMBADABOUM" class="mainTitle oldFashion"></label>
-  	<label text="Connection" class="connexionText oldFashion"></label>
-  	<label text="Votre Mail" class="hint"></label>
-    <TextField class="inputArea" style="border-color: red;" id="email" text="{{ email }}" hint="Mail" keyboardType="email" autocorrect="false" autocapitalizationType="none"/>
-	<label text="Votre mot de passe" class="hint"></label>
-    <TextField class="inputArea" secure="true" text="{{ password }}" hint="Mot de passe" />
-    <Button class="connexionButton" text="Connection" tap="signIn"/>
-    <Button text="Pas encore inscrit?" class="signUp" tap="register"/>
+
+        <label text="BIMBADABOUM" class="mainTitle oldFashion"></label>
+
+        <label text="Connexion" class="connexionText oldFashion"></label>
+
+        <label text="Votre e-mail" class="hint arialRounded"></label>
+
+    <TextField class="borderStyle arialRounded"  id="email" text="{{ email }}" hint="E-mail" keyboardType="email" autocorrect="false" autocapitalizationType="none"/>
+
+        <label text="Votre mot de passe" class="hint arialRounded"></label>
+
+    <TextField class="inputArea arialRounded" secure="true" text="{{ password }}" hint="Mot de passe" />
+
+    <Button class="connexionButton arialRounded" text="CONNEXION" tap="signIn"/>
+    <Button text="Pas encore inscrit ?" class="signUp arialRounded" tap="register"/>
+
   </StackLayout>
 </Page>
