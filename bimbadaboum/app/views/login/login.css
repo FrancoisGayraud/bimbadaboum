@@ -4,11 +4,7 @@
 	font-weight: bold;
 	margin-top: 50vh;
 	margin-bottom: 100vh;
-	font-size: 28;
-}
-
-.body {
-	background-image: ~/ressources/backgroundStripes.jpg;
+	font-size: 30;
 }
 
 .connexionText {
@@ -27,23 +23,21 @@
 .hint {
 	color: black;
 	font-weight: bold;
-	font-size: 12;
+	font-size: 14;
 	margin-left: 60vh;
 }
 
 .connexionButton {
-	color: black;
-	border-color: #bf0d31;
+	color: white;
 	font-size:12;
-	background-color: white;
-	border-width: 5px;
+	background-color: #bf0d31;
 	width: 200vh;
 }
 
 .signUp {
-  	border-color:rgba(255, 0, 0, 0.0);
-  	border-width: 1;
+  border-color:rgba(255, 0, 0, 0.0);
+  border-width: 1;
 	color: black;
-	font-size: 9;
+	font-size: 13;
 	font-style: italic;
 }

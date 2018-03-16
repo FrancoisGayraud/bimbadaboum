@@ -15,6 +15,7 @@ var viewModel = new observable.Observable();
 var profilPic;
 var LoadingIndicator = require("nativescript-loading-indicator").LoadingIndicator;
 var loader = new LoadingIndicator();
+var find = false;
 var options = {
   message: 'Nous y sommes presque...',
   progress: 0.65,
@@ -36,7 +37,14 @@ var optionsMatch = {
   android: {
     indeterminate: true,
     cancelable: true,
-    cancelListener: function(dialog) { console.log("Loading cancelled") },
+    cancelListener: function(dialog) {
+      console.log("Matching cancelled");
+      find = true;
+      firebase.update("/users/" + userID,
+      {
+        'searching' : false
+      });
+    },
     max: 100,
     progressNumberFormat: "%1d/%2d",
     progressPercentFormat: 0.53,
@@ -87,7 +95,6 @@ exports.loaded = function (args) {
           loader.hide();
         });
       })
-
 }
 
 exports.logout = function () {
@@ -98,12 +105,7 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-function matchWithSomeone(result) {
-
-}
-
 exports.searchMatch = async function () {
-  var find = false;
   firebase.update("/users/" + userID,
   {
     'searching' : true

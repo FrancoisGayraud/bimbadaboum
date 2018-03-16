@@ -1,20 +1,16 @@
-.Button {
-	color: white;
-	font-size:12;
-	background-color: #bf0d31;
-	width: 50%;
-	margin-top: 10vh;
-	margin-bottom: 50vh;
-}
-
 .profilPic {
 	width: 50%;
 	margin-top: 50vh;
 	margin-bottom: 50vh;
 }
 
-.buttonZone {
-	width: 75%;
+.container {
+	background-color: white;
+	margin: 45vh 25vh 25vh 25vh;
+	border-color: #bf0d31;
+	background-color: #FDF6EE;
+	border-radius: 40px;
+	border-width: 3px;
 }
 
 .inputArea {

@@ -7,6 +7,7 @@ var dropDown = require("nativescript-drop-down");
 var observableArray = require("data/observable-array");
 var viewModel = new observableModule.Observable;
 var gender = 0;
+var frameModule = require("ui/frame");
 var view = require("ui/core/view");
 var camera = require("nativescript-camera");
 var imageModule = require("ui/image");
@@ -68,7 +69,9 @@ exports.loaded = function (args) {
           userID = keyNames[0];
           profilPic = result.value[userID].picsUrl;
           viewModel.set("profilPic", profilPic);
-          viewModel.set("name", result.value[userID].firstName);
+          viewModel.set("firstName", result.value[userID].firstName);
+          viewModel.set("lastName", result.value[userID].lastName);
+          viewModel.set("city", result.value[userID].city);
           page.bindingContext = viewModel;
         }
       };
@@ -101,7 +104,6 @@ exports.loaded = function (args) {
 
 }
 
-
 exports.dropDownSelectedIndexChanged = function(args) {
 	gender = args.newIndex;
 	console.log(`Drop Down selected index changed from ${args.oldIndex} to ${args.newIndex}`);
@@ -124,7 +126,7 @@ exports.submitChanges = function () {
 		'/users/' + userID,
 		{'firstName': firstName.text,
 		'lastName': lastName.text,
-		'isMale': gen,
+		'searchMale': gen,
 		'city': city.text}
 	);
 }
@@ -137,8 +139,7 @@ exports.selectImage = function () {
   context.authorize()
   .then(function() {
     return context.present();
-  })
-  .then(function(selection) {
+  }).then(function(selection) {
     selection.forEach(function(selected) {
       firebase.uploadFile({
         remoteFullPath: 'uploads/images/' + userMail + '/profilPics/' + date,
@@ -153,23 +154,23 @@ exports.selectImage = function () {
         },
         function (error) {
           console.log("File upload error: " + error);
-        }
-      ).then(
+        }).then(
         function() {
           firebase.getDownloadUrl({
-            // IL ARRIVE PAS A RECUPERER L'URL DE L'IMAGE, IL A SUREMENT PAS ENCORE UPLOAD
             bucket: 'gs://bimbadaboum-2e847.appspot.com/',
             remoteFullPath: 'uploads/images/' + userMail + '/profilPics/' + date
           }).then(
             function (url) {
               console.log("Remote URL: " + url);
               URL = url.toString();
+              profilPic = URL;
+              viewModel.set("profilPic", profilPic);
+              page.bindingContext = viewModel;
               console.log("URL : " + URL);
             },
             function (error) {
               console.log("Error: " + error);
-            }
-          ).then(
+            }).then(
             function () {
               firebase.update(
                 '/users/' + userID,
@@ -178,12 +179,7 @@ exports.selectImage = function () {
             });
           })
         });
-        list.items = selection;
-      }).catch(function (e) {
-        // process error
       });
-
-
 }
 
 exports.editPhoto = function () {

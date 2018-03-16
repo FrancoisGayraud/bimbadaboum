@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "bimbadaboum-2e847"
+    "default": "bimbadaboum-2e847",
+    "none": "bimbadaboum-2e847",
+    "dev": "bimbadaboum-2e847"
   }
 }
