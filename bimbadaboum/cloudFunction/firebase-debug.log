@@ -1,0 +1,159 @@
+[debug] [2018-03-25T17:11:54.243Z] ----------------------------------------------------------------------
+[debug] [2018-03-25T17:11:54.246Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy --only functions
+[debug] [2018-03-25T17:11:54.247Z] CLI Version:   3.17.5
+[debug] [2018-03-25T17:11:54.247Z] Platform:      darwin
+[debug] [2018-03-25T17:11:54.247Z] Node Version:  v6.11.2
+[debug] [2018-03-25T17:11:54.247Z] Time:          Sun Mar 25 2018 19:11:54 GMT+0200 (CEST)
+[debug] [2018-03-25T17:11:54.247Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-25T17:11:54.267Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-25T17:11:54.267Z] > authorizing via signed-in user
+[debug] [2018-03-25T17:11:54.270Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2018-03-25T17:11:54.270Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ { refresh_token: '1/74cJ5IxVMQ9VC5vouRdr1R2LK19nT4wzoCLewS_f0fQ',
+  client_id: '563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com',
+  client_secret: 'j9iVZfS8kkCEFUPaAeJV0sAi',
+  grant_type: 'refresh_token',
+  scope: 'email https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase openid' } 
+ Sun Mar 25 2018 19:11:54 GMT+0200 (CEST)
+[debug] [2018-03-25T17:11:54.703Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-25T17:11:54.709Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/bimbadaboum-2e847  
+  
+ Sun Mar 25 2018 19:11:54 GMT+0200 (CEST)
+[debug] [2018-03-25T17:11:55.496Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-25T17:11:55.497Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/bimbadaboum-2e847/tokens  
+  
+ Sun Mar 25 2018 19:11:55 GMT+0200 (CEST)
+[debug] [2018-03-25T17:11:57.381Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'bimbadaboum-2e847'...
+[info] 
+[info] i  deploying functions
+[debug] [2018-03-25T17:11:58.383Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase serve --only functions",
+    "shell": "firebase experimental:functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "dependencies": {
+    "firebase-admin": "~5.4.2",
+    "firebase-functions": "^0.8.1"
+  },
+  "private": true
+}
+[info] i  functions: ensuring necessary APIs are enabled...
+[debug] [2018-03-25T17:11:58.384Z] >>> HTTP REQUEST GET https://servicemanagement.googleapis.com/v1/services/cloudfunctions.googleapis.com/projectSettings/bimbadaboum-2e847?view=CONSUMER_VIEW  
+  
+ Sun Mar 25 2018 19:11:58 GMT+0200 (CEST)
+[debug] [2018-03-25T17:11:58.385Z] >>> HTTP REQUEST GET https://servicemanagement.googleapis.com/v1/services/runtimeconfig.googleapis.com/projectSettings/bimbadaboum-2e847?view=CONSUMER_VIEW  
+  
+ Sun Mar 25 2018 19:11:58 GMT+0200 (CEST)
+[debug] [2018-03-25T17:12:29.604Z] Error: getaddrinfo ENOTFOUND servicemanagement.googleapis.com servicemanagement.googleapis.com:443
+    at errnoException (dns.js:28:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+[error] 
+[error] Error: Server Error. getaddrinfo ENOTFOUND servicemanagement.googleapis.com servicemanagement.googleapis.com:443
+[debug] [2018-03-25T17:12:50.215Z] ----------------------------------------------------------------------
+[debug] [2018-03-25T17:12:50.218Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy --only functions
+[debug] [2018-03-25T17:12:50.219Z] CLI Version:   3.17.5
+[debug] [2018-03-25T17:12:50.219Z] Platform:      darwin
+[debug] [2018-03-25T17:12:50.219Z] Node Version:  v6.11.2
+[debug] [2018-03-25T17:12:50.220Z] Time:          Sun Mar 25 2018 19:12:50 GMT+0200 (CEST)
+[debug] [2018-03-25T17:12:50.220Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-25T17:12:50.236Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-25T17:12:50.236Z] > authorizing via signed-in user
+[debug] [2018-03-25T17:12:50.238Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/bimbadaboum-2e847  
+  
+ Sun Mar 25 2018 19:12:50 GMT+0200 (CEST)
+[debug] [2018-03-25T17:12:51.972Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-25T17:12:51.973Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/bimbadaboum-2e847/tokens  
+  
+ Sun Mar 25 2018 19:12:51 GMT+0200 (CEST)
+[debug] [2018-03-25T17:12:55.154Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'bimbadaboum-2e847'...
+[info] 
+[info] i  deploying functions
+[debug] [2018-03-25T17:12:55.856Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase serve --only functions",
+    "shell": "firebase experimental:functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "dependencies": {
+    "firebase-admin": "~5.4.2",
+    "firebase-functions": "^0.8.1"
+  },
+  "private": true
+}
+[info] i  functions: ensuring necessary APIs are enabled...
+[debug] [2018-03-25T17:12:55.857Z] >>> HTTP REQUEST GET https://servicemanagement.googleapis.com/v1/services/cloudfunctions.googleapis.com/projectSettings/bimbadaboum-2e847?view=CONSUMER_VIEW  
+  
+ Sun Mar 25 2018 19:12:55 GMT+0200 (CEST)
+[debug] [2018-03-25T17:12:55.858Z] >>> HTTP REQUEST GET https://servicemanagement.googleapis.com/v1/services/runtimeconfig.googleapis.com/projectSettings/bimbadaboum-2e847?view=CONSUMER_VIEW  
+  
+ Sun Mar 25 2018 19:12:55 GMT+0200 (CEST)
+[debug] [2018-03-25T17:13:26.022Z] Error: getaddrinfo ENOTFOUND servicemanagement.googleapis.com servicemanagement.googleapis.com:443
+    at errnoException (dns.js:28:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+[error] 
+[error] Error: Server Error. getaddrinfo ENOTFOUND servicemanagement.googleapis.com servicemanagement.googleapis.com:443
+[debug] [2018-03-25T17:17:46.820Z] ----------------------------------------------------------------------
+[debug] [2018-03-25T17:17:46.823Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy --only functions
+[debug] [2018-03-25T17:17:46.824Z] CLI Version:   3.17.5
+[debug] [2018-03-25T17:17:46.824Z] Platform:      darwin
+[debug] [2018-03-25T17:17:46.824Z] Node Version:  v6.11.2
+[debug] [2018-03-25T17:17:46.824Z] Time:          Sun Mar 25 2018 19:17:46 GMT+0200 (CEST)
+[debug] [2018-03-25T17:17:46.824Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-25T17:17:46.840Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-25T17:17:46.840Z] > authorizing via signed-in user
+[debug] [2018-03-25T17:17:46.843Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/bimbadaboum-2e847  
+  
+ Sun Mar 25 2018 19:17:46 GMT+0200 (CEST)
+[debug] [2018-03-25T17:17:47.748Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-25T17:17:47.749Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/bimbadaboum-2e847/tokens  
+  
+ Sun Mar 25 2018 19:17:47 GMT+0200 (CEST)
+[debug] [2018-03-25T17:17:48.362Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'bimbadaboum-2e847'...
+[info] 
+[info] i  deploying functions
+[debug] [2018-03-25T17:17:49.065Z] > [functions] package.json contents: {
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "scripts": {
+    "serve": "firebase serve --only functions",
+    "shell": "firebase experimental:functions:shell",
+    "start": "npm run shell",
+    "deploy": "firebase deploy --only functions",
+    "logs": "firebase functions:log"
+  },
+  "dependencies": {
+    "firebase-admin": "~5.4.2",
+    "firebase-functions": "^0.8.1"
+  },
+  "private": true
+}
+[info] i  functions: ensuring necessary APIs are enabled...
+[debug] [2018-03-25T17:17:49.066Z] >>> HTTP REQUEST GET https://servicemanagement.googleapis.com/v1/services/cloudfunctions.googleapis.com/projectSettings/bimbadaboum-2e847?view=CONSUMER_VIEW  
+  
+ Sun Mar 25 2018 19:17:49 GMT+0200 (CEST)
+[debug] [2018-03-25T17:17:49.067Z] >>> HTTP REQUEST GET https://servicemanagement.googleapis.com/v1/services/runtimeconfig.googleapis.com/projectSettings/bimbadaboum-2e847?view=CONSUMER_VIEW  
+  
+ Sun Mar 25 2018 19:17:49 GMT+0200 (CEST)
+[debug] [2018-03-25T17:18:19.661Z] Error: getaddrinfo ENOTFOUND servicemanagement.googleapis.com servicemanagement.googleapis.com:443
+    at errnoException (dns.js:28:10)
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:76:26)
+[error] 
+[error] Error: Server Error. getaddrinfo ENOTFOUND servicemanagement.googleapis.com servicemanagement.googleapis.com:443

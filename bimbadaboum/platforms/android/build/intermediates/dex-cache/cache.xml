@@ -3,21 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Users/redleader/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.2.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/common-1.0.0_32c0945ed0b09edabb326cc2e11effe0e5bc3b84.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/27.0.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-core-ui-27.0.2_584abc91b681e851f88d0b2c7e5880311c38f087.jar" />
+        sha1="27942406f17e8b8e54175fdac0274805b4edcb2f">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-auth-11.2.2_cdaf84f37513c010ab03e3ce8cff86bc67f84c5f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,309 +21,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-places/4.30.0/jars/classes.jar"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/26.0.0-alpha1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="821200fa3e07f93d0ae66e4a5917db8bac69dfe1">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.facebook.android-facebook-places-4.30.0_be40fbf1ed089a99a5a4d6c32cdfd7ebb4251db3.jar" />
+        sha1="aebd345a61f563da0989cbd014479c8bf7bd77ab">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-customtabs-26.0.0-alpha1_22e41c2c5b661c8d79dd9adc8c9d1a9eff31c56b.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Input-2017.1.1030-dev-release/jars/classes.jar"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="a973d2e002f236d63e4b0b3bb95454b2ed4dc790">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Input-2017.1.1030-dev-release_42f7eeac50d36d10b4740b7dbe368a911537361b.jar" />
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-core-utils-26.0.0-alpha1_20119aeab8cc59d47dc16af010701e46954c4d48.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/redleader/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/bolts-tasks-1.4.0_6eb31fdb5920546315f1db24980b8c4e4367142b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_5f5936d1351ccc5afe33553bff0c66bfb1adc7de.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/customtabs/27.0.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="cdebcd9e0580b35115f655f8dc8ed7a66a8ef0fc">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-customtabs-27.0.2_02edc0296757704bba862e429df2e96a13acaa13.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.2.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="fc3479eb36ae71cbe2a3a589ceda3b8b3b56f08f">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-analytics-11.2.2_728b19a1effdadb560fb154133747ab63e3f7406.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-core/4.30.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="8fb648e3321f9556ac5b36485b0028f455350c4a">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.facebook.android-facebook-core-4.30.0_04fa0912e4083b5b8e40ce24d6b47785c7ca6676.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.2.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="722f4e3d1abfa535e19043c813c62bb144a7d02f">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-analytics-impl-11.2.2_b012e47bc15f7196cc05ed6f8f1c9e3a2f65b52c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.30.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="95d97996ec624fca99f6b06ad6004c749259970d">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.facebook.android-facebook-share-4.30.0_0c08a19186b8060077d22b3e610f9d2667a95b0e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/core-3.3.0_6b98c3eac32151347cbc2590a116800baf4d5069.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Primitives-2017.1.1030-dev-release/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="9001cb8dbd0c0f46e73929f0b0667c00c2835880">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Primitives-2017.1.1030-dev-release_ffec7edcef24f96c3c6b25b3cb415b2ba4e701b7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.30.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="b1c250352bb7bbd5ea1982ca5165f2a81f36b530">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.facebook.android-facebook-android-sdk-4.30.0_1ca937e3f3707305a6b49c78db8853f2a91e8445.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/27.0.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-fragment-27.0.2_c12847d2f90bbf999c3e21bb9c7636a0ec5586e6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.3/7d7f60c4783872861222166f6164215f8951c7b1/common-1.0.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/common-1.0.3_f5792bc7545288c8b897344e422db2f9c25c5d75.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-media-compat-27.0.2_12c66a7770a9d4af8e157e9e5c188dbf2ba9370b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/27.0.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-core-utils-27.0.2_b26446b43bd73a11d480bd9da1b6492aeaea4911.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.1030-dev-release/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="67070b6d74d76c40032b857e9fcf25b196fd07f5">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Chart-2017.1.1030-dev-release_3f5fe58dda057898b7de437a0fb168140f99f79b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/bimbadaboum/runtime/unspecified/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="eb6078500d1af5e7b663871706674405c57292a3">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/bimbadaboum-runtime-unspecified_3ece58df4fbe535cb5dfab3709fbc1ec03159735.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.30.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.facebook.android-facebook-messenger-4.30.0_64ba185578ae92c1ec720263e1b4162c04f5778a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-design-26.0.0-alpha1_65edf8f03942db6244bfeefe09b9cd2dbb375492.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/27.0.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-cardview-v7-27.0.2_ddaf2540252c9c0719d3c8b31e1dd7e769b49722.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/bolts-applinks-1.4.0_e0bff36c3c9e3b11e400df2783adae77349f1ee5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Data-2017.1.1030-dev-release/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="31ecd0832f76d83defcff7f8b395008bf3b153bd">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Data-2017.1.1030-dev-release_2aa0a5a49559e1a8a9addc84cbff95a57618518b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/gson-2.8.2_320c7a8f008901afe635ce5f96dd83d54757a163.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/bimbadaboum/runtime/unspecified/jars/libs/binding-generator.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/binding-generator_0ec8306cf1a627d7dc31161e25485ac3f499e333.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-compat-27.0.2_01b820f60803f0b298e45302fd31d79d964903ea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.30.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="e3b8ecc558c6deeb90eb3934c1c715128ab26dcd">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.facebook.android-facebook-common-4.30.0_90fe877ef17b0ce58a866fb19df1e022ab6ff1a3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.2.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="787102860a3ae9ed31c934b03ce15ba584a43005">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-iid-11.2.2_24ef9eb37683d6ce08e5fd20717c8ed635e60c02.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/11.2.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="52e53fe7ad13a69d11736cc5b6cd890614a0f8f8">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-storage-common-11.2.2_418a1b83f435ebf6c852f1098a8537426a1a096f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/27.0.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-v4-27.0.2_2358b777be0c92e3785cc8b2896c420364815254.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.2.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="27942406f17e8b8e54175fdac0274805b4edcb2f">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-auth-11.2.2_cdaf84f37513c010ab03e3ce8cff86bc67f84c5f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/27.0.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-vector-drawable-27.0.2_823180b9b09f2485bc7e45af0a596bf1093d033c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.3/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/android.arch.lifecycle-runtime-1.0.3_6d20c2a562ab6998731abc511ec4fcac5ed79868.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.30.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.facebook.android-facebook-login-4.30.0_854e0d07b5570f45e9a3a57c81258f2bfe4d844b.jar" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-v4-26.0.0-alpha1_0657a598430b8d48548e615a2a5a455431abb17f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -363,12 +75,30 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/jars/classes.jar"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Input-2017.1.1030-dev-release/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="1d2ee92c55b107ec366ddb534edae4548201e25b">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.android.gms-play-services-base-11.2.2_a866c8280408bd83abfd623c168bed9a5709ad0c.jar" />
+        sha1="a973d2e002f236d63e4b0b3bb95454b2ed4dc790">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Input-2017.1.1030-dev-release_42f7eeac50d36d10b4740b7dbe368a911537361b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-media-compat-26.0.0-alpha1_caf282986144a624870bee8d0df08182716dab80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_5f5936d1351ccc5afe33553bff0c66bfb1adc7de.jar" />
     </item>
     <item
         is-multidex="false"
@@ -381,6 +111,51 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1d2ee92c55b107ec366ddb534edae4548201e25b">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.android.gms-play-services-base-11.2.2_a866c8280408bd83abfd623c168bed9a5709ad0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fc3479eb36ae71cbe2a3a589ceda3b8b3b56f08f">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-analytics-11.2.2_728b19a1effdadb560fb154133747ab63e3f7406.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-core-ui-26.0.0-alpha1_e3b13d0f3edcd0350b7ff4d9d7b998e7c49e773c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="722f4e3d1abfa535e19043c813c62bb144a7d02f">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-analytics-impl-11.2.2_b012e47bc15f7196cc05ed6f8f1c9e3a2f65b52c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/support-annotations-26.0.0-alpha1_67e4506197f3cfc32be848ae0caae1b89bde685c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/List-2017.1.1030-dev-release/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -390,12 +165,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Primitives-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9001cb8dbd0c0f46e73929f0b0667c00c2835880">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Primitives-2017.1.1030-dev-release_ffec7edcef24f96c3c6b25b3cb415b2ba4e701b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_d009494e8dfe3454043b891776a4a75f7494d806.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.2.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="30553c734f57621f31d6d56ad7b263123c7a014f">
         <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-database-connection-11.2.2_a69d83cbb314c1ba920ba280b4b5ca88b1109e3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-fragment-26.0.0-alpha1_ecfc6ce03361be1c3a8d9fca96182a20961462a9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -417,6 +219,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Chart-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="67070b6d74d76c40032b857e9fcf25b196fd07f5">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Chart-2017.1.1030-dev-release_3f5fe58dda057898b7de437a0fb168140f99f79b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -426,30 +237,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/redleader/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.2/b9ef4342c934a1a8b107506273dc8061662a322/support-annotations-27.0.2.jar"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/bimbadaboum/runtime/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/support-annotations-27.0.2_58699bb5429a9ed220cd43ef08a130a23877e912.jar" />
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/bimbadaboum-runtime-unspecified_3ece58df4fbe535cb5dfab3709fbc1ec03159735.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/27.0.2/jars/classes.jar"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-animated-vector-drawable-27.0.2_2bc4bb2f25773bb1a8c46bf4818fc3c3dd8cda41.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.facebook.android/facebook-applinks/4.30.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.facebook.android-facebook-applinks-4.30.0_3eb8f8191bf66bc37c48914af9ec80c2b8bfdc33.jar" />
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-design-26.0.0-alpha1_65edf8f03942db6244bfeefe09b9cd2dbb375492.jar" />
     </item>
     <item
         is-multidex="false"
@@ -462,12 +264,75 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-appcompat-v7-26.0.0-alpha1_589df2bac90a073dccbaed73628d39cdb78c14bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.2.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="cf47665b22d68f560d1b8fa2e51b8c23a34574f2">
         <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.android.gms-play-services-tasks-11.2.2_b416b498169c9b95ddfd97e13dd7d48e24333ce5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_89d3aaebd0328ead4d54d383a3774c1585f3d8d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/Data-2017.1.1030-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="31ecd0832f76d83defcff7f8b395008bf3b153bd">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/intermediates-exploded-aar-Data-2017.1.1030-dev-release_2aa0a5a49559e1a8a9addc84cbff95a57618518b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-cardview-v7-26.0.0-alpha1_dd63d8004a949ac6d656a05d2cb1393a711a247b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-compat-26.0.0-alpha1_2620948f17d6e5a3e994686ba0beb254afe3fdad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/gson-2.8.2_320c7a8f008901afe635ce5f96dd83d54757a163.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/bimbadaboum/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/binding-generator_0ec8306cf1a627d7dc31161e25485ac3f499e333.jar" />
     </item>
     <item
         is-multidex="false"
@@ -480,12 +345,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/jars/classes.jar"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.2.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-appcompat-v7-27.0.2_dfb186abdaf1f802148c22e24064d4f3c8103bc8.jar" />
+        sha1="787102860a3ae9ed31c934b03ce15ba584a43005">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-iid-11.2.2_24ef9eb37683d6ce08e5fd20717c8ed635e60c02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/11.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="52e53fe7ad13a69d11736cc5b6cd890614a0f8f8">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.google.firebase-firebase-storage-common-11.2.2_418a1b83f435ebf6c852f1098a8537426a1a096f.jar" />
     </item>
 
 </items>

@@ -15,6 +15,7 @@ var viewModel = new observable.Observable();
 var profilPic;
 var LoadingIndicator = require("nativescript-loading-indicator").LoadingIndicator;
 var loader = new LoadingIndicator();
+var find = false;
 var options = {
   message: 'Nous y sommes presque...',
   progress: 0.65,
@@ -36,7 +37,14 @@ var optionsMatch = {
   android: {
     indeterminate: true,
     cancelable: true,
-    cancelListener: function(dialog) { console.log("Loading cancelled") },
+    cancelListener: function(dialog) {
+      console.log("Matching cancelled");
+      find = true;
+      firebase.update("/users/" + userID,
+      {
+        'searching' : false
+      });
+    },
     max: 100,
     progressNumberFormat: "%1d/%2d",
     progressPercentFormat: 0.53,
@@ -87,7 +95,6 @@ exports.loaded = function (args) {
           loader.hide();
         });
       })
-
 }
 
 exports.logout = function () {
@@ -98,12 +105,7 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-function matchWithSomeone(result) {
-
-}
-
 exports.searchMatch = async function () {
-  var find = false;
   firebase.update("/users/" + userID,
   {
     'searching' : true
@@ -116,6 +118,7 @@ exports.searchMatch = async function () {
         console.log(JSON.stringify(result))
         if (result.value[userID].searching == false) {
           loader.hide();
+          find = true;
           frameModule.topmost().navigate("views/chat/chat");
         }
       }
@@ -140,90 +143,6 @@ exports.searchMatch = async function () {
     }
   }
 
-exports.selectImage = function () {
-  var date = new Date();
-  date = date.toString().replace(/\s+/g, '');
-  var URL;
-
-  context.authorize()
-  .then(function() {
-    return context.present();
-  })
-  .then(function(selection) {
-    selection.forEach(function(selected) {
-      firebase.uploadFile({
-        remoteFullPath: 'uploads/images/' + userMail + '/profilPics/' + date,
-        localFullPath: selected._android,
-        onProgress: function(status) {
-          console.log("Uploaded fraction: " + status.fractionCompleted);
-          console.log("Percentage complete: " + status.percentageCompleted);
-        }
-      }).then(
-        function (uploadedFile) {
-          console.log("File uploaded: " + JSON.stringify(uploadedFile));
-        },
-        function (error) {
-          console.log("File upload error: " + error);
-        }
-      ).then(
-        function() {
-          firebase.getDownloadUrl({
-            // IL ARRIVE PAS A RECUPERER L'URL DE L'IMAGE, IL A SUREMENT PAS ENCORE UPLOAD
-            bucket: 'gs://bimbadaboum-2e847.appspot.com/',
-            remoteFullPath: 'uploads/images/' + userMail + '/profilPics/' + date
-          }).then(
-            function (url) {
-              console.log("Remote URL: " + url);
-              URL = url.toString();
-              console.log("URL : " + URL);
-            },
-            function (error) {
-              console.log("Error: " + error);
-            }
-          ).then(
-            function () {
-              firebase.update(
-                '/users/' + userID,
-                {'picsUrl' : URL}
-              );
-            });
-          })
-        });
-        list.items = selection;
-      }).catch(function (e) {
-        // process error
-      });
-
-
-}
-
-exports.editPhoto = function () {
-  var date = new Date();
-  camera.requestPermissions();
-  var options = { width: 300, height: 300, keepAspectRatio: false, saveToGallery: true };
-  camera.takePicture(options)
-  .then(function (imageAsset) {
-    var image = new imageModule.Image();
-    image.src = imageAsset;
-    firebase.uploadFile({
-      remoteFullPath: 'uploads/images/' + userMail + '/profilPics/' + date,
-      localFullPath: image.src._android,
-      onProgress: function(status) {
-        console.log("Uploaded fraction: " + status.fractionCompleted);
-        console.log("Percentage complete: " + status.percentageCompleted);
-      }
-    }).then(
-      function (uploadedFile) {
-        console.log("File uploaded: " + JSON.stringify(uploadedFile));
-      },
-      function (error) {
-        console.log("File upload error: " + error);
-      }
-    );
-  }).catch(function (err) {
-    console.log("Error -> " + err.message);
-  });
-}
 
 exports.editProfil = function () {
   frameModule.topmost().navigate("views/profil/profil");

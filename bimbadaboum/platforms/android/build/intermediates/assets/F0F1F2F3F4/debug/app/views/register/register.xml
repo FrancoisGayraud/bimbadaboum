@@ -1,21 +1,22 @@
-<Page loaded="loaded" actionBarHidden="true" xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:dd="nativescript-drop-down">
+<Page class="body" loaded="loaded" actionBarHidden="true" xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:dd="nativescript-drop-down">
 	<ScrollView>
     <StackLayout>
     	<label text="Inscription" class="inscriptionText oldFashion"></label>
         <label text="Votre Prénom" class="hint"></label>
         <TextField text="{{ firstName }}" class="inputArea" autocorrect="false" hint="Prénom" id="firstName" />
+				<label text="Votre Nom de Famille" class="hint"></label>
+        <TextField text="{{ lastName }}" class="inputArea" autocorrect="false" hint="Nom de Famille" id="lastName" />
        	<label text="Votre Mail" class="hint"></label>
         <TextField text="{{ email }}" class="inputArea" id="email" hint="Adresse Mail" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
         <label text="Votre mot de passe" class="hint"></label>
         <TextField text="{{ password }}" class="inputArea" secure="true" hint="Mot de passe" />
-       <!-- <label text="Votre sexe" class="hint"></label>
-        <dd:DropDown items="{{ items }}" selectedIndex="{{ selectedIndex }}" 
-                 opened="dropDownOpened" closed="dropDownClosed" 
-                 selectedIndexChanged="dropDownSelectedIndexChanged" style="text-align: center; horizontal-align: center; width:200vh; margin-bottom: 50vh; font-size: 18px;"/> -->
-        <label text="Votre date de naissance" class="hint"></label>
+      	<label text="Votre sexe" class="hint"></label>
+				<dd:DropDown items="{{ items }}" selectedIndex="{{ selectedIndex }}"
+                 opened="dropDownOpened" closed="dropDownClosed"
+                 selectedIndexChanged="dropDownSelectedIndexChanged" style="text-align: center; horizontal-align: center; width:200vh; height:30vh; margin-bottom: 50vh;"/>
+				<label text="Votre date de naissance" class="hint"></label>
         <DatePicker verticalAlignment="center" id="birthDate"></DatePicker>
-        <Button text="Entrez !" class="connexionButton" tap="register" />
+        <Button text="Entrez !" class="Button" tap="register" />
     </StackLayout>
     </ScrollView>
 </Page>
-

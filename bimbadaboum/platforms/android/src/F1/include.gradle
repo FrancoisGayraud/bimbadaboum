@@ -2,8 +2,8 @@
 
 android {
 	productFlavors {
-		"nativescript-camera" {
-			dimension "nativescript-camera"
+		"nativescript-imagepicker" {
+			dimension "nativescript-imagepicker"
 		}
 	}
 }

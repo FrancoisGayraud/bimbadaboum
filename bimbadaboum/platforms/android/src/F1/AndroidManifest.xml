@@ -1,15 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
-	<application>
-		<provider
-			android:name="android.support.v4.content.FileProvider"
-			android:authorities="${applicationId}.provider"
-			android:exported="false"
-			android:grantUriPermissions="true">
-			<meta-data
-				android:name="android.support.FILE_PROVIDER_PATHS"
-				android:resource="@xml/provider_paths"/>
-		</provider>
-	</application>
-	<uses-permission android:name="android.permission.CAMERA" />
+
+	<!--Describe the permissions, features or other configurations required by your plugin for Android. 
+		To read more about android permissions go to https://developer.android.com/guide/topics/permissions/index.html -->
+	<!--EXAMPLE: uses-permission android:name="android.permission.INTERNET"/> -->
+
+	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
 </manifest>

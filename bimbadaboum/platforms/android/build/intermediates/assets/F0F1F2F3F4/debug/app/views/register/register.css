@@ -19,18 +19,9 @@
 	margin-left: 60vh;
 }
 
-.connexionButton {
-	color: black;
-	border-color: #bf0d31;
-	font-size:12;
-	background-color: white;
-	border-width: 5px;
-	width: 200vh;
-}
-
 .signUp {
-  	border-color:rgba(255, 0, 0, 0.0);
-  	border-width: 1;
+  border-color:rgba(255, 0, 0, 0.0);
+  border-width: 1;
 	color: black;
 	font-size: 9;
 	font-style: italic;

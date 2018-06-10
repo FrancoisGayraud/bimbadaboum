@@ -13,17 +13,17 @@ components that have the btn class name.
 }
 
 .body {
-	background-image: ~/ressources/background.jpg;
 	-webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
    background-size: cover;
+	 background-color: #FFF8DC;
 }
 
 .Button {
 	color: white;
 	font-size:12;
-	background-color: #bf0d31;
+	background-color: #b090FF;
 	width: 50%;
 	margin-top: 10vh;
 	margin-bottom: 50vh;

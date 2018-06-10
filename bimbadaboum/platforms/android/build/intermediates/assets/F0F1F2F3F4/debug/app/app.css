@@ -12,6 +12,23 @@ components that have the btn class name.
 	font-family: "OldStandard-Regular";
 }
 
+.body {
+	background-image: ~/ressources/background.jpg;
+	-webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+}
+
+.Button {
+	color: white;
+	font-size:12;
+	background-color: #bf0d31;
+	width: 50%;
+	margin-top: 10vh;
+	margin-bottom: 50vh;
+}
+
 /*
 In many cases you may want to use the NativeScript core theme instead
 of writing your own CSS rules. For a full list of class names in the theme

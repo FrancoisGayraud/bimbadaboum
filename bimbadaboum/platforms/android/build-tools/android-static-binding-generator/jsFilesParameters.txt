@@ -39,6 +39,8 @@
 /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-radiobutton/angular/radiobutton.component.js
 /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-radiobutton/angular/radiogroup.component.js
 /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-radiobutton/hooks/before-livesync/nativescript-angular-sync.js
+/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-statusbar/statusbar-common.js
+/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/nativescript-statusbar/statusbar.js
 /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/bundle-entry-points.js
 /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/application/application-common.js
 /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/application/application.js

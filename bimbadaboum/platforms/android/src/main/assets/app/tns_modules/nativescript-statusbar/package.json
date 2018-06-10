@@ -1,0 +1,84 @@
+{
+  "_from": "nativescript-statusbar",
+  "_id": "nativescript-statusbar@4.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-Il0XQvk0OeD9dmlyUYfAh5uSv2Y=",
+  "_location": "/nativescript-statusbar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-statusbar",
+    "name": "nativescript-statusbar",
+    "escapedName": "nativescript-statusbar",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-statusbar/-/nativescript-statusbar-4.0.1.tgz",
+  "_shasum": "225d1742f93439e0fd7669725187c0879b92bf66",
+  "_spec": "nativescript-statusbar",
+  "_where": "/Users/redleader/Projects/bimbadaboum/bimbadaboum",
+  "author": {
+    "name": "Burke Holland",
+    "email": "burkeholland@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/burkeholland/nativescript-statusbar/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Burke Holland",
+      "email": "burkeholland@gmail.com",
+      "url": "https://github.com/burkeholland"
+    },
+    {
+      "name": "Brad Martin",
+      "email": "bradwaynemartin@gmail.com",
+      "url": "https://github.com/bradmartin"
+    }
+  ],
+  "deprecated": false,
+  "description": "Provides API for setting the status bar style on iOS",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-copy": "^0.8.0",
+    "grunt-exec": "^0.4.6",
+    "grunt-mkdir": "^0.1.2",
+    "tns-core-modules": "^3.0.0 || ^3.0.0-rc.1",
+    "tns-platform-declarations": "^3.0.0 || ^3.0.0-rc.1",
+    "typescript": "^2.2.2"
+  },
+  "homepage": "https://github.com/burkeholland/nativescript-statusbar#readme",
+  "keywords": [
+    "nativescript",
+    "native",
+    "typescript",
+    "ios",
+    "statusbar",
+    "status bar"
+  ],
+  "license": "MIT",
+  "main": "statusbar",
+  "name": "nativescript-statusbar",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    }
+  },
+  "peerDependencies": {
+    "tns-core-modules": "^3.0.0 || ^3.0.0-rc.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burkeholland/nativescript-statusbar.git"
+  },
+  "version": "4.0.1"
+}

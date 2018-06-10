@@ -18,7 +18,7 @@ exports.loaded = function(args) {
 
 exports.dropDownSelectedIndexChanged = function(args) {
 	gender = args.newIndex;
-    console.log(`Drop Down selected index changed from ${args.oldIndex} to ${args.newIndex}`);
+  console.log(`Drop Down selected index changed from ${args.oldIndex} to ${args.newIndex}`);
 }
 
 exports.register = function() {
