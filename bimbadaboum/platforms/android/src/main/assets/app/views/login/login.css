@@ -1,16 +1,18 @@
 .mainTitle {
 	color: black;
 	text-align: center;
-	font-weight: bold;
-	margin-top: 50vh;
+	margin-top: 80vh;
 	margin-bottom: 100vh;
-	font-size: 30;
+	font-size: 28;
 }
+
+/*.body {
+	background-image: ~/ressources/backgroundStripes.jpg;
+}*/
 
 .connexionText {
 	color: black;
 	text-align: center;
-	font-weight: bold;
 	font-size: 20;
 	margin-bottom: 35vh;
 }
@@ -18,13 +20,29 @@
 .inputArea {
 	width: 300vh;
 	margin-bottom: 30vh;
+	font-size: 10;
+}
+
+
+.borderStyle {
+        width: 300vh;
+        color:black;
+        margin-bottom: 20vh;
+        margin-top: 10vh;
+        border-color: #350203;
+        font-size: 12;
+        background-color: white;
+        border-width: 5px;
 }
 
 .hint {
-	color: black;
-	font-weight: bold;
-	font-size: 14;
-	margin-left: 60vh;
+    margin-top: 50px;
+    color: #000000;
+    font-size: 12;
+    color: black;
+    font-weight: bold;
+    font-size: 14;
+    margin-left: 60vh;
 }
 
 .connexionButton {
@@ -35,9 +53,12 @@
 }
 
 .signUp {
-  border-color:rgba(255, 0, 0, 0.0);
-  border-width: 1;
-	color: black;
-	font-size: 13;
-	font-style: italic;
+    border-color:rgba(255, 0, 0, 0.0);
+    border-width: 1;
+    color: black;
+    font-size: 13;
+    font-style: italic;
 }
+
+
+
