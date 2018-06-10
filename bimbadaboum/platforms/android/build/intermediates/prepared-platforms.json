@@ -1,4 +1,5 @@
 {
+    "adb": true,
     "dns": true,
     "email-check": true,
     "email-existence": true,

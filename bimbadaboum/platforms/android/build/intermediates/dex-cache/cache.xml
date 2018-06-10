@@ -201,6 +201,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/redleader/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f645ed69d595b24d4cf8b3fbb64cc505bede8829">
+        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/gson-2.8.5_6fbeda8706962b9ff89e78b5316fea07b8459e14.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.2.2/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -315,15 +324,6 @@
         revision="27.0.3"
         sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
         <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/com.android.support-support-compat-26.0.0-alpha1_2620948f17d6e5a3e994686ba0beb254afe3fdad.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/redleader/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
-        <dex dex="/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/build/intermediates/pre-dexed/F0F1F2F3F4/debug/gson-2.8.2_320c7a8f008901afe635ce5f96dd83d54757a163.jar" />
     </item>
     <item
         is-multidex="false"

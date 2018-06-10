@@ -1,10 +1,16 @@
+.mainTitle {
+	color: black;
+	text-align: center;
+	margin-top: 80vh;
+	margin-bottom: 100vh;
+	font-size: 28;
+}
+
 .inscriptionText {
 	color: black;
 	text-align: center;
-	font-weight: bold;
 	font-size: 20;
 	margin-bottom: 35vh;
-	margin-top: 50vh;
 }
 
 .inputArea {
@@ -19,10 +25,39 @@
 	margin-left: 60vh;
 }
 
+.connexionButton {
+	color: black;
+	border-color: #bf0d31;
+	font-size:12;
+	background-color: white;
+	border-width: 5px;
+	width: 200vh;
+}
+
+.rectangleArea {
+	color: black;
+	border-color: black;
+	font-size:12;
+	background-color: white;
+	border-width: 5px;
+	width: 200vh;
+}
+
 .signUp {
-  border-color:rgba(255, 0, 0, 0.0);
-  border-width: 1;
+border-color:rgba(255, 0, 0, 0.0);
+border-width: 1;
 	color: black;
 	font-size: 9;
 	font-style: italic;
+}
+
+.borderStyle {
+	width: 300vh;
+	color:black;
+	margin-bottom: 20vh;
+	margin-top: 10vh;
+	border-color: #350203;
+	font-size: 12;
+	background-color: white;
+	border-width: 5px;
 }

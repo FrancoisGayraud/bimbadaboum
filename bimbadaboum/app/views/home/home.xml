@@ -4,7 +4,7 @@
     	<label text="{{ 'Salut ' + name }}" class="mainTitle"></label>
 			<StackLayout class="matchZone">
 				<label text="Lance ta recherche" class="searchTitle"></label>
-        <Button text="MATCH" tap="searchMatch"/>
+        <Button text="MATCH"  tap="searchMatch"/>
 			</StackLayout>
       <Button text="DECONNECTION" class="disconnectButton" tap="logout"/>
     </WrapLayout>

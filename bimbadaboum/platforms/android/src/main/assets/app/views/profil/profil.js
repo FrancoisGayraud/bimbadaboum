@@ -14,6 +14,7 @@ var imageModule = require("ui/image");
 var fs = require("file-system");
 var observable = require('data/observable');
 var imagepicker = require("nativescript-imagepicker");
+var dialogs = require("ui/dialogs");
 var context = imagepicker.create({ mode: "single" }); // use "multiple" for multiple selection
 var appPath = fs.knownFolders.currentApp().path;
 var profilPic;
@@ -120,15 +121,22 @@ exports.submitChanges = function () {
 	else
 	gen = false;
 
-	console.log("values : " + firstName.text + " " + lastName.text + " " + city.text);
+
 
 	firebase.update(
 		'/users/' + userID,
-		{'firstName': firstName.text,
-		'lastName': lastName.text,
+		{
 		'searchMale': gen,
 		'city': city.text}
-	);
+	).then(function() {
+    dialogs.alert({
+      title: "",
+      message: "Informations enregistrées !",
+      okButtonText: "Ok"
+    }).then(function () {
+      console.log("Dialog closed!");
+    });
+  })
 }
 
 exports.selectImage = function () {

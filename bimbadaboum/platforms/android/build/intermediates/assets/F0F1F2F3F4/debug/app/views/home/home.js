@@ -106,7 +106,7 @@ function sleep(ms) {
 }
 
 exports.searchMatch = async function () {
-  firebase.update("/users/" + userID,
+ /* firebase.update("/users/" + userID,
   {
     'searching' : true
   });
@@ -115,7 +115,7 @@ exports.searchMatch = async function () {
   {
     var onQueryEvent = function(result) {
       if (!result.error) {
-        console.log(JSON.stringify(result))
+        console.log(JSON.stringify(result));
         if (result.value[userID].searching == false) {
           loader.hide();
           find = true;
@@ -140,7 +140,7 @@ exports.searchMatch = async function () {
       });
       console.log("LOOPING");
       await sleep(4000);
-    }
+    }*/
   }
 
 

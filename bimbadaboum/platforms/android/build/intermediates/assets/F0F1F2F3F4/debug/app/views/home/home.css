@@ -1,19 +1,25 @@
 .matchButton {
 	color: white;
-	background-color: #bf0d31;
+	background-color: #b090FF;
 	width: 50%;
 	font-size: 16;
+}
+
+.matchButtonLogo {
+	height: 30%;
+	width: 30%;
+	border: 5px solid black;
 }
 
 .profileButton {
 	margin-top: 25vh;
 	color: white;
-	background-color: #bf0d31;
+	background-color: #b090FF;
 }
 
 .matchZone {
 	color: black;
-	border-color: #bf0d31;
+	border-color: #b090FF;;
 	font-size: 12;
 	background-color: #FDF6EE;
 	border-radius: 40px;

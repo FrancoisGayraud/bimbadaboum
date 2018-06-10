@@ -115,7 +115,7 @@ exports.searchMatch = async function () {
   {
     var onQueryEvent = function(result) {
       if (!result.error) {
-        console.log(JSON.stringify(result))
+        console.log(JSON.stringify(result));
         if (result.value[userID].searching == false) {
           loader.hide();
           find = true;

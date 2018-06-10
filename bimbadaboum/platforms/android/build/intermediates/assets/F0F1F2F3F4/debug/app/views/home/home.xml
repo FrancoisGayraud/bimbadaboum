@@ -1,11 +1,11 @@
 <Page class="body" loaded="loaded" actionBarHidden="true">
     <WrapLayout padding="10vh">
 			<Button text="Profil" class="profileButton" tap="editProfil"/>
-    	<label text="{{ 'Bonjour ' + name }}" class="mainTitle"></label>
+    	<label text="{{ 'Salut ' + name }}" class="mainTitle"></label>
 			<StackLayout class="matchZone">
 				<label text="Lance ta recherche" class="searchTitle"></label>
-   			<Button text="Match !" class="matchButton" tap="searchMatch" verticalAlignment="center"/>
+        <Button text="MATCH"  tap="searchMatch"/>
 			</StackLayout>
-    	<Button text="DECONNECTION" class="disconnectButton" tap="logout"/>
+      <Button text="DECONNECTION" class="disconnectButton" tap="logout"/>
     </WrapLayout>
 </Page>

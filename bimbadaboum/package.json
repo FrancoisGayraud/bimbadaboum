@@ -12,6 +12,7 @@
     }
   },
   "dependencies": {
+    "adb": "^0.2.0",
     "dns": "^0.2.2",
     "email-check": "^1.1.0",
     "email-existence": "^0.1.5",
