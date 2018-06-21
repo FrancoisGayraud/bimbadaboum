@@ -18,6 +18,14 @@
 	margin-bottom: 30vh;
 }
 
+.otherButton
+{
+	color: white;
+	font-size:12;
+	background-color: #b090FF;
+	width: 50%;
+	margin-top: 23vh;
+}
 .mainTitle {
 	color: black;
 	text-align: center;

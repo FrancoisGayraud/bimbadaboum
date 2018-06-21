@@ -1,6 +1,8 @@
 <Page class="body" loaded="loaded" actionBarHidden="true" xmlns="http://schemas.nativescript.org/tns.xsd" xmlns:dd="nativescript-drop-down">
   <ScrollView>
     <StackLayout class="container">
+      <Button text="Add photo" class="otherButton" tap="editPhoto" />
+      <Button src="{{ profilPic }}" text="select image" class="otherButton" tap="selectImage"/>
       <Image src="{{ profilPic }}" class="profilPic" tap="selectImage"/>
     	<label text="Votre ville" class="hint"></label>
     	<TextField class="inputArea" style="border-color: red;" id="city" hint="Votre ville" text="{{ city }}" autocorrect="false" autocapitalizationType="none"/>
