@@ -13,9 +13,13 @@
 	border-width: 3px;
 }
 
+.resizeImage{
+	width: 20%;
+}
 .inputArea {
 	width: 300vh;
 	margin-bottom: 30vh;
+	border-color:#b090FF;
 }
 
 .otherButton
@@ -47,6 +51,7 @@
 	font-weight: bold;
 	font-size: 12;
 	margin-left: 60vh;
+	margin-top: 20px;
 }
 
 .genderDropdown {

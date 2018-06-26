@@ -4,7 +4,7 @@
   <StackLayout orientation="vertical">
     <label text="BIMBADABOUM" class="mainTitle oldFashion"></label>
 
-    <Image src="~/icone-bimbadaboum-512x512px-white.png" class="resizeImage"/>
+    <Image src="~/ressources/icone-bimbadaboum-512x512px-white.png" class="resizeImage"/>
 
     <label text="Connexion" class="connexionText oldFashion"></label>
     <label text="Votre e-mail" class="hint arialRounded"></label>
