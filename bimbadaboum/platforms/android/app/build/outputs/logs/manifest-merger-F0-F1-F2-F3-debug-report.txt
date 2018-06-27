@@ -1,0 +1,374 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:3:2-40
+		INJECTED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/F0/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/F0/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/F0/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:cardview-v7:26.0.0] /Users/redleader/.android/build-cache/f5bbcff0ae277a2be6bd98f10ec11259a9f8cac7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.0.0] /Users/redleader/.android/build-cache/8746eb837220d11f826a9a24ae9df5b52300cd46/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.2.2] /Users/redleader/.android/build-cache/2ce25b824ba56e46ec1e26c31f314e75bcde392f/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/redleader/.android/build-cache/51d3df9e9cb1df8a1662e92645b9cf7ccb44119c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.2.2] /Users/redleader/.android/build-cache/7a3d8d2a1ebe105f9858e1949a000cf6be744306/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.2.2] /Users/redleader/.android/build-cache/4a40445b9bbd1d7470bb593b5512b0954b77ea8a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-auth:11.2.2] /Users/redleader/.android/build-cache/7d92f1441e0aefc0067951f89cd8008b43f23960/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.2.2] /Users/redleader/.android/build-cache/69ef652f1b57416ebfbfba28143cdcc99f192722/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.2.2] /Users/redleader/.android/build-cache/b6a34bbab2c4422f1dd3b6b66576af033b830d1e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.2.2] /Users/redleader/.android/build-cache/254c409c87f64a2f7747f6c5f135c06b8ec99537/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.2.2] /Users/redleader/.android/build-cache/49d35cf5aa56f4209c004d8f97201c2a1ab2de8d/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.2.2] /Users/redleader/.android/build-cache/14c926eb5153efaa96bcc599c0149775e1e215ce/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.2.2] /Users/redleader/.android/build-cache/bd0073b62f1ae5589ecbac8080b322657cb62ebc/output/AndroidManifest.xml:17:5-43
+MERGED from [:nativescript-optimized:] /Users/redleader/.android/build-cache/d89a79c114619909e6e47a40ce281ddc430337c5/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:firebase-release:] /Users/redleader/.android/build-cache/97f7787776b7138af7bfbe64efa6243bb3f6490b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Chart-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Common-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/0b758f4773e93c4b210a61fef24d616afe0680f1/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Data-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/f1d9ac06f24a9ee37de8805ceb0b630904319157/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Gauges-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/08f974c7ac7b1a3034673eabb9c41724361374cb/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Input-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:List-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/82c4bf272ea900f9d55cf4ade8faa1cc42f58235/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:Primitives-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/3a3ddc291ad40d4bfdcaf18568595dc5eb88f29d/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /Users/redleader/.android/build-cache/a4abf79a5c7a7f7942a0064d4a1b85e094c2e9da/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.0.0] /Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:multidex:1.0.1] /Users/redleader/.android/build-cache/833f46fbf27b0106af0938867161ccc346d14d1b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/redleader/.android/build-cache/7724b81a022024dbf71b39062809eb672614cedc/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/redleader/.android/build-cache/16e654955817ae4068b28969d4d7b6e071148695/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/redleader/.android/build-cache/cb37dd5719d78a95f96af286ef250a28d04a5442/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0] /Users/redleader/.android/build-cache/24580eee3058960ca4bc40aea7cb1ade64e9029b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0] /Users/redleader/.android/build-cache/acb21da33a5020ef0f771e632d0e5dbe21085246/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/redleader/.android/build-cache/8cc742d2a6add498e057012f8d365577d9d77be9/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/redleader/.android/build-cache/859e5bdc321b4bec083649b5a3e26a0fcae09393/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/redleader/.android/build-cache/753315f89718048277e48dc0d037014ccf0833be/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/redleader/.android/build-cache/7b30975f41d15b8733fa6b917e40506d84b1ad80/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0] /Users/redleader/.android/build-cache/67856d5e241e193faaf95297e06e69cf45816e30/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0] /Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/F0/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/F0/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+MERGED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:19:2-63
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/redleader/.android/build-cache/51d3df9e9cb1df8a1662e92645b9cf7ccb44119c/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:19:19-61
+application
+ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:cardview-v7:26.0.0] /Users/redleader/.android/build-cache/f5bbcff0ae277a2be6bd98f10ec11259a9f8cac7/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.0.0] /Users/redleader/.android/build-cache/8746eb837220d11f826a9a24ae9df5b52300cd46/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-core:11.2.2] /Users/redleader/.android/build-cache/2ce25b824ba56e46ec1e26c31f314e75bcde392f/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/redleader/.android/build-cache/51d3df9e9cb1df8a1662e92645b9cf7ccb44119c/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-auth:11.2.2] /Users/redleader/.android/build-cache/7d92f1441e0aefc0067951f89cd8008b43f23960/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.2.2] /Users/redleader/.android/build-cache/69ef652f1b57416ebfbfba28143cdcc99f192722/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-common:11.2.2] /Users/redleader/.android/build-cache/49d35cf5aa56f4209c004d8f97201c2a1ab2de8d/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.2.2] /Users/redleader/.android/build-cache/14c926eb5153efaa96bcc599c0149775e1e215ce/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.2.2] /Users/redleader/.android/build-cache/bd0073b62f1ae5589ecbac8080b322657cb62ebc/output/AndroidManifest.xml:19:5-21:19
+MERGED from [:firebase-release:] /Users/redleader/.android/build-cache/97f7787776b7138af7bfbe64efa6243bb3f6490b/output/AndroidManifest.xml:11:5-22:19
+MERGED from [:Chart-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/AndroidManifest.xml:11:5-12:19
+MERGED from [:Common-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/0b758f4773e93c4b210a61fef24d616afe0680f1/output/AndroidManifest.xml:11:5-12:19
+MERGED from [:Data-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/f1d9ac06f24a9ee37de8805ceb0b630904319157/output/AndroidManifest.xml:11:5-12:19
+MERGED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:11:5-32:19
+MERGED from [:Gauges-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/08f974c7ac7b1a3034673eabb9c41724361374cb/output/AndroidManifest.xml:11:5-12:19
+MERGED from [:Input-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/AndroidManifest.xml:11:5-12:19
+MERGED from [:List-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/82c4bf272ea900f9d55cf4ade8faa1cc42f58235/output/AndroidManifest.xml:11:5-12:19
+MERGED from [:Primitives-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/3a3ddc291ad40d4bfdcaf18568595dc5eb88f29d/output/AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] /Users/redleader/.android/build-cache/a4abf79a5c7a7f7942a0064d4a1b85e094c2e9da/output/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:26.0.0] /Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/redleader/.android/build-cache/7724b81a022024dbf71b39062809eb672614cedc/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/redleader/.android/build-cache/16e654955817ae4068b28969d4d7b6e071148695/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/redleader/.android/build-cache/cb37dd5719d78a95f96af286ef250a28d04a5442/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.0] /Users/redleader/.android/build-cache/24580eee3058960ca4bc40aea7cb1ade64e9029b/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.0] /Users/redleader/.android/build-cache/acb21da33a5020ef0f771e632d0e5dbe21085246/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/redleader/.android/build-cache/8cc742d2a6add498e057012f8d365577d9d77be9/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/redleader/.android/build-cache/859e5bdc321b4bec083649b5a3e26a0fcae09393/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/redleader/.android/build-cache/753315f89718048277e48dc0d037014ccf0833be/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/redleader/.android/build-cache/7b30975f41d15b8733fa6b917e40506d84b1ad80/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.0] /Users/redleader/.android/build-cache/67856d5e241e193faaf95297e06e69cf45816e30/output/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:25:3-35
+	android:allowBackup
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:23:3-29
+	android:icon
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:24:3-32
+	android:theme
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:34:15-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from /Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/AndroidManifest.xml:41:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.0.0] /Users/redleader/.android/build-cache/f5bbcff0ae277a2be6bd98f10ec11259a9f8cac7/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:customtabs:26.0.0] /Users/redleader/.android/build-cache/8746eb837220d11f826a9a24ae9df5b52300cd46/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:design:26.0.0] /Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.0] /Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.0] /Users/redleader/.android/build-cache/7724b81a022024dbf71b39062809eb672614cedc/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.0] /Users/redleader/.android/build-cache/16e654955817ae4068b28969d4d7b6e071148695/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.0] /Users/redleader/.android/build-cache/cb37dd5719d78a95f96af286ef250a28d04a5442/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.0] /Users/redleader/.android/build-cache/24580eee3058960ca4bc40aea7cb1ade64e9029b/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.0] /Users/redleader/.android/build-cache/acb21da33a5020ef0f771e632d0e5dbe21085246/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.0] /Users/redleader/.android/build-cache/8cc742d2a6add498e057012f8d365577d9d77be9/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.0] /Users/redleader/.android/build-cache/859e5bdc321b4bec083649b5a3e26a0fcae09393/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.0] /Users/redleader/.android/build-cache/753315f89718048277e48dc0d037014ccf0833be/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.0] /Users/redleader/.android/build-cache/7b30975f41d15b8733fa6b917e40506d84b1ad80/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.0] /Users/redleader/.android/build-cache/67856d5e241e193faaf95297e06e69cf45816e30/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.0.0] /Users/redleader/.android/build-cache/f5bbcff0ae277a2be6bd98f10ec11259a9f8cac7/output/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.0.0] /Users/redleader/.android/build-cache/f5bbcff0ae277a2be6bd98f10ec11259a9f8cac7/output/AndroidManifest.xml:24:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/redleader/.android/build-cache/51d3df9e9cb1df8a1662e92645b9cf7ccb44119c/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/redleader/.android/build-cache/51d3df9e9cb1df8a1662e92645b9cf7ccb44119c/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/redleader/.android/build-cache/51d3df9e9cb1df8a1662e92645b9cf7ccb44119c/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] /Users/redleader/.android/build-cache/51d3df9e9cb1df8a1662e92645b9cf7ccb44119c/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] /Users/redleader/.android/build-cache/625bcb7a49c9393a58e0417c3491a9dcfa43c482/output/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] /Users/redleader/.android/build-cache/d132f941b532cb12735b08c8e708d9a64837ed59/output/AndroidManifest.xml:45:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.2.2] /Users/redleader/.android/build-cache/69ef652f1b57416ebfbfba28143cdcc99f192722/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.2.2] /Users/redleader/.android/build-cache/69ef652f1b57416ebfbfba28143cdcc99f192722/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.2.2] /Users/redleader/.android/build-cache/69ef652f1b57416ebfbfba28143cdcc99f192722/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.2.2] /Users/redleader/.android/build-cache/69ef652f1b57416ebfbfba28143cdcc99f192722/output/AndroidManifest.xml:19:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.2.2] /Users/redleader/.android/build-cache/49d35cf5aa56f4209c004d8f97201c2a1ab2de8d/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.2.2] /Users/redleader/.android/build-cache/49d35cf5aa56f4209c004d8f97201c2a1ab2de8d/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.2.2] /Users/redleader/.android/build-cache/49d35cf5aa56f4209c004d8f97201c2a1ab2de8d/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.2.2] /Users/redleader/.android/build-cache/49d35cf5aa56f4209c004d8f97201c2a1ab2de8d/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.2.2] /Users/redleader/.android/build-cache/49d35cf5aa56f4209c004d8f97201c2a1ab2de8d/output/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.2.2] /Users/redleader/.android/build-cache/bd0073b62f1ae5589ecbac8080b322657cb62ebc/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.2.2] /Users/redleader/.android/build-cache/bd0073b62f1ae5589ecbac8080b322657cb62ebc/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.2.2] /Users/redleader/.android/build-cache/bd0073b62f1ae5589ecbac8080b322657cb62ebc/output/AndroidManifest.xml:20:20-65
+service#org.nativescript.plugins.firebase.MyFirebaseMessagingService
+ADDED from [:firebase-release:] /Users/redleader/.android/build-cache/97f7787776b7138af7bfbe64efa6243bb3f6490b/output/AndroidManifest.xml:12:9-16:19
+	android:name
+		ADDED from [:firebase-release:] /Users/redleader/.android/build-cache/97f7787776b7138af7bfbe64efa6243bb3f6490b/output/AndroidManifest.xml:12:18-93
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase-release:] /Users/redleader/.android/build-cache/97f7787776b7138af7bfbe64efa6243bb3f6490b/output/AndroidManifest.xml:13:13-15:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase-release:] /Users/redleader/.android/build-cache/97f7787776b7138af7bfbe64efa6243bb3f6490b/output/AndroidManifest.xml:14:17-78
+	android:name
+		ADDED from [:firebase-release:] /Users/redleader/.android/build-cache/97f7787776b7138af7bfbe64efa6243bb3f6490b/output/AndroidManifest.xml:14:25-75
+service#org.nativescript.plugins.firebase.MyFirebaseInstanceIDService
+ADDED from [:firebase-release:] /Users/redleader/.android/build-cache/97f7787776b7138af7bfbe64efa6243bb3f6490b/output/AndroidManifest.xml:17:9-21:19
+	android:name
+		ADDED from [:firebase-release:] /Users/redleader/.android/build-cache/97f7787776b7138af7bfbe64efa6243bb3f6490b/output/AndroidManifest.xml:17:18-94
+activity#com.telerik.widget.feedback.SendFeedbackActivity
+ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:12:9-16:20
+	android:label
+		ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:14:13-65
+	android:theme
+		ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:15:13-50
+	android:name
+		ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:13:13-76
+activity#com.telerik.widget.feedback.ViewFeedbackActivity
+ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:17:9-21:20
+	android:label
+		ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:19:13-65
+	android:theme
+		ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:20:13-50
+	android:name
+		ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:18:13-76
+activity#com.telerik.widget.feedback.ViewFeedbackItemActivity
+ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:22:9-26:20
+	android:label
+		ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:24:13-65
+	android:theme
+		ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:25:13-50
+	android:name
+		ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:23:13-80
+activity#com.telerik.widget.feedback.EditDetailsActivity
+ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:27:9-31:20
+	android:label
+		ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:29:13-64
+	android:theme
+		ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:30:13-50
+	android:name
+		ADDED from [:Feedback-2017.1.1030-dev-release:] /Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/AndroidManifest.xml:28:13-75

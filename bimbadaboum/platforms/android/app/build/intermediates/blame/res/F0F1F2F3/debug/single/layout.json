@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_editor_layout_2.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_editor_layout_2.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_list_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_list_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_time_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_time_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_segmented_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_segmented_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_spinner_item.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_list_editor_item.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_list_editor_item.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_editor_layout_1.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_editor_layout_1.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_checkbox_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_checkbox_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/on_demand_automatic.xml",
+        "source": "/Users/redleader/.android/build-cache/82c4bf272ea900f9d55cf4ade8faa1cc42f58235/output/res/layout/on_demand_automatic.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/activity_send_feedback.xml",
+        "source": "/Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/res/layout/activity_send_feedback.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/feedback_comment.xml",
+        "source": "/Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/res/layout/feedback_comment.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/legend_item_view.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/layout/legend_item_view.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/activity_view_feedback_item.xml",
+        "source": "/Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/res/layout/activity_view_feedback_item.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_linear_layout.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_linear_layout.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/logcat_tab.xml",
+        "source": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/debug/res/layout/logcat_tab.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/default_tooltip_content.xml",
+        "source": "/Users/redleader/.android/build-cache/3a3ddc291ad40d4bfdcaf18568595dc5eb88f29d/output/res/layout/default_tooltip_content.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_editor_header_layout_3.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_editor_header_layout_3.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_text_viewer.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_text_viewer.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/feedback_indicator.xml",
+        "source": "/Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/res/layout/feedback_indicator.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_radio_group_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_radio_group_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/tooltip.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/main_menu_content.xml",
+        "source": "/Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/res/layout/main_menu_content.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/default_tooltip_scatter_content.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/layout/default_tooltip_scatter_content.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/navigation_item_view.xml",
+        "source": "/Users/redleader/.android/build-cache/3a3ddc291ad40d4bfdcaf18568595dc5eb88f29d/output/res/layout/navigation_item_view.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_seek_bar_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_seek_bar_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/activity_view_feedback.xml",
+        "source": "/Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/res/layout/activity_view_feedback.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/exception_tab.xml",
+        "source": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/debug/res/layout/exception_tab.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/popup_edit_details.xml",
+        "source": "/Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/res/layout/popup_edit_details.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/notification_action.xml",
+        "source": "/Users/redleader/.android/build-cache/67856d5e241e193faaf95297e06e69cf45816e30/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/calendar_all_day_event_view.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/calendar_all_day_event_view.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_editor_header_layout_1.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_editor_header_layout_1.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_default_group_layout.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_default_group_layout.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/list_progress_indicator.xml",
+        "source": "/Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/res/layout/list_progress_indicator.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/default_trackball_content.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/layout/default_trackball_content.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/tab_item_view.xml",
+        "source": "/Users/redleader/.android/build-cache/3a3ddc291ad40d4bfdcaf18568595dc5eb88f29d/output/res/layout/tab_item_view.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_number_picker.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_number_picker.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/design_navigation_item.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/notification_media_action.xml",
+        "source": "/Users/redleader/.android/build-cache/8cc742d2a6add498e057012f8d365577d9d77be9/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_integer_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_integer_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_autocomplete_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_autocomplete_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/calendar_day_event_view.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/calendar_day_event_view.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/range_trackball_item_content.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/layout/range_trackball_item_content.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/redleader/.android/build-cache/8cc742d2a6add498e057012f8d365577d9d77be9/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/drawer_blur_fade_layer.xml",
+        "source": "/Users/redleader/.android/build-cache/3a3ddc291ad40d4bfdcaf18568595dc5eb88f29d/output/res/layout/drawer_blur_fade_layer.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/redleader/.android/build-cache/67856d5e241e193faaf95297e06e69cf45816e30/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/default_tooltip_ohlc_content.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/layout/default_tooltip_ohlc_content.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/trial_message.xml",
+        "source": "/Users/redleader/.android/build-cache/0b758f4773e93c4b210a61fef24d616afe0680f1/output/res/layout/trial_message.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_toggle_button_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_toggle_button_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_search_view.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/redleader/.android/build-cache/8cc742d2a6add498e057012f8d365577d9d77be9/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_group_layout.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_group_layout.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/simple_group_header_item.xml",
+        "source": "/Users/redleader/.android/build-cache/82c4bf272ea900f9d55cf4ade8faa1cc42f58235/output/res/layout/simple_group_header_item.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_text_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_text_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/navigation_drawer_content.xml",
+        "source": "/Users/redleader/.android/build-cache/3a3ddc291ad40d4bfdcaf18568595dc5eb88f29d/output/res/layout/navigation_drawer_content.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/default_tooltip_scatter_bubble_content.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/layout/default_tooltip_scatter_bubble_content.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/number_picker.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/number_picker.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/redleader/.android/build-cache/8cc742d2a6add498e057012f8d365577d9d77be9/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/suggestion_item_layout.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/suggestion_item_layout.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_switch_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_switch_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/popup_event.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/popup_event.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_root_layout.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_root_layout.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_label_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_label_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_spinner_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_spinner_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/main_menu_list_item.xml",
+        "source": "/Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/res/layout/main_menu_list_item.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_rad_autocomplete_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_rad_autocomplete_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/redleader/.android/build-cache/67856d5e241e193faaf95297e06e69cf45816e30/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_expandable_group_layout.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_expandable_group_layout.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/token.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/token.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/redleader/.android/build-cache/8cc742d2a6add498e057012f8d365577d9d77be9/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/tooltip_container.xml",
+        "source": "/Users/redleader/.android/build-cache/3a3ddc291ad40d4bfdcaf18568595dc5eb88f29d/output/res/layout/tooltip_container.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/feedback_item.xml",
+        "source": "/Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/res/layout/feedback_item.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/redleader/.android/build-cache/8cc742d2a6add498e057012f8d365577d9d77be9/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/notification_template_media.xml",
+        "source": "/Users/redleader/.android/build-cache/8cc742d2a6add498e057012f8d365577d9d77be9/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/activity_edit_details.xml",
+        "source": "/Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/res/layout/activity_edit_details.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/default_trackball_item_content.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/layout/default_trackball_item_content.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/redleader/.android/build-cache/67856d5e241e193faaf95297e06e69cf45816e30/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/redleader/.android/build-cache/8cc742d2a6add498e057012f8d365577d9d77be9/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/radchartbase.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/layout/radchartbase.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_date_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_date_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_decimal_editor.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_decimal_editor.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/inline_event.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/inline_event.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/simple_empty_content.xml",
+        "source": "/Users/redleader/.android/build-cache/82c4bf272ea900f9d55cf4ade8faa1cc42f58235/output/res/layout/simple_empty_content.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_editor_header_layout_2.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_editor_header_layout_2.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/radlegendcontrol.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/layout/radlegendcontrol.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/fragment_feedback_items.xml",
+        "source": "/Users/redleader/.android/build-cache/37ab070a59ce3f84fc899363d987385bbce23568/output/res/layout/fragment_feedback_items.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/ohlc_trackball_item_content.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/layout/ohlc_trackball_item_content.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/trackball_container.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/layout/trackball_container.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/redleader/.android/build-cache/67856d5e241e193faaf95297e06e69cf45816e30/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_editor_layout_3.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_editor_layout_3.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/redleader/.android/build-cache/8cc742d2a6add498e057012f8d365577d9d77be9/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/data_form_editor_validation_layout_1.xml",
+        "source": "/Users/redleader/.android/build-cache/41ccdc942c3824712f52fd7e47ee495909b6d379/output/res/layout/data_form_editor_validation_layout_1.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/layout/error_activity.xml",
+        "source": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/debug/res/layout/error_activity.xml"
+    }
+]

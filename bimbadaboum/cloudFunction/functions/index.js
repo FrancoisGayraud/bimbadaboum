@@ -40,26 +40,37 @@ function matchingAlgorithm(user, searchingGender, gender) {
 
 exports.searchingListner = functions.database.ref('/users/{user}/searching')
 .onWrite(event => {
-  const original = event.data.val();
   const user = event.params.user;
-  var searchingGender;
-  var gender;
+  var searchingMale;
+  var isMale;
+  var mail;
 
-  console.log("user : " + user + " - original : ", original);
     return admin.database().ref('/users/' + user)
       .once('value').then(snapshot => {
-        if (original == true) {
-          admin.database().ref('/users/').orderByChild("searching").equalTo(true).on("child_added", function(snapshot) {
-            console.log(snapshot.key + " " + snapshot.val().searching);
-            console.log("QUERY");
+        searchingMale = snapshot.child("searchMale").val();
+        isMale = snapshot.child("isMale").val();
+        mail = snapshot.child("mail").val();
+
+        return admin.database().ref('/users/').orderByChild("searching").equalTo(true).once("value", function(snapshot) {
+          snapshot.forEach(function(snapshot) {
+            if (snapshot.child("mail").val() !== mail)
+              if (searchingMale === snapshot.child("isMale").val() && isMale === snapshot.child("searchMale").val()) {
+                console.log("it's a match " + mail);
+                var chatroom = snapshot.key + user;
+                admin.database().ref('/users/' + snapshot.key).update({'searching' : false});
+                admin.database().ref('/users/' + user).update({'searching' : false});
+                admin.database().ref('/users/' + snapshot.key).update({'currentChat' : chatroom});
+                admin.database().ref('/users/' + user).update({'currentChat' : chatroom});
+                admin.database().ref('/chats/' + chatroom).update({'firstMember' : snapshot.key});
+                admin.database().ref('/chats/' + chatroom).update({'secondMember' : user});
+                admin.database().ref('/chats/' + chatroom).update({'count' : 0});
+                admin.database().ref('/chats/' + chatroom).update({'name' : chatroom});
+              }
           });
-          console.log("searchMale ? -> " + snapshot.child("searchMale").val());
-          console.log("isMale ? -> " + snapshot.child("isMale").val());
-          searchingGender = snapshot.child("searchMale").val();
-          gender = snapshot.child("isMale").val();
+        });
         //  matchingAlgorithm(user, searchingGender, gender);
-        }
-      /*  else if (original == false) {
+
+        /*  else if (original == false) {
           var pos;
           for (var i = 0; i < searchingPeople.length; i += 1) {
             if (searchingPeople[i][0] == user)

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/xml/provider_paths.xml",
+        "source": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/F0/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/xml/chart_palettes_default_dark.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/xml/chart_palettes_default_dark.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/xml/chart_palettes_default_light.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/xml/chart_palettes_default_light.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/xml/chart_palettes_dark_selected.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/xml/chart_palettes_dark_selected.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/xml/chart_palettes_light_selected.xml",
+        "source": "/Users/redleader/.android/build-cache/02b422109dcbb5d163dd9f71c4e5b1eeb2be0d24/output/res/xml/chart_palettes_light_selected.xml"
+    }
+]

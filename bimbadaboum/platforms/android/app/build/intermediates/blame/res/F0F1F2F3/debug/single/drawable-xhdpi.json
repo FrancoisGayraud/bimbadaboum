@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi/logo.png",
+        "source": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/res/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi/icon.png",
+        "source": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/res/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/drawable-xhdpi/background.png",
+        "source": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/src/main/res/drawable-xhdpi/background.png"
+    }
+]

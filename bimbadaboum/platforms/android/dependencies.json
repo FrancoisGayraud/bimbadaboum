@@ -1,0 +1,62 @@
+[
+    {
+        "name": "nativescript-camera",
+        "directory": "../../node_modules/nativescript-camera"
+    },
+    {
+        "name": "nativescript-chatview",
+        "directory": "../../node_modules/nativescript-chatview"
+    },
+    {
+        "name": "nativescript-checkbox",
+        "directory": "../../node_modules/nativescript-checkbox"
+    },
+    {
+        "name": "nativescript-drop-down",
+        "directory": "../../node_modules/nativescript-drop-down"
+    },
+    {
+        "name": "nativescript-imagepicker",
+        "directory": "../../node_modules/nativescript-imagepicker"
+    },
+    {
+        "name": "nativescript-keyboardshowing",
+        "directory": "../../node_modules/nativescript-keyboardshowing"
+    },
+    {
+        "name": "nativescript-loading-indicator",
+        "directory": "../../node_modules/nativescript-loading-indicator"
+    },
+    {
+        "name": "nativescript-plugin-firebase",
+        "directory": "../../node_modules/nativescript-plugin-firebase"
+    },
+    {
+        "name": "nativescript-radiobutton",
+        "directory": "../../node_modules/nativescript-radiobutton"
+    },
+    {
+        "name": "nativescript-statusbar",
+        "directory": "../../node_modules/nativescript-statusbar"
+    },
+    {
+        "name": "nativescript-theme-core",
+        "directory": "../../node_modules/nativescript-theme-core"
+    },
+    {
+        "name": "tns-core-modules",
+        "directory": "../../node_modules/tns-core-modules"
+    },
+    {
+        "name": "nativescript-permissions",
+        "directory": "../../node_modules/nativescript-permissions"
+    },
+    {
+        "name": "nativescript-pro-ui",
+        "directory": "../../node_modules/nativescript-pro-ui"
+    },
+    {
+        "name": "tns-core-modules-widgets",
+        "directory": "../../node_modules/tns-core-modules-widgets"
+    }
+]

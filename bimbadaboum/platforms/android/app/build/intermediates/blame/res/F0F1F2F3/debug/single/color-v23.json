@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/redleader/.android/build-cache/e9d8ac28175d742e2a086ca7183cd6afe8ac203a/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/redleader/.android/build-cache/64cb6abc7bc1676538a3aa9b7f98c62c48b576ba/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/redleader/Projects/bimbadaboum/bimbadaboum/platforms/android/app/build/intermediates/res/merged/F0F1F2F3/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/redleader/.android/build-cache/f4719e5b590528bbd94bf9cf21d3806252b7c8e9/output/res/color-v23/abc_tint_default.xml"
+    }
+]

@@ -1,0 +1,42 @@
+{
+  "_from": "tns-android@3.4.3",
+  "_id": "tns-android@3.4.3",
+  "_inBundle": false,
+  "_integrity": "sha1-vF33I8G7wrdBXR5XSF52eWO925I=",
+  "_location": "/tns-android",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "tns-android@3.4.3",
+    "name": "tns-android",
+    "escapedName": "tns-android",
+    "rawSpec": "3.4.3",
+    "saveSpec": null,
+    "fetchSpec": "3.4.3"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tns-android/-/tns-android-3.4.3.tgz",
+  "_shasum": "bc5df723c1bbc2b7415d1e57485e767963bddb92",
+  "_spec": "tns-android@3.4.3",
+  "_where": "/Users/redleader/Projects/bimbadaboum/bimbadaboum",
+  "bugs": {
+    "url": "https://github.com/NativeScript/android-runtime/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "NativeScript Runtime for Android",
+  "files": [
+    "**/*"
+  ],
+  "homepage": "https://github.com/NativeScript/android-runtime#readme",
+  "name": "tns-android",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativeScript/android-runtime.git"
+  },
+  "version": "3.4.3"
+}
