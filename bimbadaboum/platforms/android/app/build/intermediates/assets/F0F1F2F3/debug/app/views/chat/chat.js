@@ -64,6 +64,10 @@ exports.onNavigatingTo = function(args) {
           if (!oldMessageQuery) {
             oldMessageQuery = true;
             count = result.value[currentChat].count;
+            console.log(currentChat)
+            console.log(currentChat)
+            console.log(currentChat)
+            console.log("OLD MESSAGE QUERRYYYYYYy" + JSON.stringify(result.value[currentChat].messages))
             displayOldConversation(result.value[currentChat].messages, result.value[currentChat].count, chatView);
           }
         }
@@ -102,8 +106,15 @@ exports.onNavigatingTo = function(args) {
           }
 
     var onChildEvent = function (result) {
+      console.log("ONCHILDEVENT KQLJSLQSMD");
       console.log(JSON.stringify(result));
-         };
+      chatView.appendMessages({
+        date: "27/06/2018",
+        isRight: false,
+        message: result.value.message,
+        image: null
+      });
+    };
 
     firebase.addChildEventListener(onChildEvent, "/chats/" + currentChat + "/messages").then(
         function (result) {

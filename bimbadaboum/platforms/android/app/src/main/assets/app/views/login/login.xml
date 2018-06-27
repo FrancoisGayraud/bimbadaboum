@@ -1,7 +1,11 @@
 <Page loaded="loaded" actionBarHidden="true" class="body">
 
+<ScrollView>
   <StackLayout orientation="vertical">
     <label text="BIMBADABOUM" class="mainTitle oldFashion"></label>
+
+    <Image src="~/ressources/icone-bimbadaboum-512x512px-white.png" class="resizeImage"/>
+
     <label text="Connexion" class="connexionText oldFashion"></label>
     <label text="Votre e-mail" class="hint arialRounded"></label>
 
@@ -15,4 +19,5 @@
     <Button text="Pas encore inscrit ?" class="signUp arialRounded" tap="register"/>
 
   </StackLayout>
+  </ScrollView>
 </Page>

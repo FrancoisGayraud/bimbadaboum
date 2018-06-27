@@ -110,6 +110,7 @@ exports.searchMatch = async function () {
   {
     'searching' : true
   });
+  matchLoader = new LoadingIndicator();
   matchLoader.show(optionsMatch);
   find = false;
   while (!find)

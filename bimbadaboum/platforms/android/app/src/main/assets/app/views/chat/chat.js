@@ -109,7 +109,7 @@ exports.onNavigatingTo = function(args) {
       console.log("ONCHILDEVENT KQLJSLQSMD");
       console.log(JSON.stringify(result));
       chatView.appendMessages({
-        date: "12/12/2018",
+        date: "27/06/2018",
         isRight: false,
         message: result.value.message,
         image: null
